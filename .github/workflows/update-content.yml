@@ -8,7 +8,7 @@ on:
 jobs:
   update_vault_content:
     runs-on: ubuntu-latest
-    steps:
+    steps:    
       - name: Clone mikantlin/journey-wreathed-in-ash-private
         uses: actions/checkout@v4.2.2
         with:
@@ -22,19 +22,22 @@ jobs:
         with:
           ref: v4
           token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-          path: quartz-journey-wreathed-in-ash
+          path: journey-wreathed-in-ash-quartz
 
-      - name: Set up node and npm versions
+      - name: Node.js setup
         uses: actions/setup-node@v4
         with:
           node-version: '22.x'
-      - run: |
+          cache: 'npm'
+          cache-dependency-path: 'journey-wreathed-in-ash-quartz/package-lock.json'
+      - name: Install dependencies
+        run: |
           npm ci
           npm test
 
       - name: Delete everything in content/ except index.md
         run: |
-          cd quartz-journey-wreathed-in-ash
+          cd journey-wreathed-in-ash-quartz
           mv content/index.md .
           rm -rf content
           mkdir content
@@ -44,21 +47,21 @@ jobs:
         run: |
           cd journey-wreathed-in-ash-private
           echo "----- Copying over public-only attachments"
-          cp -vr _attachments ../quartz-journey-wreathed-in-ash/content
+          cp -vr _attachments ../journey-wreathed-in-ash-quartz/content
           echo -e "\n----- Copying over Markdown files"
-          cp -vr campaign_notes/. ../quartz-journey-wreathed-in-ash/content
-          cd ../quartz-journey-wreathed-in-ash/content
+          cp -vr campaign_notes/. ../journey-wreathed-in-ash-quartz/content
+          cd ../journey-wreathed-in-ash-quartz/content
           mv _attachments _files
         # ^ Include this last line if you want to rename your public folder
 
       - name: Print out current state of filesystem
         run: |
-          echo "----- Folder: quartz-journey-wreathed-in-ash/"
-          cd quartz-journey-wreathed-in-ash
+          echo "----- Folder: journey-wreathed-in-ash-quartz/"
+          cd journey-wreathed-in-ash-quartz
           ls | cat
-          echo -e "\n----- Folder: quartz-journey-wreathed-in-ash/content/"
+          echo -e "\n----- Folder: journey-wreathed-in-ash-quartz/content/"
           ls content | cat
-          echo -e "\n----- Folder: quartz-journey-wreathed-in-ash/content/_files"
+          echo -e "\n----- Folder: journey-wreathed-in-ash-quartz/content/_files"
           ls content/_files | cat
         # ^ NOTE: this uses the renamed folder name from above
 
@@ -69,5 +72,5 @@ jobs:
 
       - name: Sync Quartz repo
         run: |
-          cd quartz-journey-wreathed-in-ash
+          cd journey-wreathed-in-ash-quartz
           npx quartz sync
