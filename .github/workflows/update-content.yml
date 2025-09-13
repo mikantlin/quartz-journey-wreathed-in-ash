@@ -27,8 +27,7 @@ jobs:
       - name: Set up node and npm versions
         uses: actions/setup-node@v4
         with:
-          node-version-file: './quartz-journey-wreathed-in-ash/package.json'
-          check-latest: true
+          node-version: '22.x'
       - run: |
           npm ci
           npm test
