@@ -1,0 +1,69 @@
+name: Update vault content
+
+on:
+  repository_dispatch:
+    types: vault-updated
+
+jobs:
+  update_vault_content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone mikantlin/journey-wreathed-in-ash-private
+        uses: actions/checkout@v4.2.2
+        with:
+          repository: "mikantlin/journey-wreathed-in-ash-private"
+          ref: master
+          token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+          path: journey-wreathed-in-ash-private
+
+      - name: Clone this repo
+        uses: actions/checkout@v4.2.2
+        with:
+          ref: v4
+          token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+          path: quartz-journey-wreathed-in-ash
+
+      - name: Delete everything in content/ except index.md
+        run: |
+          cd quartz-journey-wreathed-in-ash
+          mv content/index.md .
+          rm -rf content
+          mkdir content
+          mv index.md content
+
+      - name: Copy over media and files
+        run: |
+          cd journey-wreathed-in-ash-private
+          echo "----- Copying over public-only attachments"
+          cp -vr /_attachments ../quartz-journey-wreathed-in-ash/content
+          echo -e "\n----- Copying over Markdown files"
+          cp -vr /campaign_notes ../quartz-journey-wreathed-in-ash/content
+          cd ../quartz-journey-wreathed-in-ash/content
+          mv _attachments _files
+        # ^ Include this last line if you want to rename your public folder
+
+      - name: Print out current state of filesystem
+        run: |
+          echo "----- Folder: quartz-journey-wreathed-in-ash/"
+          cd quartz-journey-wreathed-in-ash
+          ls | cat
+          echo -e "\n----- Folder: quartz-journey-wreathed-in-ash/content/"
+          ls content | cat
+          echo -e "\n----- Folder: quartz-journey-wreathed-in-ash/content/_files"
+          ls content/_files | cat
+        # ^ NOTE: this uses the renamed folder name from above
+
+      - name: Install dependencies
+        run: |
+          cd quartz-journey-wreathed-in-ash
+          npm i
+
+      - name: Setup Git config (user and email), necessary for commits
+        run: |
+          git config --global user.name "Porter Robinson"
+          git config --global user.email "hello@example.com"
+
+      - name: Sync Quartz repo
+        run: |
+          cd quartz-journey-wreathed-in-ash
+          npx quartz sync
