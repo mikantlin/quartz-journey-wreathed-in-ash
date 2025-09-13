@@ -23,6 +23,15 @@ jobs:
           token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
           path: quartz-journey-wreathed-in-ash
 
+      - name: Set up node and npm versions
+        uses: actions/setup-node@v4
+        with:
+          node-version: '16'
+          check-latest: true
+      - run: |
+          npm ci
+          npm test
+
       - name: Delete everything in content/ except index.md
         run: |
           cd quartz-journey-wreathed-in-ash
