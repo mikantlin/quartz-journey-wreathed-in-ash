@@ -3,6 +3,7 @@ name: Update vault content
 on:
   repository_dispatch:
     types: vault-updated
+  workflow_dispatch:
 
 jobs:
   update_vault_content:
