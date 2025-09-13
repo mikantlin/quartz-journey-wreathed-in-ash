@@ -30,7 +30,6 @@ jobs:
           node-version-file: 'package.json'
           check-latest: true
       - run: |
-          cd quartz-journey-wreathed-in-ash
           npm ci
           npm test
 
