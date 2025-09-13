@@ -27,7 +27,7 @@ jobs:
       - name: Set up node and npm versions
         uses: actions/setup-node@v4
         with:
-          node-version: '16'
+          node-version-file: 'package.json'
           check-latest: true
       - run: |
           cd quartz-journey-wreathed-in-ash
