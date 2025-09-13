@@ -35,9 +35,9 @@ jobs:
         run: |
           cd journey-wreathed-in-ash-private
           echo "----- Copying over public-only attachments"
-          cp -vr /_attachments ../quartz-journey-wreathed-in-ash/content
+          cp -vr _attachments ../quartz-journey-wreathed-in-ash/content
           echo -e "\n----- Copying over Markdown files"
-          cp -vr /campaign_notes ../quartz-journey-wreathed-in-ash/content
+          cp -vr campaign_notes/. ../quartz-journey-wreathed-in-ash/content
           cd ../quartz-journey-wreathed-in-ash/content
           mv _attachments _files
         # ^ Include this last line if you want to rename your public folder
