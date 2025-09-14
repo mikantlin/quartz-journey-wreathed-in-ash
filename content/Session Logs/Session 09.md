@@ -8,18 +8,10 @@ session-date: 2025-09-11
 players-missing:
 tags:
   - session
-updated: 2025-09-14T09:15:08+12:00
+updated: 2025-09-14T13:35:11+12:00
 created: 2025-09-13T12:32:00+12:00
 ---
 # Previous Session Recap
-# TL;DR
-- Ravaria broke her contract with Mr Storyteller
-- Martyn exploded and almost killed all of us, leaving most of us mutated in some way
-- We found a village under attack by Strahd's undead, and agreed to help defend the town for the next night
-- We went shopping at the crazy blacksmith
-
-^session-09-tldr
-
 # What Happened?
 ## A Warlock and a Cleric
 - Gun raises to [[Ravaria]]'s temple and fires, killing her
@@ -53,7 +45,21 @@ created: 2025-09-13T12:32:00+12:00
 - We head down the mountain and stumble across a corpse, who died of a heart attack a few days before. Dirge casts Speak with Dead and we learn that the man is from a village nearby that has been under attack. We also spot a tree with thirteen marks carved into it pointing into the forests. Arran gets his familiar owl to follow the signs and finds a dead horse before the signs disappear into a mysterious fog.
 - As we head towards where the corpse pointed, we see a heavily fortified and welcoming village in the fog, but it vanishes as we near and reveals a smaller village further away. Probably more of Strahd's fuckery!
 ## The Past Returns
-- We arrive at [[Nomduhr]] where the guards believe us to be undead, but the mayor of the town calls them off. He introduces himself as [[Ismark the Lesser|Ismark]] and explains the situation once he sees we travel with an Inquisitor of Alucard: undead hordes have attacked their town every night for the past six days, and that they are trapped between them and the fogs that surround the village.
+- We arrive at [[Nomduhr]] where the guards believe us to be undead, but the mayor of the town calls them off. He introduces himself as [[Ismark the Lesser|Ismark]] and explains the situation once he sees we travel with an Inquisitor of [[Alucard]]: undead hordes have attacked their town every night for the past six days, and that they are trapped between them and the fogs that surround the village. They used to have ten inquisitors themselves, but the attacks have whittled them down to just two - obviously our Dirge is built different
 - Ismark asks to get a better look at us all - It's incredibly awkward due to our collected mutations, but thankfully Ravaria eases the tension by having assassinated his father when she was 8 years old. He demands a duel after tonight's attack to settle their grievances but Ravaria initially refuses. The party point out that this is a chance to become a better person as she claimed to want, so she eventually (and reluctantly) accepts
-- We're lead to the [[Blood of the Vine Tavern]] in the center of town. Ismark explains that he brought his people here to continue his father's work to end the slavery of his people under the hand of Strahd. He mentions that a man named [[Doru]] led a raid against Strahd three months ago, and that he may be related to the attacks in some way, although Strahd may just be playing with them like a cat does with a mouse. They 
-- A man at another table says that Ismark will get more people killed, and that we're fools for even listening to him. He spits at Ismark's feet as he goes. The man is the local blacksmith [[Cantimere]] and Ismark's 'rival', believing the mayor to not be strong enough to keep his people safe, and Ismark fears he may be right.
+- We're lead to the [[Blood of the Vine Tavern]] in the centre of town. Ismark explains that he brought his people here to continue his father's work to end the slavery of his people under the hand of Strahd. He mentions that a man named [[Doru]] led a raid against Strahd three months ago, and that he may be related to the attacks in some way, although Strahd may just be playing with them like a cat does with a mouse
+- A man at another table says that Ismark will just be getting more people killed, and that we're fools for even listening to him. He spits at Ismark's feet as he goes. The man is the local blacksmith [[Cantimere]] and Ismark's 'rival', believing the mayor to not be strong enough to keep his people safe, and Ismark fears he may be right
+- A woman in tears approaches us and Ismark, asking us to help find her 12-year-old daughter [[Gertruda]] who had vanished yesterday. Ismark quietly lets us know that the woman is [[Mad Mary]], who lost her mind when her (actually) 22-year-old daughter left [[Nomduhr]] a year ago to attempt to attempt to reach [[Vallaki]]. She was also married to [[Doru]], so her life has been extra shitty
+- Ismark lets us know that the attack is likely to be in a couple of hours, so we are welcome to rest in the tavern or make plans to deal with the big event. We discuss potentially trying to reshape earth or reinforce the tavern more, but decide to visit the blacksmith and see what help they have 
+## Grand Designs
+- We head to the blacksmith and [[Cantimere]] explains that he followed Ismark with the promise of helping their people, and now feels trapped in a mad world under a mad world. Helwyn says that you can keep bitching about your situation or actually try to make a difference - bold tactic given we want him to sell his wares to us
+- Turns out that this guy is basically a mad scientist/arms manufacturer! He manages to reverse-engineer and build more 'ballettes' for Ravaria's gun, despite never having seen them before. He gives Arran a flamethrower leg, Martyn a brand-new (and possible beverage storage) ballista arm, and Helwyn some magic-fuelled leg casts with a random lightning burst just for shits and giggles
+- Having kitted ourselves out, we turn our attention to the setting sun and the dangers that lurk outside the village walls...
+# TL;DR
+- Ravaria broke her contract with Mr Storyteller
+- Martyn exploded and almost killed all of us, leaving most of us mutated in some way
+- We found a village under attack by Strahd's undead, and agreed to help defend the town for the next night
+- We went shopping at the crazy blacksmith
+
+^session-09-tldr
+
