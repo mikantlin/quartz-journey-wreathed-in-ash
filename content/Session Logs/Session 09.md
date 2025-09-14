@@ -8,7 +8,7 @@ session-date: 2025-09-11
 players-missing:
 tags:
   - session
-updated: 2025-09-14T08:57:47+12:00
+updated: 2025-09-14T09:15:08+12:00
 created: 2025-09-13T12:32:00+12:00
 ---
 # Previous Session Recap
@@ -55,4 +55,5 @@ created: 2025-09-13T12:32:00+12:00
 ## The Past Returns
 - We arrive at [[Nomduhr]] where the guards believe us to be undead, but the mayor of the town calls them off. He introduces himself as [[Ismark the Lesser|Ismark]] and explains the situation once he sees we travel with an Inquisitor of Alucard: undead hordes have attacked their town every night for the past six days, and that they are trapped between them and the fogs that surround the village.
 - Ismark asks to get a better look at us all - It's incredibly awkward due to our collected mutations, but thankfully Ravaria eases the tension by having assassinated his father when she was 8 years old. He demands a duel after tonight's attack to settle their grievances but Ravaria initially refuses. The party point out that this is a chance to become a better person as she claimed to want, so she eventually (and reluctantly) accepts
-- We're lead to the [[Blood of the Vine Tavern]] in the center of town.
+- We're lead to the [[Blood of the Vine Tavern]] in the center of town. Ismark explains that he brought his people here to continue his father's work to end the slavery of his people under the hand of Strahd. He mentions that a man named [[Doru]] led a raid against Strahd three months ago, and that he may be related to the attacks in some way, although Strahd may just be playing with them like a cat does with a mouse. They 
+- A man at another table says that Ismark will get more people killed, and that we're fools for even listening to him. He spits at Ismark's feet as he goes. The man is the local blacksmith [[Cantimere]] and Ismark's 'rival', believing the mayor to not be strong enough to keep his people safe, and Ismark fears he may be right.
