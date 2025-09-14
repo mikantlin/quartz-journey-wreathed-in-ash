@@ -8,24 +8,18 @@ session-date: 2025-09-11
 players-missing:
 tags:
   - session
-updated: 2025-09-14T13:35:11+12:00
+updated: 2025-09-14T17:09:28+12:00
 created: 2025-09-13T12:32:00+12:00
 ---
 # Previous Session Recap
 # What Happened?
 ## A Warlock and a Cleric
-- Gun raises to [[Ravaria]]'s temple and fires, killing her
-- Limbo takes notice of her, filling her eyes and gunshot wound with a tar-like substance and bringing her back (again)
-- [[Dirge]] tries to tell if it's Ravaria or an undead (why not both?)
-- [[Mr Storyteller]] gets out
-- Mr Storyteller offers to save Ravaria, but she refuses
-- Dirge tries to teleport onto Mr Storyteller's back to escape the blast, but the wild magic misty steps him into the ravine
+- [[Ravaria]] tries to shot herself non-lethally to break her contract with [[Mr Storyteller]], but the gun raises to her temple instead and fires, killing her. [[Limbo]] takes notice of her, filling her eyes and gunshot wound with a tar-like substance and bringing her back (again). [[Dirge]] tries to tell if it's Ravaria or an undead (why not both?) using his clerical powers, finds out she is undead and attacks. Seconds later, KABOOM
+- Mr Storyteller gets out of the lantern, he looks INSANE. Mr Storyteller offers to save Ravaria, but she refuses. Dirge tries to teleport onto Mr Storyteller's back to escape the blast, but the wild magic misty steps him into the ravine instead
 ## Boom Squad
 - A second shockwave from [[Martyn]] hits [[Arran Tirran|Arran]] and [[Helwyn]], sending them flying to the edge of the mountaintop
-- [[Volenta]] appears, Hulk-leaps into the air and smacks [[M0-TH3R|Mother]] and [[Eliziel]] with her hammer down into the mountainside
-- Volenta bamfs to Martyn and confronts him about stealing wine from her [[Strahd|husband]] (uh oh). She brings an offer from Strahd: a necklace of teleportation. Martyn can teleport to another place of Strahd's choosing to ensure that his friends remain safe
-- Martyn asks Arran via Message if he can help stop Martyn's explosion, but Arran can't see a way. Martyn sits down and instead begins to freeze himself to try and contain the blast. Volenta angrily bamfs away
-- Martyn freezes over, but it is too late...
+- [[Volenta]] appears, Hulk-leaps into the air and smacks [[M0-TH3R|Mother]] and [[Eliziel]] with her hammer down into the mountainside. Volenta bamfs to Martyn and confronts him about stealing wine from her [[Strahd|husband]] (uh oh). She brings an offer from Strahd: a necklace of teleportation. Martyn can teleport to another place of Strahd's choosing to ensure that his friends remain safe
+- Martyn asks Arran via Message if he can help stop Martyn's explosion, but Arran can't see a way. Martyn sits down and instead begins to freeze himself to try and contain the blast. Volenta angrily bamfs away. Martyn freezes over, but it is too late...
 ## Shockwaves
 - Martyn tries to contain the range of it, but his power explodes outwards to envelop the mountaintop. Psychic damage slams into Arran via the psychic connection between him and Martyn, taking him down
 - Helwyn revives Arran in her last moments, but resigns herself to the blast. Arran throws up an earthen wall in front of them, but it's futile

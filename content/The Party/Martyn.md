@@ -8,7 +8,7 @@ played-by: Zac
 tags:
   - pc/in-party
 created: 2025-08-07T18:00:00+12:00
-updated: 2025-09-07T09:00:00+12:00
+updated: 2025-09-14T14:30:31+12:00
 ---
 ![[Martyn.png|300]]
 - Was hired by [[Queen Bergljot]] to help guide the party to a temple
@@ -16,3 +16,4 @@ updated: 2025-09-07T09:00:00+12:00
 - Is tasked with providing letters regarding lost souls to their loved ones
 - [[Strahd]] revealed that he is a "nuke" (a volatile arcane power sits inside of him)
 - Accidentally killed his wife and his crew with his power
+- Lost his arm in the Martyn Blast

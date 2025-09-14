@@ -10,7 +10,7 @@ played-by: Simo
 tags:
   - pc/in-party
 created: 2025-07-17T18:00:00+12:00
-updated: 2025-09-07T09:00:00+12:00
+updated: 2025-09-14T17:06:17+12:00
 ---
 ![[Arran.png|300]]
 - Some sort of magic user
@@ -19,3 +19,4 @@ updated: 2025-09-07T09:00:00+12:00
 - Afflicted with a curse from [[Ravaria]]'s death
 - (Apparently) cleared the curse using the fire of [[Mr Storyteller]], now has a burned hand
 - Wants to kill the woman who led to him being put in prison
+- Lost his leg and now interacts with the Weave in weird ways in the Martyn Blast

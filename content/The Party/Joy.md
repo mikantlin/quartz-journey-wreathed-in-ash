@@ -9,9 +9,9 @@ pronouns: they/them
 played-by: Echo
 tags:
   - deceased
-  - pc/in-party
+  - pc
 created: 2025-07-24T18:00:00+12:00
-updated: 2025-09-07T09:00:00+12:00
+updated: 2025-09-14T14:21:55+12:00
 ---
 ![[Rags.png|300]]
 ![[Joy.png|200]]
