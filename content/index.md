@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: An Adventurer's Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Player notes from the Journey Wreathed in Ash D&D campaign.
