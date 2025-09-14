@@ -1,5 +1,5 @@
 ---
-title: The Adventure Begins
+title: "01: The Adventure Begins"
 session-no: 1
 description: Through various events, the party are brought together for the first time to fight a fiery cult and a vicious hag.
 session-date: 2025-07-17

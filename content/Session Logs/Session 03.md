@@ -1,5 +1,5 @@
 ---
-title: Cults and Criminals
+title: "03: Cults and Criminals"
 session-no: 3
 description: The party discover cult activity, gamble with criminals and complete their guarding duties before meeting with an old friend.
 session-date: 2025-07-31

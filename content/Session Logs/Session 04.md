@@ -1,5 +1,5 @@
 ---
-title: Betrayals and Bargains
+title: "04: Betrayals and Bargains"
 session-no: 4
 description: After (barely) surviving the fireball, the party are tasked with stopping the cultists' plans. Time is pressing, but an archdevil and a traitor might have other plans...
 session-date: 2025-08-07

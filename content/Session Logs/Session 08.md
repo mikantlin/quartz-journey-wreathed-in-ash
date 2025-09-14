@@ -1,5 +1,5 @@
 ---
-title: Dining with the Devil
+title: "08: Dining with the Devil"
 session-no: 8
 description: The party are invited to the Moonbearer's castle as renowned heroes, but dinner doesn't go as well as they hoped.
 session-date: 2025-09-04

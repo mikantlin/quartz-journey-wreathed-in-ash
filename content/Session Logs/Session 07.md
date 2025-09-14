@@ -1,5 +1,5 @@
 ---
-title: Proving Grounds
+title: "07: Proving Grounds"
 session-no: 7
 description: The party head to Dockyard and find much more than they bargained for.
 session-date: 2025-08-28

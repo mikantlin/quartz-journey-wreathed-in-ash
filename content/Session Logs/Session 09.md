@@ -1,5 +1,5 @@
 ---
-title: Aftermath
+title: "09: Aftermath"
 session-no: 9
 description: An explosion almost breaks the party in many ways. They find a village struggling to survive, led by a figure from Ravaria's past.
 aliases:

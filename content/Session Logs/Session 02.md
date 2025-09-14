@@ -1,5 +1,5 @@
 ---
-title: Baby Steps
+title: "02: Baby Steps"
 session-no: 2
 description: The party are hired to escort a caravan through treacherous land, making some friends (and enemies) on the way.
 session-date: 2025-07-24

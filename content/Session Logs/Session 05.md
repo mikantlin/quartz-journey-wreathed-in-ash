@@ -1,5 +1,5 @@
 ---
-title: Misdirection
+title: "05: Misdirection"
 session-no: 5
 description: The party sneak into the temple and disrupt the ambush, but find that the true threat is within the capital itself, while a familiar face returns to the group.
 session-date: 2025-08-14

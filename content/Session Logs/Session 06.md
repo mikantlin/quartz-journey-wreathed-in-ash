@@ -1,5 +1,5 @@
 ---
-title: A Disheartened Town
+title: "06: A Disheartened Town"
 session-no: 6
 description: The party travel to Axehome to hunt out the cultists, but find a town that's suffering under a charming evil. An unlikely ally might also provide the key to reaching their goals.
 session-date: 2025-08-21
