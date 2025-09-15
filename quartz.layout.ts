@@ -23,7 +23,7 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
+    Component.DesktopOnly(Component.Flex({
       components: [
         {
           Component: Component.Search(),
@@ -32,7 +32,16 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
       ],
-    }),
+    })),
+    Component.MobileOnly(Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+      ],
+    })),
     Component.Explorer(),
   ],
   right: [
