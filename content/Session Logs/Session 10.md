@@ -12,7 +12,7 @@ created: 2025-09-15T09:07:35+12:00
 draft: "true"
 ---
 > [!info]- Previously On...
-![[Session 09#^session-tldr]]
+> ![[Session 09#^session-tldr]]
 # TL;DR
 - Quick summary of session
 

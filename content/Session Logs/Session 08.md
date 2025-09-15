@@ -11,7 +11,7 @@ created: 2025-09-06T19:15:00+12:00
 updated: 2025-09-15T21:34:29+12:00
 ---
 > [!info]- Previously On...
-![[Session 07#^session-tldr]]
+> ![[Session 07#^session-tldr]]
 # TL;DR
 - We're invited to the Moonbearer's castle for dinner, things getting tense when a note is passed to us by one of the staff. We have some strange conversations with the Moonbearer's wives before being seated for dinner
 - The Moonbearer (AKA Strahd) ask us questions about our past, reveals that Martyn is a walking timebomb, and that he has placed the soul of Lily into Mother

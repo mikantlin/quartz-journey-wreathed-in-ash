@@ -11,7 +11,7 @@ created: 2025-09-06T19:15:00+12:00
 updated: 2025-09-15T21:34:00+12:00
 ---
 > [!info]- Previously On...
-![[Session 05#^session-tldr]]
+> ![[Session 05#^session-tldr]]
 # TL;DR
 - Martyn reunites with the party, bringing a suspicious package from Usi
 - We head to Axehome to find a town mysteriously injured and in fear of an ancient tomb nearby

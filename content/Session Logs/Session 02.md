@@ -9,10 +9,10 @@ created: 2025-09-06T19:15:00+12:00
 updated: 2025-09-15T21:30:09+12:00
 ---
 > [!info]- Previously On...
-![[Session 01#^session-tldr]]
+> ![[Session 01#^session-tldr]]
 # TL;DR
 - We're hired by Chief Luptir to escort caravans to Kroskholt
-- We fight undead and a mage of the Doomspeakers on the way, retrieving part of the Book of Nine Dooms 
+- We fight undead and a mage of the Doomspeakers on the way, retrieving part of the Book of Nine Dooms
 - We're diverted from our path due to dangerous weather and head to Eastern Look instead, taking refuge at a small village of outcasts
 
 ^session-tldr

@@ -9,7 +9,7 @@ created: 2025-09-06T19:15:00+12:00
 updated: 2025-09-15T21:34:15+12:00
 ---
 > [!info]- Previously On...
-![[Session 06#^session-tldr]]
+> ![[Session 06#^session-tldr]]
 # TL;DR
 - Ravaria offers to leave the party, but we choose for her to stay
 - We find (and kinda kill) Cinderhide at Dockyard, where a ship and escort are waiting for us

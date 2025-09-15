@@ -10,7 +10,7 @@ created: 2025-09-06T19:15:00+12:00
 updated: 2025-09-15T21:29:39+12:00
 ---
 > [!info]- Previously On...
-![[Session 02#^session-tldr]]
+> ![[Session 02#^session-tldr]]
 # TL;DR
 - People, including party members are kidnapped in the night
 - We are ambushed by members of the Sanguine Path in the village, fighting and defeating them

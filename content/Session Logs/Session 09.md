@@ -12,7 +12,7 @@ updated: 2025-09-15T21:34:44+12:00
 created: 2025-09-13T12:32:00+12:00
 ---
 > [!info]- Previously On...
-![[Session 08#^session-tldr]]
+> ![[Session 08#^session-tldr]]
 # TL;DR
 - Ravaria breaks her contract with Mr Storyteller
 - Martyn explodes and almost kills all of us, leaving most of us mutated in some way
@@ -53,7 +53,7 @@ created: 2025-09-13T12:32:00+12:00
 - We're lead to the [[Blood of the Vine Tavern]] in the centre of town. Ismark explains that he brought his people here to continue his father's work to end the slavery of his people under the hand of Strahd. He mentions that a man named [[Doru]] led a raid against Strahd three months ago, and that he may be related to the attacks in some way, although Strahd may just be playing with them like a cat does with a mouse
 - A man at another table says that Ismark will just be getting more people killed, and that we're fools for even listening to him. He spits at Ismark's feet as he goes. The man is the local blacksmith [[Cantimere]] and Ismark's 'rival', believing the mayor to not be strong enough to keep his people safe, and Ismark fears he may be right
 - A woman in tears approaches us and Ismark, asking us to help find her 12-year-old daughter [[Gertruda]] who had vanished yesterday. Ismark quietly lets us know that the woman is [[Mad Mary]], who lost her mind when her (actually) 22-year-old daughter left [[Nomduhr]] 6 months ago to attempt to reach [[Vallaki]]. She was also married to [[Doru]], so her life has been extra shitty
-- Ismark lets us know that the attack is likely to be in a couple of hours, so we are welcome to rest in the tavern or make plans to deal with the big event. We discuss potentially trying to reshape earth or reinforce the tavern more, but decide to visit the blacksmith and see what help they have 
+- Ismark lets us know that the attack is likely to be in a couple of hours, so we are welcome to rest in the tavern or make plans to deal with the big event. We discuss potentially trying to reshape earth or reinforce the tavern more, but decide to visit the blacksmith and see what help they have
 ## Grand Designs
 - We head to the blacksmith and [[Cantimere]] explains that he followed Ismark with the promise of helping their people, and now feels trapped in a mad world under a mad world. Helwyn says that you can keep bitching about your situation or actually try to make a difference - bold tactic given we want him to sell his wares to us
 - Turns out that this guy is basically a mad scientist/arms manufacturer! He manages to reverse-engineer and build more 'ballettes' for Ravaria's gun, despite never having seen them before. He gives Arran a flamethrower leg, Martyn a brand-new (and possible beverage storage) ballista arm, and Helwyn some magic-fuelled leg casts with a random lightning burst just for shits and giggles

@@ -11,7 +11,7 @@ created: 2025-09-06T19:15:00+12:00
 updated: 2025-09-15T21:33:19+12:00
 ---
 > [!info]- Previously On...
-![[Session 03#^session-tldr]]
+> ![[Session 03#^session-tldr]]
 # TL;DR
 - Martyn joins the party
 - The Queen hires us to take down the cults at the temple in Nulb

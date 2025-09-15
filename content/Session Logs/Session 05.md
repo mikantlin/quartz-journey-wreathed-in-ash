@@ -11,7 +11,7 @@ created: 2025-09-06T19:15:00+12:00
 updated: 2025-09-15T21:33:29+12:00
 ---
 > [!info]- Previously On...
-![[Session 04#^session-tldr]]
+> ![[Session 04#^session-tldr]]
 # TL;DR
 - We sneak into the temple and fight our way to Ulsedra Vox, who surrenders and reveals themselves to be a figurehead and distraction from another assassination attempt on the Queen
 - While racing back, we find Revaria returned from the dead with a new ally in tow: Mr Storyteller
