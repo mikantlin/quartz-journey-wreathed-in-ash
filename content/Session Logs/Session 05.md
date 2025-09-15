@@ -8,7 +8,7 @@ players-missing:
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-15T21:33:29+12:00
+updated: 2025-09-15T23:35:21+12:00
 ---
 > [!info]- Previously On...
 > ![[Session 04#^session-tldr]]
@@ -45,7 +45,7 @@ updated: 2025-09-15T21:33:29+12:00
 - During the trip back, we wake to find Ulsedra murdered in her sleep. Arran admits to killing her during the night, and the gang bring up the excellent point of "What the Actual Fuck? Ravaria Much?"
 - A now younger-looking and healthier Ravaria, hearing the argument and her own name being mentioned, shares her opinion (100% Pro-Murder). Helwyn tries to tackle her and crashes through the cabin wall, thanks to stupid lack of depth perception, as Ravaria misty-steps over to Arran, who swings at her and misses.
 - Ravaria explains that she was forced to try and kill Dirge and that she was killed for refusing to lose her soul. Helwyn is PISSED at her, which the totally-normal talking lantern (who later introduces himself as [[Mr Storyteller]]) helpfully explains is because of their interactions with [[Glasya]].
-- Helwyn and Ravaria explains the whole Archdevil deals, which the party don't love (as Dirge puts it, Helwyn is "Capital-F-Fucked"). A couple of the party point out that we need to get back to [[Kroksholt]] and that, even if we don't trust each other, we need to work together to stop the assassination.
+- Helwyn and Ravaria explains the whole Archdevil deals, which the party don't love (as Dirge puts it, Helwyn is "Capital-F-Fucked"). A couple of the party point out that we need to get back to [[Thorath]] and that, even if we don't trust each other, we need to work together to stop the assassination.
 - We pass near a wonderful little village worshipping [[Ares]] and celebrating peace and love, but NO TIME FOR THAT SHIT.
 ## A Plot Foiled
 - Exhausted, we reach the capital and get to the Queen, but [[Eero Toivonen|Eero]] the Traitor is there. We make our accusations with very little hard evidence, but we manage to convince her. Eero manages to slip away in the discussion, damn it.
@@ -54,5 +54,5 @@ updated: 2025-09-15T21:33:29+12:00
 - Mother asks for the ability to experience true feelings/emotions, to which the Queen replies "Yeah, can't do that. Good job though!"
 - We also each get a sapphire worth 1000g and Joy's cut of the money as a bonus, and all our names are cleared of criminal charges (just in time for Arran's lengthy prison sentence!)
 ## (Axe)Homeward Bound
-- The Queen's got intel that the cults are currently holed up in [[Axehome]], a town heading north out of Kroksholt. After providing Helwyn with her new mobile doctoring wagon (working name: [[Helwyn's Chop Shop]]) and some apprentices, the gang pack up to head off.
+- The Queen's got intel that the cults are currently holed up in [[Axehome]], a town heading north out of [[Thorath]]. After providing Helwyn with her new mobile doctoring wagon (working name: [[Helwyn's Chop Shop]]) and some apprentices, the gang pack up to head off.
 - BUT FIRST, we gotta hit up Artefacts R Us and buy out that sweet, sweet merch...

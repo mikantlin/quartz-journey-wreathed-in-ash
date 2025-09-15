@@ -6,11 +6,11 @@ session-date: 2025-07-17
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-15T21:28:53+12:00
+updated: 2025-09-15T22:57:37+12:00
 ---
 # TL;DR
 - The party meets through various ways
-- We fight the Order of Fallen Ash who burn down a temple in Grey Town
+- We fight the Order of Falling Ash who burn down a temple in Grey Town
 - We fight and kill a powerful hag and a creature that is corrupting the people of Grey Town
 
 ^session-tldr

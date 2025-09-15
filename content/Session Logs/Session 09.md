@@ -8,7 +8,7 @@ session-date: 2025-09-11
 players-missing:
 tags:
   - session
-updated: 2025-09-15T21:34:44+12:00
+updated: 2025-09-15T23:37:29+12:00
 created: 2025-09-13T12:32:00+12:00
 ---
 > [!info]- Previously On...
@@ -35,12 +35,12 @@ created: 2025-09-13T12:32:00+12:00
 - Dirge attempts to jump onto the back of Mr Storyteller to aid their escape, but wild magic catches him and Misty Steps him into the canyon instead
 - Mr Storyteller offers Ravaria his help if she accepts him back as her patron, but he refuses. Mr Storyteller burrows away
 - The blast hits everyone save for Mother and Eliziel, changing them in various ways:
-	- Arran has his leg torn away and finds the Weave interacting with him in strange ways
+	- Arran has his leg torn away and finds the Weave interacting with him in strange new ways
 	- Dirge has his skin turned into stone
 	- Helwyn becomes paralyzed from the waist down as her spine is mutated into malformed wings
 	- Martyn has his arm torn off and his other arm grows extra fingers (so he's mathematically fine)
 	- Ravaria has her face disfigured even further, with Limbo tar filling the gaps left behind
-- Strahd's castle tears itself away from the mountain to avoid the blast
+- Strahd's castle tears itself away from the mountain to avoid the blast and floats towards [[Endkleistra]]
 ## A Broken Recovery
 - The party regroups, trying to process what has happened. Mother struggles to understand herself now that the essence of [[Lily]] is fused with her. Helwyn checks on Arran's injuries and apologises to him for bringing him back and not keeping him safe. Martyn apologises to the group, saying that he never intended for this to happen, and Eliziel warns him to sleep separately from us from now on
 - After a lot of debate on how to get back to civilisation, we decide to make camp some successful hunting and scavenging of (admittedly poisonous/acidic) animals on the mountain, Arran cast a Tiny Hut for us to sleep in. Martyn crafts himself an igloo to keep his promise to Eliziel
