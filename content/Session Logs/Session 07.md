@@ -6,11 +6,18 @@ session-date: 2025-08-28
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-15T17:49:35+12:00
+updated: 2025-09-15T21:34:15+12:00
 ---
-# Previously On...
+> [!info]- Previously On...
 ![[Session 06#^session-tldr]]
-# What Happened?
+# TL;DR
+- Ravaria offers to leave the party, but we choose for her to stay
+- We find (and kinda kill) Cinderhide at Dockyard, where a ship and escort are waiting for us
+- We travel to Endkleistra, training up on the way. Once there, we fight in an arena to earn an audience with the Moonbearer
+
+^session-tldr
+
+# What Actually Happened?
 ## A Tough Decision
 - During camp, [[Ravaria]] tells us that she's struggling with her combat skills not being up to scratch. She's not used to having free will, having been a soldier all her life and always being commanded by [[Glasya]]. She says that she knows people don't want her in the party, and that she would part ways at [[Dockyard]] if we didn't want her there. She heads off into the forest for the party to discuss. We deliberate, but decide that Ravaria should stay: she needs support to give her a chance to be a better person and we're the best she's got (gods help her)
 - [[Helwyn]] goes to tell her the news and also provides an apology: She failed to honour her deal and keep Ravaria alive. Ravaria says that she's not to blame, and that Glasya had given them both impossible tasks. Helwyn doesn't really respond and instead stays in the forest for a while as Ravaria heads back to the party
@@ -27,9 +34,3 @@ updated: 2025-09-15T17:49:35+12:00
 - Once we reach Endkleistra, Ludmilla takes us to the [[Thunderfall Arena]], where deadly battles are played out for a massive bloodthirsty audience (are you not entertained?!) [[Strahd|Gudric]] is watching, and if we're victorious, we'll be granted an audience with him
 - The fight actually goes surprisingly well given our track record. The creatures (Le Angry and Le Hungry) can steal any healing that we try to do or get advantage from being attacked (BOO), but Eliziel saves Helwyn's life, Mother fights on the brink of death the entire time and Ravaria only almost dies once! Granted it was by taking a dip in some lava, but still, progress!
 - Having defeated the creatures to the roars (and possibly boos) of the crowds, we prepare for our meeting with Gudric...
-# TL;DR
-- Ravaria offers to leave the party, but we choose for her to stay
-- We find (and kinda kill) Cinderhide at Dockyard, where a ship and escort are waiting for us
-- We travel to Endkleistra, training up on the way. Once there, we fight in an arena to earn an audience with the Moonbearer
-
-^session-tldr

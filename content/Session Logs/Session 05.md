@@ -8,11 +8,18 @@ players-missing:
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-15T17:42:49+12:00
+updated: 2025-09-15T21:33:29+12:00
 ---
-# Previously On...
+> [!info]- Previously On...
 ![[Session 04#^session-tldr]]
-# What Happened?
+# TL;DR
+- We sneak into the temple and fight our way to Ulsedra Vox, who surrenders and reveals themselves to be a figurehead and distraction from another assassination attempt on the Queen
+- While racing back, we find Revaria returned from the dead with a new ally in tow: Mr Storyteller
+- We get back just in time to foil Eero's plans, but he escapes. We are paid for our work, then tasked with tracking him down
+
+^session-tldr
+
+# What Actually Happened?
 ## Ambushing the Ambush
 - The gang (+ Thelonia our cart driver) had just finished torturing and murdering Joy when our new friend Martyn decided to leg it for some reason! Weird.
 - Make our way back to the [[Nulb Temple|temple]], looking for a way to avoid walking through the front door into an ambush. [[Arran Tirran]] sends his owl-friend up and around, finding only one other way in: a crumbled wall towards the back of the temple. We also find an unfamiliar dead body - naked, lacerated and exsanguinated - outside the western wall. [[Dirge]] REFUSES to give it a proper send-off right away - terrible clericking in [[Helwyn]]'s opinion.
@@ -49,9 +56,3 @@ updated: 2025-09-15T17:42:49+12:00
 ## (Axe)Homeward Bound
 - The Queen's got intel that the cults are currently holed up in [[Axehome]], a town heading north out of Kroksholt. After providing Helwyn with her new mobile doctoring wagon (working name: [[Helwyn's Chop Shop]]) and some apprentices, the gang pack up to head off.
 - BUT FIRST, we gotta hit up Artefacts R Us and buy out that sweet, sweet merch...
-# TL;DR
-- We sneak into the temple and fight our way to Ulsedra Vox, who surrenders and reveals themselves to be a figurehead and distraction from another assassination attempt on the Queen
-- While racing back, we find Revaria returned from the dead with a new ally in tow: Mr Storyteller
-- We get back just in time to foil Eero's plans, but he escapes. We are paid for our work, then tasked with tracking him down
-
-^session-tldr

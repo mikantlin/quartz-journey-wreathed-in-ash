@@ -8,12 +8,20 @@ session-date: 2025-09-11
 players-missing:
 tags:
   - session
-updated: 2025-09-15T17:53:09+12:00
+updated: 2025-09-15T21:34:44+12:00
 created: 2025-09-13T12:32:00+12:00
 ---
-# Previously On...
+> [!info]- Previously On...
 ![[Session 08#^session-tldr]]
-# What Happened?
+# TL;DR
+- Ravaria breaks her contract with Mr Storyteller
+- Martyn explodes and almost kills all of us, leaving most of us mutated in some way
+- We find a village under attack by Strahd's undead, and agree to help defend the town for the next night
+- We go shopping at the crazy blacksmith
+
+^session-tldr
+
+# What Actually Happened?
 ## A Warlock and a Cleric
 - [[Ravaria]] tries to shot herself non-lethally to break her contract with [[Mr Storyteller]], but the gun raises to her temple instead and fires, killing her. [[Limbo]] takes notice of her, filling her eyes and gunshot wound with a tar-like substance and bringing her back (again). [[Dirge]] tries to tell if it's Ravaria or an undead (why not both?) using his clerical powers, finds out she is undead and attacks. Seconds later, KABOOM
 - Mr Storyteller gets out of the lantern, he looks INSANE. Mr Storyteller offers to save Ravaria, but she refuses. Dirge tries to teleport onto Mr Storyteller's back to escape the blast, but the wild magic misty steps him into the ravine instead
@@ -50,11 +58,3 @@ created: 2025-09-13T12:32:00+12:00
 - We head to the blacksmith and [[Cantimere]] explains that he followed Ismark with the promise of helping their people, and now feels trapped in a mad world under a mad world. Helwyn says that you can keep bitching about your situation or actually try to make a difference - bold tactic given we want him to sell his wares to us
 - Turns out that this guy is basically a mad scientist/arms manufacturer! He manages to reverse-engineer and build more 'ballettes' for Ravaria's gun, despite never having seen them before. He gives Arran a flamethrower leg, Martyn a brand-new (and possible beverage storage) ballista arm, and Helwyn some magic-fuelled leg casts with a random lightning burst just for shits and giggles
 - Having kitted ourselves out, we turn our attention to the setting sun and the dangers that lurk outside the village walls...
-# TL;DR
-- Ravaria breaks her contract with Mr Storyteller
-- Martyn explodes and almost kills all of us, leaving most of us mutated in some way
-- We find a village under attack by Strahd's undead, and agree to help defend the town for the next night
-- We go shopping at the crazy blacksmith
-
-^session-tldr
-
