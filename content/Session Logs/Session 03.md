@@ -7,7 +7,7 @@ players-missing: Simo
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-15T13:16:04+12:00
+updated: 2025-09-15T17:43:02+12:00
 ---
 # Previously On...
 ![[Session 02#^session-tldr]]
@@ -35,4 +35,3 @@ updated: 2025-09-15T13:16:04+12:00
 - We make it to Thorath, where we visit the Temple of Kae and are confronted by Usi. A battle occurs that ends with Usi fireballing the entire party and burning the church
 
 ^session-tldr
-

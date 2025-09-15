@@ -8,7 +8,7 @@ players-missing:
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-15T13:08:48+12:00
+updated: 2025-09-15T17:48:56+12:00
 ---
 # Previously On...
 ![[Session 05#^session-tldr]]
@@ -43,3 +43,10 @@ updated: 2025-09-15T13:08:48+12:00
 - Once we cleared the spirits out, our old pal Eero turns up with his buddy Eliyas. They've waited for us to deal with the ancient shit so they could swoop in and steal the loot (dicks). Another fight breaks out, this time ending with Eero being Falcon-Punched in the chest by Helwyn and Eliyas teleporting away like the COWARD he is
 ## Next Steps
 - The Heart secure, Katherine reveals that her boss is none other than [[Venin]], and that she can bring us to his court in [[Endkleistra]]. We reckon that it might be worth heading up the Red River and getting our audience with the [[Hamlin|King in the North]] first though, as we're going to need all the allies we can get. Arran wants to go check on the book that Usi was after in [[Grey Town]], so a quick detour and we'll get right on with saving the world (promise...)
+# TL;DR
+- Martyn reunites with the party, bringing a suspicious package from Usi
+- We head to Axehome to find a town mysteriously injured and in fear of an ancient tomb nearby
+- A fellow adventurer, Katherine, tells us that a sorcerer is charming the town and Eero is probably helping to get the Demon's Heart
+- We find the tomb and retrieve the Heart, defeating Eero but failing to capture or kill the sorcerer who gets away
+
+^session-tldr

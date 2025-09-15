@@ -8,7 +8,7 @@ players-missing:
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-15T13:08:58+12:00
+updated: 2025-09-15T17:42:58+12:00
 ---
 # Previously On...
 ![[Session 03#^session-tldr]]
@@ -50,3 +50,10 @@ updated: 2025-09-15T13:08:58+12:00
 - Joy hits Arran with Words of Terror, causing him to be frightened. As Arran runs towards them, Dirge casts Silence around Joy as Helwyn charges up, managing to grapple her. The party tie her up
 - Joy reveals herself to be [[Joy|Rags]], and provides information on what's waiting for them after Helwyn uncharacteristically tortures her. After giving all her information, Arran kills Joy
 - Leaving Joy's body tied in the forests, the team prepare to face what is waiting for them in the temple...
+# TL;DR
+- Martyn joins the party
+- The Queen hires us to take down the cults at the temple in Nulb
+- Ravaria turns away from Glasya and dies. Helwyn accepts a deal with Glasya to find the traitor in their midst aiding an ambush at the temple, who is revealed to be Joy
+- The group torture Joy for information and kill her
+
+^session-tldr

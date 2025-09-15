@@ -6,7 +6,7 @@ session-date: 2025-07-24
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-15T13:12:31+12:00
+updated: 2025-09-15T17:43:06+12:00
 ---
 # Previously On...
 ![[Session 01#^session-tldr]]
@@ -30,4 +30,3 @@ updated: 2025-09-15T13:12:31+12:00
 - We're diverted from our path due to dangerous weather and head to Eastern Look instead, taking refuge at a small village of outcasts
 
 ^session-tldr
-

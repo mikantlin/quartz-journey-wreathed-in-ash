@@ -6,7 +6,7 @@ session-date: 2025-07-17
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-15T13:10:13+12:00
+updated: 2025-09-15T17:43:08+12:00
 ---
 # What Happened?
 ## Meet the Party
@@ -28,4 +28,3 @@ updated: 2025-09-15T13:10:13+12:00
 - We fight and kill a powerful hag and a creature that is corrupting the people of Grey Town
 
 ^session-tldr
-

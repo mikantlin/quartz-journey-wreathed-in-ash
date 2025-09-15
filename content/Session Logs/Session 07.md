@@ -6,7 +6,7 @@ session-date: 2025-08-28
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-15T13:08:35+12:00
+updated: 2025-09-15T17:49:35+12:00
 ---
 # Previously On...
 ![[Session 06#^session-tldr]]
@@ -28,6 +28,8 @@ updated: 2025-09-15T13:08:35+12:00
 - The fight actually goes surprisingly well given our track record. The creatures (Le Angry and Le Hungry) can steal any healing that we try to do or get advantage from being attacked (BOO), but Eliziel saves Helwyn's life, Mother fights on the brink of death the entire time and Ravaria only almost dies once! Granted it was by taking a dip in some lava, but still, progress!
 - Having defeated the creatures to the roars (and possibly boos) of the crowds, we prepare for our meeting with Gudric...
 # TL;DR
-- Ravaria offered to leave the party, but we chose for her to stay
-- We found (and kinda killed) Cinderhide at Dockyard, where a ship and escort were waiting for us
-- We travelled to Endkleistra, training up on the way. Once there, we fought in an arena to earn an audience with the Moonbearer
+- Ravaria offers to leave the party, but we choose for her to stay
+- We find (and kinda kill) Cinderhide at Dockyard, where a ship and escort are waiting for us
+- We travel to Endkleistra, training up on the way. Once there, we fight in an arena to earn an audience with the Moonbearer
+
+^session-tldr

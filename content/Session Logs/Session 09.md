@@ -8,7 +8,7 @@ session-date: 2025-09-11
 players-missing:
 tags:
   - session
-updated: 2025-09-15T13:08:13+12:00
+updated: 2025-09-15T17:53:09+12:00
 created: 2025-09-13T12:32:00+12:00
 ---
 # Previously On...
@@ -51,10 +51,10 @@ created: 2025-09-13T12:32:00+12:00
 - Turns out that this guy is basically a mad scientist/arms manufacturer! He manages to reverse-engineer and build more 'ballettes' for Ravaria's gun, despite never having seen them before. He gives Arran a flamethrower leg, Martyn a brand-new (and possible beverage storage) ballista arm, and Helwyn some magic-fuelled leg casts with a random lightning burst just for shits and giggles
 - Having kitted ourselves out, we turn our attention to the setting sun and the dangers that lurk outside the village walls...
 # TL;DR
-- Ravaria broke her contract with Mr Storyteller
-- Martyn exploded and almost killed all of us, leaving most of us mutated in some way
-- We found a village under attack by Strahd's undead, and agreed to help defend the town for the next night
-- We went shopping at the crazy blacksmith
+- Ravaria breaks her contract with Mr Storyteller
+- Martyn explodes and almost kills all of us, leaving most of us mutated in some way
+- We find a village under attack by Strahd's undead, and agree to help defend the town for the next night
+- We go shopping at the crazy blacksmith
 
 ^session-tldr
 
