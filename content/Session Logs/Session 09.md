@@ -8,7 +8,7 @@ session-date: 2025-09-11
 players-missing:
 tags:
   - session
-updated: 2025-09-14T17:09:28+12:00
+updated: 2025-09-15T12:15:28+12:00
 created: 2025-09-13T12:32:00+12:00
 ---
 # Previous Session Recap
@@ -43,7 +43,7 @@ created: 2025-09-13T12:32:00+12:00
 - Ismark asks to get a better look at us all - It's incredibly awkward due to our collected mutations, but thankfully Ravaria eases the tension by having assassinated his father when she was 8 years old. He demands a duel after tonight's attack to settle their grievances but Ravaria initially refuses. The party point out that this is a chance to become a better person as she claimed to want, so she eventually (and reluctantly) accepts
 - We're lead to the [[Blood of the Vine Tavern]] in the centre of town. Ismark explains that he brought his people here to continue his father's work to end the slavery of his people under the hand of Strahd. He mentions that a man named [[Doru]] led a raid against Strahd three months ago, and that he may be related to the attacks in some way, although Strahd may just be playing with them like a cat does with a mouse
 - A man at another table says that Ismark will just be getting more people killed, and that we're fools for even listening to him. He spits at Ismark's feet as he goes. The man is the local blacksmith [[Cantimere]] and Ismark's 'rival', believing the mayor to not be strong enough to keep his people safe, and Ismark fears he may be right
-- A woman in tears approaches us and Ismark, asking us to help find her 12-year-old daughter [[Gertruda]] who had vanished yesterday. Ismark quietly lets us know that the woman is [[Mad Mary]], who lost her mind when her (actually) 22-year-old daughter left [[Nomduhr]] a year ago to attempt to attempt to reach [[Vallaki]]. She was also married to [[Doru]], so her life has been extra shitty
+- A woman in tears approaches us and Ismark, asking us to help find her 12-year-old daughter [[Gertruda]] who had vanished yesterday. Ismark quietly lets us know that the woman is [[Mad Mary]], who lost her mind when her (actually) 22-year-old daughter left [[Nomduhr]] 6 months ago to attempt to reach [[Vallaki]]. She was also married to [[Doru]], so her life has been extra shitty
 - Ismark lets us know that the attack is likely to be in a couple of hours, so we are welcome to rest in the tavern or make plans to deal with the big event. We discuss potentially trying to reshape earth or reinforce the tavern more, but decide to visit the blacksmith and see what help they have 
 ## Grand Designs
 - We head to the blacksmith and [[Cantimere]] explains that he followed Ismark with the promise of helping their people, and now feels trapped in a mad world under a mad world. Helwyn says that you can keep bitching about your situation or actually try to make a difference - bold tactic given we want him to sell his wares to us
