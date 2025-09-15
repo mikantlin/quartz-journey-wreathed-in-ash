@@ -69,8 +69,8 @@ jobs:
 
       - name: Setup Git config (user and email), necessary for commits
         run: |
-          git config --global user.name "Porter Robinson"
-          git config --global user.email "hello@example.com"
+          git config --global user.name "Mike Lines"
+          git config --global user.email "lines0812@gmail.com"
 
       - name: Sync Quartz repo
         run: |
