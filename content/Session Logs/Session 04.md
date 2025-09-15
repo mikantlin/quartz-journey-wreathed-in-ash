@@ -8,8 +8,10 @@ players-missing:
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-13T18:42:00+12:00
+updated: 2025-09-15T13:08:58+12:00
 ---
+# Previously On...
+![[Session 03#^session-tldr]]
 # What Happened?
 ## The Aftermath
 - After the fireball at [[Kae]]'s Temple, we found that [[Eliziel]] had been destroyed by it, turned into nothing but dust

@@ -6,8 +6,10 @@ session-date: 2025-07-24
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-13T18:42:00+12:00
+updated: 2025-09-15T13:12:31+12:00
 ---
+# Previously On...
+![[Session 01#^session-tldr]]
 # What Happened?
 ## New Companions
 * Hired by [[Chief Luptir]] to guard a caravan heading for [[Kroksholt]] and introduced us to [[Eliziel]], whose god has sent her our way
@@ -22,3 +24,10 @@ updated: 2025-09-13T18:42:00+12:00
 ## Off the Beaten Path
 * Our driver diverts towards [[Eastern Look]] due to blood rain (a rare weather phenomenon) over the path to Kroksholt
 * We reach a small village of outcasts, where they each have some sort of deformity. Their leader, Father ???, has a demonic-looking arm
+# TL;DR
+- We're hired by Chief Luptir to escort caravans to Kroskholt
+- We fight undead and a mage of the Doomspeakers on the way, retrieving part of the Book of Nine Dooms 
+- We're diverted from our path due to dangerous weather and head to Eastern Look instead, taking refuge at a small village of outcasts
+
+^session-tldr
+

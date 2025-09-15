@@ -8,10 +8,11 @@ session-date: 2025-09-11
 players-missing:
 tags:
   - session
-updated: 2025-09-15T12:15:28+12:00
+updated: 2025-09-15T13:08:13+12:00
 created: 2025-09-13T12:32:00+12:00
 ---
-# Previous Session Recap
+# Previously On...
+![[Session 08#^session-tldr]]
 # What Happened?
 ## A Warlock and a Cleric
 - [[Ravaria]] tries to shot herself non-lethally to break her contract with [[Mr Storyteller]], but the gun raises to her temple instead and fires, killing her. [[Limbo]] takes notice of her, filling her eyes and gunshot wound with a tar-like substance and bringing her back (again). [[Dirge]] tries to tell if it's Ravaria or an undead (why not both?) using his clerical powers, finds out she is undead and attacks. Seconds later, KABOOM
@@ -55,5 +56,5 @@ created: 2025-09-13T12:32:00+12:00
 - We found a village under attack by Strahd's undead, and agreed to help defend the town for the next night
 - We went shopping at the crazy blacksmith
 
-^session-09-tldr
+^session-tldr
 

@@ -8,8 +8,10 @@ players-missing:
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-13T18:42:00+12:00
+updated: 2025-09-15T13:08:48+12:00
 ---
+# Previously On...
+![[Session 05#^session-tldr]]
 # What Happened?
 ## Take Me (Axe)Home
 - We've been tasked by the [[Queen Bergljot|Queen]] with heading to [[Axehome]], where [[Eero Toivonen|Eero]] and other cultists had (potentially) booked it to. A quick level-up, then all aboard the Chop Shop!

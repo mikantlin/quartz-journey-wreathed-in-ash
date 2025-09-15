@@ -8,8 +8,10 @@ players-missing:
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-13T18:42:00+12:00
+updated: 2025-09-15T13:08:53+12:00
 ---
+# Previously On...
+![[Session 04#^session-tldr]]
 # What Happened?
 ## Ambushing the Ambush
 - The gang (+ Thelonia our cart driver) had just finished torturing and murdering Joy when our new friend Martyn decided to leg it for some reason! Weird.

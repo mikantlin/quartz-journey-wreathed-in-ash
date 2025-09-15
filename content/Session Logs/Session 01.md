@@ -6,10 +6,9 @@ session-date: 2025-07-17
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-13T18:42:00+12:00
+updated: 2025-09-15T13:10:13+12:00
 ---
 # What Happened?
-
 ## Meet the Party
 * [[M0-TH3R]]'s systems start up again and she finds herself in a basement, her ward now grown to an adult. She is being reset by her ward, but before it can be finished she breaks the teenager's neck, cancelling her oath to protect them. Her programming rewiring, she stumbles out into [[Grey Town]] to find the people manic and dancing. They see her, a valuable artefact, and launch themselves at her, taking her to the ground...
 * [[Helwyn]] is manacled by a group of mercenaries. Some are murdered by a [[Order of Falling Ash|cult]] led by [[Usi-Ziyad|Usi]], with the rest joining his group. He offers for Helwyn to join them, and when she refuses, drops the keys in front of her and leaves. Helwyn runs but hears the voice of [[Glasya]], who directs her to find her champion, one with a shadow that does not match...
@@ -23,3 +22,10 @@ updated: 2025-09-13T18:42:00+12:00
 * The party enter and find a simple cottage. A sign reads "Do not disturb the cats", so obviously Ravaria and Dirge mess with the ghost cats
 * We entered a forest of blood and gore. We managed to find our way through, avoiding a chimera, and found Shtriga Nonna and the undead creature
 * We killed her and the creature, freeing the woman's son: a kobold. Victorious, we head back towards Grey Town...
+# TL;DR
+- The party meets through various ways
+- We fight the Order of Fallen Ash who burn down a temple in Grey Town
+- We fight and kill a powerful hag and a creature that is corrupting the people of Grey Town
+
+^session-tldr
+
