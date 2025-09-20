@@ -5,9 +5,6 @@ on:
     types: vault-updated
   workflow_dispatch:
 
-env:
-  THEME_NAME: tokyo-night
-
 jobs:
   update_vault_content:
     runs-on: ubuntu-latest
@@ -74,9 +71,6 @@ jobs:
         run: |
           git config --global user.name "Mike Lines"
           git config --global user.email "lines0812@gmail.com"
-
-      - name: Fetch Quartz Theme
-        run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $THEME_NAME
 
       - name: Sync Quartz repo
         run: |
