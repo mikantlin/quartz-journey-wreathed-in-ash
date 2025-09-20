@@ -1,6 +1,6 @@
 ---
 title: Usi-Ziyad
-description: Second-in-command of the Order of Falling Ash.
+description: Leader of the Order of Falling Ash.
 tags:
   - npc
 aliases:
@@ -9,7 +9,7 @@ species: Human
 current-location: Unknown
 party-status: Hostile
 created: 2025-09-06T19:28:00+12:00
-updated: 2025-09-15T23:32:28+12:00
+updated: 2025-09-19T21:11:08+12:00
 ---
 ![[Usi-Ziyad.png|300]]
 - Leader of the [[Order of Falling Ash|Order of the Burning Rune]]
