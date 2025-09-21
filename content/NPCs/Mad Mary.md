@@ -10,5 +10,6 @@ tags:
 created: 2025-09-06T18:58:00+12:00
 updated: 2025-09-15T23:11:04+12:00
 ---
-![[Mad Mary.png|300]]
+<img src="Mad Mary.png" width="250" style="align: right; float: right; margin: 0 1em;">
+
 - Mother to [[Gertruda]] and wife to [[Doru]]

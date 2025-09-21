@@ -10,7 +10,8 @@ tags:
 created: 2025-07-17T18:00:00+12:00
 updated: 2025-09-14T17:05:38+12:00
 ---
-![[Helwyn.png|300]]
+<img src="Helwyn.png" width="250" style="align: right; float: right; margin: 0 1em;">
+
 - Part of a blood-debt between her parents and [[Glasya]]
 - Raised by [[Yrsa]], a healer in [[Kroksholt]] who died in a mercenary attack
 - Made a [[Glasya's Deal|deal]] with [[Glasya]] to not spy on the party for Glasya (which cost her soul) and identify [[Joy]] as the party traitor (which cost her horns)

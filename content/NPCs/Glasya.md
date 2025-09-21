@@ -14,7 +14,8 @@ party-status: Hostile
 created: 2025-09-06T19:28:00+12:00
 updated: 2025-09-15T23:21:21+12:00
 ---
-![[Glasya.png|300]]
+<img src="Glasya.png" width="250" style="align: right; float: right; margin: 0 1em;">
+
 - Archdevil
 - Resides in [Gehenna](https://forgottenrealms.fandom.com/wiki/Gehenna)
 - ~~Patron of [[Ravaria]]~~

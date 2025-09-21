@@ -8,9 +8,13 @@ played-by: Orion
 tags:
   - pc/in-party
 created: 2025-07-17T18:00:00+12:00
-updated: 2025-09-14T17:05:19+12:00
+updated: 2025-09-22T00:34:58+12:00
 ---
-![[Ravaria_Returned.png|300]]
+<div style="width: 250px; align: right; float: right; margin: 0 1em;">
+	<img src="Ravaria_Returned.png">
+	<img src="Ravaria.png">
+</div>
+
 - ~~Serves an archdevil that she calls "Mother"~~
 - ~~Has a condition that Helwyn must help heal as payment for Helwyn's parents' blood pact to the demon~~
 - ~~Has a demonic/abyssal corruption on her that ages her rapidly~~
@@ -25,5 +29,3 @@ updated: 2025-09-14T17:05:19+12:00
 - No longer trusts Mr Storyteller, sees him as another entity trying to control her
 - Broke her contract with Mr Storyteller
 - Had her face shattered by the Martyn Blast but it was fused by Limbo
-## Other Looks
-![[Ravaria.png|100]]
