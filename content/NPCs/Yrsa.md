@@ -11,7 +11,7 @@ party-status: N/A
 created: 2025-09-06T19:28:00+12:00
 updated: 2025-09-15T23:32:47+12:00
 ---
-<img src="Yrsa.png" width="250" style="align: right; float: right; margin: 0 1em;">
+<img src="Yrsa.png" width="250" style="align: right; float: right; margin: 0 1em 1em;">
 
 - Lived in [[Kroksholt]]
 - Human woman around mid-70s

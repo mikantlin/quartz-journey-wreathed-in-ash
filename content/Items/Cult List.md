@@ -9,7 +9,7 @@ tags:
 created: 2025-09-06T20:17:00+12:00
 updated: 2025-09-06T20:32:00+12:00
 ---
-<img src="Cult List.png" width="250" style="align: right; float: right; margin: 0 1em;">
+<img src="Cult List.png" width="250" style="align: right; float: right; margin: 0 1em 1em;">
 
 # Text
 [[Order of Falling Ash]]: ~~[[Cinderhide]]~~

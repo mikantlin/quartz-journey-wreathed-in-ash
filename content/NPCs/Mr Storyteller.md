@@ -10,7 +10,7 @@ party-status: Unknown
 created: 2025-09-06T19:28:00+12:00
 updated: 2025-09-22T00:33:16+12:00
 ---
-<div style="width: 250px; align: right; float: right; margin: 0 1em;">
+<div style="width: 250px; align: right; float: right; margin: 0 1em 1em;">
 	<img src="Mr Storyteller.png">
 	<img src="Mr Storyteller (Lantern Form).png" style="align: right; float: right; width: 50%;">
 </div>

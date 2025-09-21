@@ -10,7 +10,7 @@ tags:
 created: 2025-07-17T18:00:00+12:00
 updated: 2025-09-22T00:34:58+12:00
 ---
-<div style="width: 250px; align: right; float: right; margin: 0 1em;">
+<div style="width: 250px; align: right; float: right; margin: 0 1em 1em;">
 	<img src="Ravaria_Returned.png">
 	<img src="Ravaria.png">
 </div>

@@ -12,7 +12,7 @@ tags:
 created: 2025-07-17T18:00:00+12:00
 updated: 2025-09-14T14:28:44+12:00
 ---
-<img src="Mother.png" width="250" style="align: right; float: right; margin: 0 1em;">
+<img src="Mother.png" width="250" style="align: right; float: right; margin: 0 1em 1em;">
 
 - Can smash a man to a pulp
 - Can make a cup of tea (is it good?)

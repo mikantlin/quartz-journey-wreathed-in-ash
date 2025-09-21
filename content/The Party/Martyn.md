@@ -10,7 +10,7 @@ tags:
 created: 2025-08-07T18:00:00+12:00
 updated: 2025-09-22T00:35:08+12:00
 ---
-<img src="Martyn.png" width="250" style="align: right; float: right; margin: 0 1em;">
+<img src="Martyn.png" width="250" style="align: right; float: right; margin: 0 1em 1em;">
 
 - Was hired by [[Queen Bergljot]] to help guide the party to a temple
 - Ran away when we killed [[Joy]], says that bad things happens when he gets scared or anxious
