@@ -40,10 +40,8 @@ jobs:
       - name: Delete everything in content/ except index.md
         run: |
           cd journey-wreathed-in-ash-quartz
-          mv content/index.md .
           rm -rf content
           mkdir content
-          mv index.md content
 
       - name: Copy over media and files
         run: |
