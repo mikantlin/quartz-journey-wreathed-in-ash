@@ -9,7 +9,7 @@ players-missing:
   - Caitlyn
 tags:
   - session
-updated: 2025-09-20T13:35:34+12:00
+updated: 2025-09-26T08:50:45+12:00
 created: 2025-09-15T09:07:35+12:00
 ---
 > [!info]- Previously On...
@@ -17,7 +17,7 @@ created: 2025-09-15T09:07:35+12:00
 # TL;DR
 - We fought to protect the village from the undead horde, eventually helping Ismark defeat the last of them at the town's center
 - Rahadin informed us that the siege was over and congratulated Ismark on his "promotion"
-- Ismark rushed to the manor to find his uncle and daughter slaughtered by Strahd
+- Ismark rushed to the manor to find his uncle and sister slaughtered by Strahd
 - Wanting vengeance, Ismark asked us to help him kill Rahadin and find Madame Eva. We argue over the former, with Usi weighing in despite not being asked
 
 ^session-tldr
@@ -41,12 +41,12 @@ created: 2025-09-15T09:07:35+12:00
 - [[Rahadin]] shows up out of the fog with his zombie posse and declares the siege complete, a punishment for the rebellion three months prior. His whispers are as painful as always, especially for Ravaria who riles him up and gets hit hard with it
 - Rahadin recommends we hunt and kill [[Rudolph Van Richten|Van Richten]] like we've been tasked with. He also congratulates Ismark on the promotion, who immediately books it for his mansion. Rahadin leaves, Dirge and Mother make sure villagers are stable, Ravaria continues to loot while the rest of us head off to the mansion to find out what that was all about
 ## A Familiar Loss
-- We find Ismark cradling two bodies at the mansion: his uncle and daughter, slaughtered. He is traumatised and says that they've died at Strahd's own hand. Helwyn and Arran try to comfort him as best they can. Dirge and Mother bump into Ravaria on the way to the mansion, who suddenly has Mother's money to return. Not suspicious at all
+- We find Ismark cradling two bodies at the mansion: his uncle and sister, slaughtered. He is traumatised and says that they've died at Strahd's own hand. Helwyn and Arran try to comfort him as best they can. Dirge and Mother bump into Ravaria on the way to the mansion, who suddenly has Mother's money to return. Not suspicious at all
 - Ismark asks about Van Richten, and whether we plan to kill him or ask for his aid in killing Strahd. There is disagreement amongst the party around it, so he refuses to reveal to us VR's location. He does let us crash at his place where we sleep like the dead (some of us probably more than others). Mother and Helwyn clean and prepare the corpses in preparation for them being put to rest, with Martyn cleaning the blood
 - When we awake, he provides us food and asks for three things:
 	1. Help him kill Rahadin in retaliation for the murder of his family,
 	2. Find [[Madame Eva]], a fortune teller in [[Beruvik]] who can aid us in defeating Strahd, and
-	3. After delivering his uncle and daughter to the church, he would like the party's blessing in duelling Ravaria.
+	3. After delivering his uncle and sister to the church, he would like the party's blessing in duelling Ravaria.
 - The party, in various states around Ravaria's recent actions, unanimously agree that the duel can happen, but Ravaria wants to duel him anyway. A rat is spotted watching Martyn, so he blasts it with magic, spontaneously renovating Ismark's home. Guess he aimed the blast in one direction this time, at least
 ## Best-Laid Plans
 - Ismark explains his plan regarding request 1: Strahd wants the [[Sun Sword]] that Ismark carries, but does not know exactly where it is. Ismark will make contact with Rahadin and offer to hand it over for his people's protection, as long as it's in an area far removed from the town. If we lie in wait, we can ambush and kill Rahadin

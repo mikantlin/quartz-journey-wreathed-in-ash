@@ -8,7 +8,7 @@ players-missing:
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-15T22:15:06+12:00
+updated: 2025-09-26T08:44:49+12:00
 ---
 > [!info]- Previously On...
 > ![[Session 07#^session-tldr]]
@@ -30,7 +30,7 @@ updated: 2025-09-15T22:15:06+12:00
 - [[Mr Storyteller]] is reluctant to go in, telling [[Ravaria]] not to. Eventually, things calm down a little and we head inside the castle
 ## Tonight's Delight
 - We're lead past another bride that Anastrasya spits at. We find out later this is [[Sasha]], who is the newest of the brides (and possibly the victim from the note?)
-- As we enter the waiting area, we meet the other two brides, [[Ludmilla (Bride)|Ludmilla]] (not that one... right?) and [[Volenta]]. They tell us that we're to be entertained by them here for a few minutes before dinner. They also refuse to tell Eliziel where [[Lily]] is.
+- As we enter the waiting area, we meet the other two brides, [[Ludmilla]] (not that one... right?) and [[Volenta]]. They tell us that we're to be entertained by them here for a few minutes before dinner. They also refuse to tell Eliziel where [[Lily]] is.
 - We decide to go freshen up (AKA snoop) and Eliziel, Ravaria and [[Helwyn]] go to the bathroom (with Volenta escorting them). Arran checks out the dragons inside the grand hall with Anastrasya in tow, determining that they're magic in nature. [[Dirge]] tries to stealth out of the men's bathroom and fails miserably
 - Eliziel and co almost get into a fight with Volenta who summons her magic hammer (fucking cool), but we manage to defuse the situation (by telling her we'll fight her later)
 ## The Moonbearer Arrives

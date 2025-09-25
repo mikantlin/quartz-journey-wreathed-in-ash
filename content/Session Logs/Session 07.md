@@ -6,7 +6,7 @@ session-date: 2025-08-28
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-15T21:34:15+12:00
+updated: 2025-09-26T08:42:07+12:00
 ---
 > [!info]- Previously On...
 > ![[Session 06#^session-tldr]]
@@ -27,7 +27,7 @@ updated: 2025-09-15T21:34:15+12:00
 - A random drunk helpfully points out a smokey figure outside the tavern with a sign saying "Martyn". We go and talk to them: it's [[Cinderhide]], making our job way easier than we thought it would be. He says that the giant warship docked behind him is ours and that we have a package from [[Usi-Ziyad|Usi]] for him. We give him the meat and try to ask him some questions, but he ruins it by eating the meat and exploding all over us (RUDE)
 - After [[Dirge]] dry-cleans us all, we discuss whether we should go anywhere near this warship, if we can trust this deal and if anyone in town knows more about this ship (probably not a good look to accidentally steal it). Meanwhile, one of the [[The Bobs|Bobs]] expertly reverses the Chop Shop at high speed onto ship's loading platform without even a scratch - that's my Bob!
 ## Setting Sail (Eventually)
-- We board the ship to find [[Ludmilla]], who claims that she is an envoy for someone of great import (totally [[Strahd|The Moonbearer]]) and that the warship has been gifted to us (well, Martyn specifically) by said person who she cannot reveal too much about (totally The Moonbearer). She says we _could_ take it to see The True King, but he's the only fighter in the place, so is there any point *really*? Much better to come see [[Strahd|The Moonbearer]] directly, and if we want to dispatch him we're welcome to try!
+- We board the ship to find [[Strahd|Ludmilla]], who claims that she is an envoy for someone of great import (totally [[Strahd|The Moonbearer]]) and that the warship has been gifted to us (well, Martyn specifically) by said person who she cannot reveal too much about (totally The Moonbearer). She says we _could_ take it to see The True King, but he's the only fighter in the place, so is there any point *really*? Much better to come see [[Strahd|The Moonbearer]] directly, and if we want to dispatch him we're welcome to try!
 - She also says that she can guarantee [[Lily]] will be there, so [[Eliziel]] (back from her ash-nap in [[Dirge]]'s bottle) is immediately onboard. [[Arran Tirran]] and Martyn want Ludmilla overboard, not trusting a single word she says (fair). After WAY too much discussion about where we even want to go, we decide that taking the ship to Endkleistra is our best chance to get near to Venin, get back Lily and do the job that the Queen has laid out for us: remove the cult leaders and secure [[Alsvartr]].
 - Having searched the ship for anything remotely suspicious and finding nothing, we finally set off to [[Endkleistra]]. Thanks to a fun game (or psychological warfare depending on who you ask) where we secretly voted on how we levelled up, we jumped up to level 7! Training montages ensue: Eliziel and Ravaria beating the shit out of each other, Helwyn and the Bobs attempting to learn welding to help a Mother out, Arran walking around the entire boat refusing to STOP READING BOOKS YOU NERD
 ## The Arena Beckons
