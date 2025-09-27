@@ -7,18 +7,12 @@ players-missing: Simo
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-15T21:29:39+12:00
+updated: 2025-09-27T16:30:00+12:00
 ---
 > [!info]- Previously On...
 > ![[Session 02#^session-tldr]]
-# TL;DR
-- People, including party members are kidnapped in the night
-- We are ambushed by members of the Sanguine Path in the village, fighting and defeating them
-- We stop at Eastern Look, where a lot of gambling happens
-- We make it to Thorath, where we visit the Temple of Kae and are confronted by Usi. A battle occurs that ends with Usi fireballing the entire party and burning the church
 
-^session-tldr
-
+[[#TL;DR]]
 # What Actually Happened?
 ## Lost to the Night
 - [[Arran Tirran]], our [[Flortes|ogre son]], and caravan guards were splendidly kidnapped without us noticing thanks to Hayden’s natural 20
@@ -36,3 +30,10 @@ updated: 2025-09-15T21:29:39+12:00
 - Instead ,we went to the local Church of [[Kae]] in the Noble’s Quarters to discuss how there were now literally three different cults up to various shenanigans
 - [[Usi-Ziyad|Usi]] chose that moment to show up with several minotaurs in tow. During his monologuing, he mentions ANOTHER cult called [[Black Goat]]. A very difficult fight happened where we killed the minotaurs but got our asses handed to us by Usi, who left through a portal (but not before giving us a parting gift of an enlarged fireball)
 - Most of the party got downed and the church is on fire...
+# TL;DR
+- People, including party members are kidnapped in the night
+- We are ambushed by members of the Sanguine Path in the village, fighting and defeating them
+- We stop at Eastern Look, where a lot of gambling happens
+- We make it to Thorath, where we visit the Temple of Kae and are confronted by Usi. A battle occurs that ends with Usi fireballing the entire party and burning the church
+
+^session-tldr

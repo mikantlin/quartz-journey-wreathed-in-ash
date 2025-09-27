@@ -9,19 +9,13 @@ players-missing:
   - Caitlyn
 tags:
   - session
-updated: 2025-09-26T08:50:45+12:00
+updated: 2025-09-27T16:33:36+12:00
 created: 2025-09-15T09:07:35+12:00
 ---
 > [!info]- Previously On...
 > ![[Session 09#^session-tldr]]
-# TL;DR
-- We fought to protect the village from the undead horde, eventually helping Ismark defeat the last of them at the town's center
-- Rahadin informed us that the siege was over and congratulated Ismark on his "promotion"
-- Ismark rushed to the manor to find his uncle and sister slaughtered by Strahd
-- Wanting vengeance, Ismark asked us to help him kill Rahadin and find Madame Eva. We argue over the former, with Usi weighing in despite not being asked
 
-^session-tldr
-
+[[#TL;DR]]
 # What Actually Happened?
 ## Dead of Night
 - After having shopped with him, [[Canemere]] points us to protecting the eastern front of [[Nomduhr]]. He also provides us with equipment: materials for building more barricades, fantasy Molotov cocktails, and his nephew [[Parriwimble]]. A raven with blue-tipped wings watches us as we steel ourselves for the battle ahead
@@ -53,3 +47,10 @@ created: 2025-09-15T09:07:35+12:00
 - The party are in conflict around this plan: Some believe that if Strahd finds out what has happened to Rahadin, he will escalate even further and obliterate the townsfolk. There are votes for trying to get the people out of [[Alsvartr]] completely, but Ismark argues that there is great risk in that too. He states that they will risk their lives in seeing Strahd brought down, but some of the party are unconvinced.
 - We discuss maybe trying to pin the murder on another cult, that way Ismark and his people are hopefully kept out of harm's way and we make some progress on destabilising a couple of cults. Maybe [[Usi-Ziyad|Usi]]? He's happy to help (oh yeah, he appears when you say his name - damn it)
 - We discuss back and forth the absolutely INSANE number of plans that Usi has for killing Rahadin. Ravaria wants to get the townsfolk out of there and leave Strahd and his cronies to their games. A few of the party start to come around to the possibility of Usi and the [[Order of Falling Ash|Order]] being involved but Helwyn is strongly opposed, on account of the guy fireballing us and her sense that the villagers will not be kept safe in any of Usi's plans. Much debating follows on and on and on and...
+# TL;DR
+- We fought to protect the village from the undead horde, eventually helping Ismark defeat the last of them at the town's center
+- Rahadin informed us that the siege was over and congratulated Ismark on his "promotion"
+- Ismark rushed to the manor to find his uncle and sister slaughtered by Strahd
+- Wanting vengeance, Ismark asked us to help him kill Rahadin and find Madame Eva. We argue over the former, with Usi weighing in despite not being asked
+
+^session-tldr

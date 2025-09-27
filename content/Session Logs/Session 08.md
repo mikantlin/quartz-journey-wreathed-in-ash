@@ -8,18 +8,12 @@ players-missing:
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-26T08:44:49+12:00
+updated: 2025-09-27T16:33:02+12:00
 ---
 > [!info]- Previously On...
 > ![[Session 07#^session-tldr]]
-# TL;DR
-- We're invited to the Moonbearer's castle for dinner, things getting tense when a note is passed to us by one of the staff. We have some strange conversations with the Moonbearer's wives before being seated for dinner
-- The Moonbearer (AKA Strahd) ask us questions about our past, reveals that Martyn is a walking timebomb, and that he has placed the soul of Lily into Mother
-- After an incredibly tense dinner, we're tasked with finding Van Richten, a man who had tried to assassinate Strahd, and allowed to leave
-- Ravaria has a dispute with Mr Storyteller and decides to break their contract. Meanwhile, Arran and Helwyn try to calm down Martyn who is on the brink of an explosion
 
-^session-tldr
-
+[[#TL;DR]]
 # What Actually Happened?
 ## An Invitation
 - Fresh from the arena, we were greeted by [[Rahadin]] and his 1000 dead screaming friends, carrying an invitation from [[Strahd|The Moonbearer]]
@@ -53,3 +47,10 @@ updated: 2025-09-26T08:44:49+12:00
 - Once we leave, the party fall to arguing. Eliziel flies off as there's no transportation back to the city and it's at least an 8-hour walk. Arran and Martyn go off to drink, but Helwyn notices Martyn becoming overwhelmed by the power within him. He begins to meditate, but it still explodes outwards, throwing Helwyn and Arran 30 feet away.
 - Dirge prays to [[Alucard]] about his son, and gets a response to bring down Strahd's cult and power so that Alucard can take him. Ravaria asks Dirge about Mr Storyteller and what she should do. He makes the point that without him, Ravaria will be less powerful, but at least she'll definitely be free
 - Ravaria questions Mr Storyteller about why he didn't properly warn her about the dangers in the castle. She feels she is being controlled yet again and wants out. Mr Storyteller offers her a way out of the contract: shoot herself with the gun. She does...?
+# TL;DR
+- We're invited to the Moonbearer's castle for dinner, things getting tense when a note is passed to us by one of the staff. We have some strange conversations with the Moonbearer's wives before being seated for dinner
+- The Moonbearer (AKA Strahd) ask us questions about our past, reveals that Martyn is a walking timebomb, and that he has placed the soul of Lily into Mother
+- After an incredibly tense dinner, we're tasked with finding Van Richten, a man who had tried to assassinate Strahd, and allowed to leave
+- Ravaria has a dispute with Mr Storyteller and decides to break their contract. Meanwhile, Arran and Helwyn try to calm down Martyn who is on the brink of an explosion
+
+^session-tldr

@@ -8,17 +8,12 @@ players-missing:
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-15T23:35:21+12:00
+updated: 2025-09-27T16:31:13+12:00
 ---
 > [!info]- Previously On...
 > ![[Session 04#^session-tldr]]
-# TL;DR
-- We sneak into the temple and fight our way to Ulsedra Vox, who surrenders and reveals themselves to be a figurehead and distraction from another assassination attempt on the Queen
-- While racing back, we find Revaria returned from the dead with a new ally in tow: Mr Storyteller
-- We get back just in time to foil Eero's plans, but he escapes. We are paid for our work, then tasked with tracking him down
 
-^session-tldr
-
+[[#TL;DR]]
 # What Actually Happened?
 ## Ambushing the Ambush
 - The gang (+ Thelonia our cart driver) had just finished torturing and murdering Joy when our new friend Martyn decided to leg it for some reason! Weird.
@@ -56,3 +51,9 @@ updated: 2025-09-15T23:35:21+12:00
 ## (Axe)Homeward Bound
 - The Queen's got intel that the cults are currently holed up in [[Axehome]], a town heading north out of [[Thorath]]. After providing Helwyn with her new mobile doctoring wagon (working name: [[Helwyn's Chop Shop]]) and some apprentices, the gang pack up to head off.
 - BUT FIRST, we gotta hit up Artefacts R Us and buy out that sweet, sweet merch...
+# TL;DR
+- We sneak into the temple and fight our way to Ulsedra Vox, who surrenders and reveals themselves to be a figurehead and distraction from another assassination attempt on the Queen
+- While racing back, we find Revaria returned from the dead with a new ally in tow: Mr Storyteller
+- We get back just in time to foil Eero's plans, but he escapes. We are paid for our work, then tasked with tracking him down
+
+^session-tldr
