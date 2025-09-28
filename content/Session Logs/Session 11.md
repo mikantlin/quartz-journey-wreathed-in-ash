@@ -9,7 +9,7 @@ players-missing:
 tags:
   - session
 draft: true
-updated: 2025-09-27T16:33:52+12:00
+updated: 2025-09-28T19:47:13+13:00
 created: 2025-09-26T08:49:20+12:00
 ---
 > [!info]- Previously On...
@@ -19,7 +19,8 @@ created: 2025-09-26T08:49:20+12:00
 # What Actually Happened?
 ## A Grave Danger
 - We get Ismark's deceased loved ones to the Church of [[Ezra|the Mists]], where prayer can be heard within. We knock but no-one responds. [[Parriwimble]] turns up and says that [[Father Donavich]] is scared and refusing to answer. Dirge does his undead ping and picks up something in the church basement. [[Ismark]] asks Parriwimble to knock, which he does NOT fuck around on, ringing the church's bells and causing Father Donavich to call for us to come in
-- When we get in, Dirge asks him about the undead in the basement. He tells us that his son [[Doru]] is locked in there, having come back as a 
+- When we get in, Dirge asks him about the undead in the basement. He tells us that his son [[Doru]] is locked in there, having come back to the town as a vampire spawn, but that he cannot bring himself to kill Doru. He asks to do it, and we agree to it. Ismark offers to wait with Donavich, and [[Usi-Ziyad|Usi]] offers to wait with [[Ravaria]], which is... nice, I guess?
+- We go down into the basement and find Doru unlike the feral vampire spawn that we were expecting. He tells us that 16 weeks ago, he encountered a man called Alanic Ray protecting the town from a werewolf(?) attack. During the attack, his disguise hat is knocked off and reveals him as [[Rudolph Van Richten|Van Richten]], who Doru nerds out over having read all his book
 # TL;DR
 - We confront Doru, the leader of the rebellion against Strahd, now his vampire spawn. With some control over his abilities, we decide to bring Doru with us to find a freedom from his Strahd connection
 - After some arguing, we decide to go along with the plan to call Rahadin to the town center and ambush him there with Usi's assistance
