@@ -7,9 +7,11 @@ found-at: "[[Nulb Temple]]"
 tags:
   - item/with-party
 created: 2025-09-06T20:17:00+12:00
-updated: 2025-09-06T20:32:00+12:00
+updated: 2025-10-01T00:12:17+13:00
 ---
-<img src="Cult List.png" width="250" style="align: right; float: right; margin: 0 1em 1em;">
+<div style="width: 250; align: right; float: right; margin: 0 1em 1em;">
+	<img src="Cult List.png" />
+</div>
 
 # Text
 [[Order of Falling Ash]]: ~~[[Cinderhide]]~~

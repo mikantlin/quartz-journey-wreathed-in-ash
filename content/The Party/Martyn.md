@@ -8,9 +8,11 @@ played-by: Zac
 tags:
   - pc/in-party
 created: 2025-08-07T18:00:00+12:00
-updated: 2025-09-22T00:35:08+12:00
+updated: 2025-10-01T00:20:03+13:00
 ---
-<img src="Martyn.png" width="250" style="align: right; float: right; margin: 0 1em 1em;">
+<div style="width: 250; align: right; float: right; margin: 0 1em 1em;">
+	<img src="Martyn.png" />
+</div>
 
 - Was hired by [[Queen Bergljot]] to help guide the party to a temple
 - Ran away when we killed [[Joy]], says that bad things happens when he gets scared or anxious
@@ -18,3 +20,6 @@ updated: 2025-09-22T00:35:08+12:00
 - [[Strahd]] revealed that he is a "nuke" (a volatile arcane power sits inside of him)
 - Accidentally killed his wife and his crew with his power
 - Lost his arm in the Martyn Blast
+
+> [!INFO] Above the Table
+> - May not have actually killed his wife

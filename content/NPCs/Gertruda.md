@@ -8,9 +8,11 @@ party-status: Unknown
 tags:
   - npc
 created: 2025-09-06T18:58:00+12:00
-updated: 2025-09-15T23:13:35+12:00
+updated: 2025-10-01T00:16:36+13:00
 ---
-<img src="default.png" width="250" style="align: right; float: right; margin: 0 1em 1em;">
+<div style="width: 250; align: right; float: right; margin: 0 1em 1em;">
+	<img src="default.png" />
+</div>
 
 - 22 years old
 - Daughter to [[Mad Mary]] and [[Doru]]
