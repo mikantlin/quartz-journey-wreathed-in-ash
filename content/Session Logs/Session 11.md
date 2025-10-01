@@ -9,7 +9,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-10-01T23:00:21+13:00
+updated: 2025-10-02T08:44:07+13:00
 created: 2025-09-26T08:49:20+12:00
 ---
 > [!info]- Previously On...
@@ -46,7 +46,7 @@ created: 2025-09-26T08:49:20+12:00
 - At this point, the mirror portal opens and Usi is back through! Bad news is that it's at high-velocity towards a wall and he's been beaten the shit out of. Ludmilla follows him and she is looking PISSED. Usi goes for his go-to response of "burn the entire fucking place down" and lights up the buildings, just to give Dirge some extra nightmares after this fight for good measure
 ## Here Comes the Sun
 - Ismark gets up close with Rahadin and the gang and basically just slaps them with the SUN. Too-many-souls lady is bye-bye, Rahadin is pretty fucked but standing strong, Ludmilla is down to 2HP(!) and Usi looks after number one by bamfing out of there. So much for love I guess, although I wouldn't want to be Ismark right now after barbequing Usi's ex
-- Down to the wire, Arran tries to take Ludmilla down properly with some well-placed Magic Missiles but she plays defence and stays standing. She creates a Dimension Door and Rahadin force-shoves her through it, aiding her escape back to Strahd. SHIIIIIIIIIT
+- Down to the wire, Arran tries to take Ludmilla down for good. He flings an owl-delivered Shocking Grasp at her but she plays defence with Shield. He fire dashes (thanks to Leg 2.0) and runs the flames at her but she resists them legendarily. Still somehow standing, she creates a Dimension Door and Rahadin force-shoves her through it, aiding her escape back to Strahd. SHIIIIIIIIIT
 - Rahadin draws two more scimitars and releases his 1000 tormenting spirits onto the town. Feels like this guy is just getting started with us, and we're already pretty fucked. No biggie...
 # TL;DR
 - We are tasked by Father Donavich to kill his son Doru, the leader of the rebellion against Strahd, now locked away as a vampire spawn in the church's basement. With some control over his abilities, we decide to bring Doru with us to find a freedom from his Strahd connection

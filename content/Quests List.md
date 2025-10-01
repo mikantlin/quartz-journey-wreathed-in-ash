@@ -2,7 +2,7 @@
 title: Quests List
 description: A list of the tasks that we've done and got to do.
 created: 2025-09-06T20:39:00+12:00
-updated: 2025-10-01T22:57:53+13:00
+updated: 2025-10-02T08:39:15+13:00
 ---
 # Main Quests
 ## Stop the cults
@@ -26,6 +26,8 @@ updated: 2025-10-01T22:57:53+13:00
 - [ ] Find [[Rudolph Van Richten|Van Richten]]
 	- May be under the alias 'Alanic Ray'(?)
 - [ ] Find out what's happened to [[The Bobs]]
+## [[Knafgata]]
+- [ ] Visit [[Father Lucien]] at [[St Markovia's Abbey]]
 ## [[Nomduhr]]
 - [-] ~~Defend the town from the undead attacks~~
 - [-] ~~Help [[Ismark the Lesser|Ismark]] bury his loved ones, Ireena and Kolyan~~
@@ -33,4 +35,3 @@ updated: 2025-10-01T22:57:53+13:00
 - [ ] Find Van Richten's weapons cache
 	- Along the river from Nomduhr
 	- When we reach Svallich Road, 300 paces south under an oak tree
-
