@@ -2,7 +2,7 @@
 title: Quests List
 description: A list of the tasks that we've done and got to do.
 created: 2025-09-06T20:39:00+12:00
-updated: 2025-10-02T08:39:15+13:00
+updated: 2025-10-02T08:49:09+13:00
 ---
 # Main Quests
 ## Stop the cults
@@ -16,7 +16,7 @@ updated: 2025-10-02T08:39:15+13:00
 ## End Strahd's tyranny
 - [ ] Take down [[Strahd]]
 	- Take his allies out first to weaken him
-	- Enlist our own allies to even the oddsz
+	- Enlist our own allies to even the odds
 # Side Quests
 ## [[Beruvik]]
 - [ ] Find [[Madame Eva]]

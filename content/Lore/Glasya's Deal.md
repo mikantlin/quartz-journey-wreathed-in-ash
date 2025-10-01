@@ -5,10 +5,10 @@ aliases:
 tags:
   - lore
 created: 2025-09-06T20:04:00+12:00
-updated: 2025-09-06T20:43:00+12:00
+updated: 2025-10-02T08:53:43+13:00
 ---
 # The Covenant
-## By Will and Word of [[Glasya]], Princess of Malbolge, Keeper of Chains, Daughter of Asmodeus, and Mistress of the Silent Court
+**By Will and Word of [[Glasya]], Princess of Malbolge, Keeper of Chains, Daughter of Asmodeus, and Mistress of the Silent Court**
 ## Preamble
 Let it be known upon this day, beneath the shadow of the Nine and in witness of the Infernal Codex, that an accord is struck between ***Her Infernal Grace, Glasya of Malbolge***, and ***[[Helwyn]], Horn-Bearer and Mortal Supplicant***.
 
