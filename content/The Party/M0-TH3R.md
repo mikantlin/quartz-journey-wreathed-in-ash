@@ -10,11 +10,11 @@ played-by: Jade
 tags:
   - pc/in-party
 created: 2025-07-17T18:00:00+12:00
-updated: 2025-10-01T00:18:35+13:00
+updated: 2025-10-04T15:43:44+13:00
 ---
-<div style="width: 250; align: right; float: right; margin: 0 1em 1em;">
-	<img src="Mother.png" />
-</div>
+<Carousel>
+	<img src="Mother.png" alt="Mother" />
+</Carousel>
 
 - Can smash a man to a pulp
 - Can make a cup of tea (is it good?)

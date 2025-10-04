@@ -8,10 +8,10 @@ party-status: Ally
 tags:
   - npc
 created: 2025-09-06T18:58:00+12:00
-updated: 2025-10-01T00:18:46+13:00
+updated: 2025-10-04T15:43:51+13:00
 ---
-<div style="width: 250; align: right; float: right; margin: 0 1em 1em;">
-	<img src="Mad Mary.png" />
-</div>
+<Carousel>
+	<img src="Mad Mary.png" alt="Mad Mary" />
+</Carousel>
 
 - Mother to [[Gertruda]] and wife to [[Doru]]

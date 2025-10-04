@@ -8,11 +8,11 @@ played-by: Zac
 tags:
   - pc/in-party
 created: 2025-08-07T18:00:00+12:00
-updated: 2025-10-01T00:20:03+13:00
+updated: 2025-10-04T15:43:44+13:00
 ---
-<div style="width: 250; align: right; float: right; margin: 0 1em 1em;">
-	<img src="Martyn.png" />
-</div>
+<Carousel>
+	<img src="Martyn.png" alt="Martyn" />
+</Carousel>
 
 - Was hired by [[Queen Bergljot]] to help guide the party to a temple
 - Ran away when we killed [[Joy]], says that bad things happens when he gets scared or anxious

@@ -8,11 +8,11 @@ played-by: me
 tags:
   - pc/in-party
 created: 2025-07-17T18:00:00+12:00
-updated: 2025-10-01T00:17:22+13:00
+updated: 2025-10-04T15:43:45+13:00
 ---
-<div style="width: 250; align: right; float: right; margin: 0 1em 1em;">
-	<img src="Helwyn.png" />
-</div>
+<Carousel>
+	<img src="Helwyn.png" alt="Helwyn" />
+</Carousel>
 
 - Part of a blood-debt between her parents and [[Glasya]]
 - Raised by [[Yrsa]], a healer in [[Kroksholt]] who died in a mercenary attack

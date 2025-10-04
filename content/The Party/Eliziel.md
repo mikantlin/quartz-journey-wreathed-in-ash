@@ -8,11 +8,11 @@ played-by: Caitlin
 tags:
   - pc/in-party
 created: 2025-07-24T18:00:00+12:00
-updated: 2025-10-01T00:15:37+13:00
+updated: 2025-10-04T15:43:45+13:00
 ---
-<div style="width: 250; align: right; float: right; margin: 0 1em 1em;">
-	<img src="Eliziel.jpg" />
-</div>
+<Carousel>
+	<img src="Eliziel.jpg" alt="Eliziel" />
+</Carousel>
 
 - She is a 'shard' of the goddess [[Kae]] (whatever that means)
 - Has taken on the body of a willing sacrifice

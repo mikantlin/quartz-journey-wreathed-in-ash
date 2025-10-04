@@ -10,11 +10,11 @@ played-by: Simo
 tags:
   - pc/in-party
 created: 2025-07-17T18:00:00+12:00
-updated: 2025-10-01T00:13:11+13:00
+updated: 2025-10-04T15:43:46+13:00
 ---
-<div style="width: 250; align: right; float: right; margin: 0 1em 1em;">
-	<img src="Arran.png" />
-</div>
+<Carousel>
+	<img src="Arran.png" alt="Arran" />
+</Carousel>
 
 - Some sort of magic user
 - Made a fall guy and in prison for years for trying to access the [[Book of Nine Dooms]]

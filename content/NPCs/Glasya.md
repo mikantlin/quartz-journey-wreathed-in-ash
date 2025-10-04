@@ -12,11 +12,11 @@ species: Archdevil
 current-location: "[[Gehenna]]"
 party-status: Hostile
 created: 2025-09-06T19:28:00+12:00
-updated: 2025-10-01T00:16:47+13:00
+updated: 2025-10-04T15:43:57+13:00
 ---
-<div style="width: 250; align: right; float: right; margin: 0 1em 1em;">
-	<img src="Glasya.png" />
-</div>
+<Carousel>
+	<img src="Glasya.png" alt="Glasya" />
+</Carousel>
 
 - Archdevil
 - Resides in [Gehenna](https://forgottenrealms.fandom.com/wiki/Gehenna)

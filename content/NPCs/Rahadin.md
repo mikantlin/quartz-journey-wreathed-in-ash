@@ -1,19 +1,19 @@
 ---
-title: Rahadin
-description: Servant of Strahd.
-tags:
-  - npc
+title: Rudolph Van Richten
+description: Enemy of Strahd.
 aliases:
-species: Human
+  - Van Richten
+species: Unknown
 current-location: "[[Endkleistra]]"
 party-status: Unknown
+tags:
+  - npc
 created: 2025-09-06T19:28:00+12:00
-updated: 2025-10-01T00:21:22+13:00
+updated: 2025-10-04T15:43:50+13:00
 ---
-<div style="width: 250; align: right; float: right; margin: 0 1em 1em;">
-	<img src="Rahadin.png" />
-</div>
+<Carousel>
+	<img src="default.png" alt="default" />
+</Carousel>
 
-- Can bamf around
-- Called off the final assault of [[Nomduhr]], presumably was leading it the whole time
-- Devoted to [[Ludmilla]]
+- Attempted to assassinate [[Strahd]] in the rebellion with [[Doru]]
+- Possibly somewhere in Endkleistra

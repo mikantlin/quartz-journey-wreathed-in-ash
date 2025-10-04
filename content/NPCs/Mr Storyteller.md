@@ -8,12 +8,12 @@ species: Unknown
 current-location: Unknown
 party-status: Unknown
 created: 2025-09-06T19:28:00+12:00
-updated: 2025-09-22T00:33:16+12:00
+updated: 2025-10-04T15:42:03+13:00
 ---
-<div style="width: 250px; align: right; float: right; margin: 0 1em 1em;">
+<Carousel>
 	<img src="Mr Storyteller.png">
 	<img src="Mr Storyteller (Lantern Form).png" style="align: right; float: right; width: 50%;">
-</div>
+</Carousel>
 
 - Provided [[Ravaria]] a way back to the mortal realm from [[Limbo]]
 - Cleansed [[Arran Tirran|Arran]] of his Venom curse by burning it out of him via his hand

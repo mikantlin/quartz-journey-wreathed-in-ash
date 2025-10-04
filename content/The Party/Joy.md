@@ -11,12 +11,12 @@ tags:
   - deceased
   - pc
 created: 2025-07-24T18:00:00+12:00
-updated: 2025-09-22T00:32:31+12:00
+updated: 2025-10-04T15:41:59+13:00
 ---
-<div style="width: 250px; align: right; float: right; margin: 0 1em 1em;">
+<Carousel>
 	<img src="Rags.png">
 	<img src="Joy.png">
-</div>
+</Carousel>
 
 - They were a 'follower' of [[Dirge]]
 - Turned up at Dirge's church, then had to prove that they were independent?

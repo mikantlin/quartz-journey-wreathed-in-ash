@@ -8,12 +8,12 @@ played-by: Orion
 tags:
   - pc/in-party
 created: 2025-07-17T18:00:00+12:00
-updated: 2025-10-01T00:04:46+13:00
+updated: 2025-10-04T15:41:58+13:00
 ---
-<div style="width: 250px; align: right; float: right; margin: 0 1em 1em;">
+<Carousel>
 	<img src="Ravaria_Returned.png">
 	<img src="Ravaria.png">
-</div>
+</Carousel>
 
 - ~~Serves an archdevil that she calls "Mother"~~
 - ~~Has a condition that Helwyn must help heal as payment for Helwyn's parents' blood pact to the demon~~

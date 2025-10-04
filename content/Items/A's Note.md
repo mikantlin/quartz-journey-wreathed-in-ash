@@ -7,9 +7,12 @@ held-by:
 tags:
   - item/with-party
 created: 2025-09-06T20:17:00+12:00
-updated: 2025-09-06T20:31:00+12:00
+updated: 2025-10-04T15:44:01+13:00
 ---
-![[A's Note.png]]
+<Carousel>
+	<img src="A's Note.png" alt="A's Note" />
+</Carousel>
+
 # Text
 Spy in castle
 seeks a meeting to discuss an opportunity.

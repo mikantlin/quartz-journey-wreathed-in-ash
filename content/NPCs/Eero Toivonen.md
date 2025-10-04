@@ -10,11 +10,11 @@ species: Human
 current-location: N/A
 party-status: N/A
 created: 2025-09-06T19:28:00+12:00
-updated: 2025-10-01T00:14:58+13:00
+updated: 2025-10-04T15:43:57+13:00
 ---
-<div style="width: 250; align: right; float: right; margin: 0 1em 1em;">
-	<img src="Eero_Toivonen.png" />
-</div>
+<Carousel>
+	<img src="Eero_Toivonen.png" alt="Eero_Toivonen" />
+</Carousel>
 
 - ~~Advisor for [[Queen Bergljot]]~~
 - Helped with the attempted assassination of the Queen and her town
