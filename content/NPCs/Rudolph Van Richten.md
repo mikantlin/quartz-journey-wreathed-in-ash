@@ -1,18 +1,19 @@
 ---
-title: Sasha
-description: Bride of Strahd and part of the Venin.
+title: Rudolph Van Richten
+description: Enemy of Strahd.
 tags:
   - npc
 aliases:
+  - Van Richten
 species: Unknown
-current-location: "[[Strahd's Castle]]"
+current-location: "[[Endkleistra]]"
 party-status: Unknown
 created: 2025-09-06T19:28:00+12:00
-updated: 2025-10-04T15:43:49+13:00
+updated: 2025-10-07T08:55:59+13:00
 ---
 <Carousel>
-	<img src="Sasha.png" alt="Sasha" />
+	<img src="default.png" alt="default" />
 </Carousel>
 
-- Most recent of [[Strahd]]'s brides (possibly against her will?)
-- Member of [[Venin]]
+- Attempted to assassinate [[Strahd]] in the rebellion with [[Doru]]
+- Possibly somewhere in Endkleistra

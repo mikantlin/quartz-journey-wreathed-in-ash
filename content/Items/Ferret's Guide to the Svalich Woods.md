@@ -4,7 +4,7 @@ description: A book written by Ferret regarding things she's found in the woods.
 found-at: "[[Svalich Woods]]"
 tags:
   - item/with-party
-updated: 2025-10-07T08:52:02+13:00
+updated: 2025-10-07T08:56:33+13:00
 created: 2025-10-06T20:26:15+13:00
 ---
 <Carousel>
@@ -39,7 +39,7 @@ Now I will introduce myself properly: I'm 10 years old, the [[Seeker]]'s daughte
 
 All my life I have lived in the [[Svalich Woods]] and have seen many, many interesting things there, which I wrote down for my friends and anyone else who might find the stories amusing or helpful.
 
-(~~this book is a bit like the one by Van Richten, but I think mine is still better~~)
+(~~this book is a bit like the one by [[Rudolph Van Richten|Van Richten]], but I think mine is still better~~)
 I hope the book will make you happy and cheer you up!
 
 With love and all sorts of nice things

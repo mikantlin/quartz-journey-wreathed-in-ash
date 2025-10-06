@@ -1,19 +1,22 @@
 ---
-title: Rudolph Van Richten
-description: Enemy of Strahd.
+title: Rahadin
+description: Strahd's War General.
 aliases:
-  - Van Richten
-species: Unknown
+  - 
+species: Human
 current-location: "[[Endkleistra]]"
-party-status: Unknown
+party-status: N/A
 tags:
   - npc
+  - deceased
 created: 2025-09-06T19:28:00+12:00
-updated: 2025-10-04T15:43:50+13:00
+updated: 2025-10-07T08:56:06+13:00
 ---
 <Carousel>
-	<img src="default.png" alt="default" />
+	<img src="Rahadin.png" alt="Rahadin" />
 </Carousel>
 
-- Attempted to assassinate [[Strahd]] in the rebellion with [[Doru]]
-- Possibly somewhere in Endkleistra
+- War General of [[Strahd]]
+- Serves [[Ludmilla]] almost obsessively
+- Was responsible for the siege on [[Nomduhr]]
+- Killed by [[Dirge]] after the ambush
