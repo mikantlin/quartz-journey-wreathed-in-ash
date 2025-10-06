@@ -4,7 +4,7 @@ description: A book written by Ferret regarding things she's found in the woods.
 found-at: "[[Svalich Woods]]"
 tags:
   - item/with-party
-updated: 2025-10-07T08:48:16+13:00
+updated: 2025-10-07T08:52:02+13:00
 created: 2025-10-06T20:26:15+13:00
 ---
 <Carousel>
@@ -29,16 +29,15 @@ created: 2025-10-06T20:26:15+13:00
     <img src="fgttsw_pg19.jpg" alt="Ferret's Guide to the Svalich Woods - The Leshy" />
 </Carousel>
 
-# Text
-## Welcome!
-With all the ceremony I want to dedicate this book to Lady Arisa von Fellengard and to all, all, all my friends.
+# Welcome!
+With all the ceremony I want to dedicate this book to [[Lady Arisa von Fellengard]] and to all, all, all my friends.
 
-My name is Ferret and I am the author of this book! It was a present for Lady Arisa von Fellengard during our wonderful vacation in Krezk, so if you accidently happened to find it, please try and give it back!
+My name is [[Ferret]] and I am the author of this book! It was a present for Lady Arisa von Fellengard during our wonderful vacation in [[Krezk]], so if you accidently happened to find it, please try and give it back!
 
 But if she or any of my other friends lend it to you, then **<u>a big, big welcome!</u>**
-Now I will introduce myself properly: I'm 10 years old, the Seeker's daughter and the priestess of the Mother Night!
+Now I will introduce myself properly: I'm 10 years old, the [[Seeker]]'s daughter and the priestess of the [[Mother Night]]!
 
-All my life I have lived in the Svalich Woods and have seen many, many interesting things there, which I wrote down for my friends and anyone else who might find the stories amusing or helpful.
+All my life I have lived in the [[Svalich Woods]] and have seen many, many interesting things there, which I wrote down for my friends and anyone else who might find the stories amusing or helpful.
 
 (~~this book is a bit like the one by Van Richten, but I think mine is still better~~)
 I hope the book will make you happy and cheer you up!
