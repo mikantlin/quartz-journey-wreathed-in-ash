@@ -8,7 +8,7 @@ played-by: me
 tags:
   - pc/in-party
 created: 2025-07-17T18:00:00+12:00
-updated: 2025-10-04T15:43:45+13:00
+updated: 2025-10-07T14:16:35+13:00
 ---
 <Carousel>
 	<img src="Helwyn.png" alt="Helwyn" />
@@ -17,5 +17,5 @@ updated: 2025-10-04T15:43:45+13:00
 - Part of a blood-debt between her parents and [[Glasya]]
 - Raised by [[Yrsa]], a healer in [[Kroksholt]] who died in a mercenary attack
 - Made a [[Glasya's Deal|deal]] with [[Glasya]] to not spy on the party for Glasya (which cost her soul) and identify [[Joy]] as the party traitor (which cost her horns)
-- Lost her eye in a fight at [[Nulb Temple]]
+- ~~Lost her eye in a fight at [[Nulb Temple]]~~ Replaced her eye with a magic one
 - Had her spine malformed into wings by the Martyn Blast

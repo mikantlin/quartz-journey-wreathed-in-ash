@@ -1,6 +1,6 @@
 ---
 created: 2025-09-06T20:17:00+12:00
-updated: 2025-09-13T18:42:00+12:00
+updated: 2025-10-07T15:20:16+13:00
 ---
 - [Oil of Slipperiness](https://www.dndbeyond.com/magic-items/4689-oil-of-slipperiness)
 - 1 x [Greater Healing Potion](https://www.dndbeyond.com/magic-items/5133-potion-of-healing-greater)
