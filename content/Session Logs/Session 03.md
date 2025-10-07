@@ -7,9 +7,9 @@ players-missing: Simo
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-27T16:30:00+12:00
+updated: 2025-10-07T17:41:19+13:00
 ---
-> [!info]- Previously On...
+> [!info]- Previously On JWiA...
 > ![[Session 02#^session-tldr]]
 
 [[#TL;DR]]

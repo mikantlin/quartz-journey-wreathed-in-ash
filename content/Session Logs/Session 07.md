@@ -6,9 +6,9 @@ session-date: 2025-08-28
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-27T16:32:48+12:00
+updated: 2025-10-07T17:41:17+13:00
 ---
-> [!info]- Previously On...
+> [!info]- Previously On JWiA...
 > ![[Session 06#^session-tldr]]
 
 [[#TL;DR]]

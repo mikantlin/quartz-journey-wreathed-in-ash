@@ -8,9 +8,9 @@ players-missing:
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-27T16:31:54+12:00
+updated: 2025-10-07T17:41:17+13:00
 ---
-> [!info]- Previously On...
+> [!info]- Previously On JWiA...
 > ![[Session 05#^session-tldr]]
 
 [[#TL;DR]]

@@ -9,8 +9,8 @@ players-missing:
   - Zac
 tags:
   - session
-draft: true
-updated: 2025-10-07T17:33:59+13:00
+draft: false
+updated: 2025-10-07T17:40:23+13:00
 created: 2025-10-02T00:42:57+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -45,4 +45,5 @@ created: 2025-10-02T00:42:57+13:00
 - We managed to kill Rahadin, thanks to the help of a new ally and party member, Jaswyn. Helwyn tortured a mercenary who was involved in the death of her mentor
 - We stumbled upon a young girl living in the Svalich Woods who helped us find Van Richten's stash, as well as telling us all about the weird and wonderful things in the woods. We managed to somehow wish the Chop Shop and the Bobs to the Woods
 - We met with Anastraya on the way to Madame Eva. She warns us that her husband is not happy with us and that she would kill us next time we met her. Madame Eva gave us a tarot reading that could help guide us in our quest to bring down Strahd
+
 ^session-tldr

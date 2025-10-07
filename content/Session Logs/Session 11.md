@@ -9,10 +9,10 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-10-02T08:44:07+13:00
+updated: 2025-10-07T17:41:14+13:00
 created: 2025-09-26T08:49:20+12:00
 ---
-> [!info]- Previously On...
+> [!info]- Previously On JWiA...
 > ![[Session 10#^session-tldr]]
 
 [[#TL;DR]]

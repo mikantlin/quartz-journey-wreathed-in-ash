@@ -9,10 +9,10 @@ players-missing:
   - Caitlyn
 tags:
   - session
-updated: 2025-09-27T16:33:36+12:00
+updated: 2025-10-07T17:41:15+13:00
 created: 2025-09-15T09:07:35+12:00
 ---
-> [!info]- Previously On...
+> [!info]- Previously On JWiA...
 > ![[Session 09#^session-tldr]]
 
 [[#TL;DR]]
