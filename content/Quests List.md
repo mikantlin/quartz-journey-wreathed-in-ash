@@ -2,7 +2,7 @@
 title: Quests List
 description: A list of the tasks that we've done and got to do.
 created: 2025-09-06T20:39:00+12:00
-updated: 2025-10-07T17:23:58+13:00
+updated: 2025-10-07T17:38:51+13:00
 ---
 # Main Quests
 ## Stop the cults
@@ -46,7 +46,7 @@ updated: 2025-10-07T17:23:58+13:00
 ## [[Svalich Woods]]
 - [ ] Find the [[Ferret's Guide to the Svalich Woods#Cry of War|Cry of War]] armour
 # PC Quests (That We Know About)
-## Helwyn
+## [[Helwyn]]
 - [ ] Get shit back
 	- [x] Get her [[The Bobs|interns]] back
 	- [x] Get her [[Helwyn's Chop Shop|Chop Shop]] back
@@ -56,16 +56,16 @@ updated: 2025-10-07T17:23:58+13:00
 	- [ ] Kill [[Marcus]] in [[Endkleistra]]
 	- [ ] Kill the fake priest in [[Knafgata]]
 	- [ ] Kill the inside man in [[Strahd's Castle]]
-## Arran
+## [[Arran Tirran|Arran]]
 - [ ] Get revenge for the whole fall guy incident
 - [ ] Help Martyn learn to control his magical abilities
-## Mother
+## [[M0-TH3R|Mother]]
 - [ ] Find a home for [[Lily]]'s soul
-## Eliziel
+## [[Eliziel]]
 - [ ] Find a home for Lily's soul
-## Martyn
+## [[Martyn]]
 - [ ] Deliver the rest of his letters
 - [ ] Get a handle on his chaos magic
-## Dirge
+## [[Dirge]]
 - [ ] Eat everything
 - [ ] Deliver Strahd to [[Alucard]]

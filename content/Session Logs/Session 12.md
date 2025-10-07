@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 draft: true
-updated: 2025-10-07T17:09:46+13:00
+updated: 2025-10-07T17:33:59+13:00
 created: 2025-10-02T00:42:57+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -30,7 +30,7 @@ created: 2025-10-02T00:42:57+13:00
 ## Loose Ends
 - [[Usi-Ziyad|Usi]] shows up and discusses with the group their agreement, taking a pause to casually roast Lukas to death with a firebolt (ironically, that's fucking cold). He checks that [[Ludmilla]] is still alive and says that his business with the party is now concluded, so we're on our own from now on (oh no...) As Usi heads away, Ismark suggests killing him to help ensure that his cult is stopped and him being the cause of Rahadin's death is made more likely. The party refuse, stating that without Usi and the Order's help they would not have been able to bring Rahadin down. See, we DO have (some) morals!
 - Arran takes this time to talk to some Order members, asking how they are okay with Usi leaving them during the fight. They moralise that Usi was looking after his family, a loyal thing to do. They also argue about the politics of the situation, the Order guys claiming that their group are focused on returning the world to its natural state through fire. Arran's dubious about this, thinking them mindless followers
-- Helwyn throws up in an alleyway once out of sight from the group, struggling to process what she's done. After an hour or so of moping there, she eventually drags herself to [[Canemere]]'s workshop, determined to fix one broken part at least. She gets stupidly lucky and finds a magic eye that can see invisibility. As the others show up, she also finds three [Supreme Potions of Healing](https://www.dndbeyond.com/magic-items/5135-potion-of-healing-supreme), a ring of lightning resistance (that goes to [[M0-TH3R|Mother]] to avoid any short-circuit situations) and a [Corpse Slayer Sling](https://dnd5e.wikidot.com/wondrous-items:corpse-slayer), which Dirge promptly smacks himself in the face with
+- Helwyn throws up in an alleyway once out of sight from the group, struggling to process what she's done. After an hour or so of moping there, she eventually drags herself to [[Canemere]]'s workshop, determined to fix one broken part at least. She gets stupidly lucky and finds a magic eye that can see invisibility. As the others show up, she also finds 3 [Supreme Potions of Healing](https://www.dndbeyond.com/magic-items/5135-potion-of-healing-supreme), a ring of lightning resistance (that goes to [[M0-TH3R|Mother]] to avoid any short-circuit situations) and a [Corpse Slayer Sling](https://dnd5e.wikidot.com/wondrous-items:corpse-slayer), which Dirge promptly smacks himself in the face with
 ## On the Road Again
 - We take a breather, then head off towards [[Knafgata]] to find [[Madame Eva]]. Once we're on Svalich Road and heading through the [[Svalich Woods|woods]], we're stopped by the guardian of the forest, [[Ferret]]. She asks us if we want to buy her [[Ferret's Guide to the Svalich Woods|book]] (of course we do, have you seen how fucking CUTE that thing is?)
 - We read about the adorable, absolutely-not-terrifying creatures and objects dwelling in the forest for a while, and ask her about her living here. She mentions that she doesn't know where her parents are and that [[Nice Uncle]] looks after her. She is also a follower of the [[the Lady of the Mists]] who Doru tells us 'helps people find where they wish to be needed'.
