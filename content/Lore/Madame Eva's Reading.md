@@ -1,5 +1,8 @@
 ---
-updated: 2025-10-07T16:57:17+13:00
+title: Madame Eva's Reading
+tags:
+  - lore
+updated: 2025-10-07T17:43:49+13:00
 created: 2025-10-07T16:30:40+13:00
 ---
 # History
@@ -14,6 +17,7 @@ created: 2025-10-07T16:30:40+13:00
 **Represents:** Selflessness, wealth to be distributed to others
 ## Fey
 **Chosen Trait:** Situation
+
 **Represents:** An absurd situation that is to be taken lightly
 
 # Holy Symbol
@@ -28,6 +32,7 @@ created: 2025-10-07T16:30:40+13:00
 **Represents:** Aggression, violence, leadership and nobility
 ## Expert (Reversed)
 **Chosen Trait:** Person
+
 **Represents:** Someone who thinks that they are an expert but are not particularly helpful
 
 # Weapon
@@ -42,6 +47,7 @@ created: 2025-10-07T16:30:40+13:00
 **Represents:** Intellect, inspiration, a keen mind
 ## Cavern (Reversed)
 **Chosen Trait:** Person
+
 **Represents:** All motivations being exposed
 
 # Ally
@@ -56,6 +62,7 @@ created: 2025-10-07T16:30:40+13:00
 **Represents:** Strength and force for use towards their goals
 ## Humanoid
 **Chosen Trait:** Person
+
 **Represents:** Empathetic
 
 # Enemy
@@ -70,4 +77,5 @@ created: 2025-10-07T16:30:40+13:00
 **Represents:** The looming past. It can be attacked to expose your enemy's weakness
 ## Mage
 **Chosen Trait:** Person
+
 **Represents:** A warlock or wizard, or good luck innate. Madame Eva interprets this being that because of who his father is, Strahd considers himself a good person

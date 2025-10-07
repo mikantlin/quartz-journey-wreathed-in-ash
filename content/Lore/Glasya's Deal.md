@@ -1,11 +1,11 @@
 ---
+title: Glasya's Deal
 aliases:
-  - Glasya's Deal
   - The Covenant
 tags:
   - lore
 created: 2025-09-06T20:04:00+12:00
-updated: 2025-10-02T08:53:43+13:00
+updated: 2025-10-07T17:42:51+13:00
 ---
 # The Covenant
 **By Will and Word of [[Glasya]], Princess of Malbolge, Keeper of Chains, Daughter of Asmodeus, and Mistress of the Silent Court**
