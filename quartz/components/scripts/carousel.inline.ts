@@ -7,21 +7,16 @@ interface CarouselInstance {
 // Cache for initialized carousels to avoid re-processing
 const initializedCarousels = new WeakSet<HTMLElement>();
 
-document.addEventListener('DOMContentLoaded', () => {
-  const contentArea = document.querySelector('#quartz-body .center')
-                        || document.body;
-
-  initAllCarousels(contentArea);
-  setupCarouselObserver(contentArea);
-
-  // Make initCarousel available globally
-  (window as any).initCarousel = initCarousel;
-});
-
 // Initializes all carousels within the specified container
-function initAllCarousels(container: Element): void {
+function initAllCarousels(container: Element, isNewPage: Boolean = false): void {
   const carousels = container.querySelectorAll<HTMLElement>('.quartz-carousel[data-needs-init="true"]');
-  carousels.forEach(initCarousel);
+  carousels.forEach((carousel) => {
+      if (isNewPage) {
+        clearCarousel(carousel);
+      }
+      initCarousel(carousel)
+    }
+  );
 }
 
 // Setup a MutationObserver to watch for new carousels being added to the DOM
@@ -118,14 +113,16 @@ function showImageModal(img: HTMLImageElement): void {
   };
 
   // Keyboard handler (Escape key)
-  const handleKeyDown = (e: KeyboardEvent) => {
+  const _handleKeyDown = (e: KeyboardEvent) => {
     if (e.key === 'Escape') {
       closeModal();
-      document.removeEventListener('keydown', handleKeyDown);
+      document.removeEventListener('keydown', _handleKeyDown);
     }
   };
 
-  document.addEventListener('keydown', handleKeyDown);
+  document.addEventListener('keydown', _handleKeyDown);
+
+  window.addCleanup(() => document.removeEventListener("keydown", _handleKeyDown))
 }
 
 // Initialize a carousel and return an instance
@@ -135,12 +132,9 @@ function initCarousel(carousel: HTMLElement): CarouselInstance | null {
     return null;
   }
 
-  // Mark as initialized
-  initializedCarousels.add(carousel);
-  carousel.removeAttribute('data-needs-init');
-
   const slidesContainer = carousel.querySelector<HTMLElement>('.quartz-carousel-slides');
   if (!slidesContainer) {
+    markCarouselAsInitialized();
     return null;
   }
 
@@ -151,8 +145,14 @@ function initCarousel(carousel: HTMLElement): CarouselInstance | null {
 
   let currentIndex = 0;
 
-  // Early return for single slide
-  if (slides.length <= 1) {
+  if (slides.length == 0) {
+    return null;
+  }
+
+    // Early return for single slide
+  if (slides.length == 1) {
+    slidesContainer.classList.add('disable-transitions')
+    goToSlide(0);
     hideNavigationElements();
     setupImageClickHandlers();
     return createCarouselInstance();
@@ -165,7 +165,13 @@ function initCarousel(carousel: HTMLElement): CarouselInstance | null {
   setupImageClickHandlers();
 
   // Initialize first slide
+  slidesContainer.classList.add('disable-transitions')
   goToSlide(0);
+  setTimeout(() => {
+    slidesContainer.classList.remove('disable-transitions');
+  }, 0);
+
+  markCarouselAsInitialized();
 
   function hideNavigationElements(): void {
     prevButton?.style.setProperty('display', 'none');
@@ -178,10 +184,13 @@ function initCarousel(carousel: HTMLElement): CarouselInstance | null {
       const img = slide.querySelector('img');
       if (img) {
         img.style.cursor = 'pointer';
-        img.addEventListener('click', (e) => {
+        const _handleImgModal = (e: Event): void => {
           e.stopPropagation();
           showImageModal(img);
-        }, { passive: true });
+        }
+
+        img.addEventListener('click', _handleImgModal, { passive: true });
+        window.addCleanup(() => img.removeEventListener("click", _handleImgModal))
       }
     });
   }
@@ -195,8 +204,12 @@ function initCarousel(carousel: HTMLElement): CarouselInstance | null {
     slides.forEach((_, index) => {
       const dot = document.createElement('span');
       dot.className = index === 0 ? 'dot active' : 'dot';
-      dot.addEventListener('click', () => goToSlide(index), { passive: true });
+
+      const _dotClick = () => goToSlide(index);
+      dot.addEventListener('click', _dotClick, { passive: true });
       fragment.appendChild(dot);
+
+      window.addCleanup(() => dot.removeEventListener("click", _dotClick))
     });
 
     dotsContainer.innerHTML = '';
@@ -204,24 +217,28 @@ function initCarousel(carousel: HTMLElement): CarouselInstance | null {
   }
 
   function setupNavigation(): void {
-    const handlePrevClick = (e: Event): void => {
+    const _handlePrevClick = (e: Event): void => {
       e.preventDefault();
       goToSlide(currentIndex - 1);
     };
 
-    const handleNextClick = (e: Event): void => {
+    const _handleNextClick = (e: Event): void => {
       e.preventDefault();
       goToSlide(currentIndex + 1);
     };
 
-    prevButton?.addEventListener('click', handlePrevClick, { passive: false });
-    nextButton?.addEventListener('click', handleNextClick, { passive: false });
+    prevButton?.addEventListener('click', _handlePrevClick, { passive: false });
+    nextButton?.addEventListener('click', _handleNextClick, { passive: false });
+
+    window.addCleanup(() => carousel.removeEventListener("click", _handlePrevClick))
+    window.addCleanup(() => carousel.removeEventListener("click", _handleNextClick))
   }
 
   // Setup keyboard navigation (Arrow keys)
   function setupKeyboardNavigation(): void {
     carousel.setAttribute('tabindex', '0');
-    carousel.addEventListener('keydown', (e: KeyboardEvent) => {
+
+    const _keyPress = (e: KeyboardEvent) => {
       switch (e.key) {
         case 'ArrowLeft':
           e.preventDefault();
@@ -232,7 +249,11 @@ function initCarousel(carousel: HTMLElement): CarouselInstance | null {
           goToSlide(currentIndex + 1);
           break;
       }
-    }, { passive: false });
+    }
+
+    carousel.addEventListener('keydown', _keyPress, { passive: false });
+
+    window.addCleanup(() => carousel.removeEventListener("keydown", _keyPress))
   }
 
   // Setup touch navigation (swipe gestures)
@@ -240,14 +261,20 @@ function initCarousel(carousel: HTMLElement): CarouselInstance | null {
     let touchStartX = 0;
     let touchEndX = 0;
 
-    carousel.addEventListener('touchstart', (e: TouchEvent) => {
+    const _trackTouchStart = (e: TouchEvent) => {
       touchStartX = e.changedTouches[0].screenX;
-    }, { passive: true });
+    }
 
-    carousel.addEventListener('touchend', (e: TouchEvent) => {
+    const _trackTouchEnd = (e: TouchEvent) => {
       touchEndX = e.changedTouches[0].screenX;
       handleSwipe();
-    }, { passive: true });
+    }
+
+    carousel.addEventListener('touchstart', _trackTouchStart, { passive: true });
+    carousel.addEventListener('touchend', _trackTouchEnd, { passive: true });
+
+    window.addCleanup(() => carousel.removeEventListener("touchstart", _trackTouchStart))
+    window.addCleanup(() => carousel.removeEventListener("touchend", _trackTouchEnd))
 
     function handleSwipe(): void {
       const minSwipeDistance = 50;
@@ -294,5 +321,26 @@ function initCarousel(carousel: HTMLElement): CarouselInstance | null {
     };
   }
 
+  // Mark as initialized
+  function markCarouselAsInitialized(): void {
+    initializedCarousels.add(carousel);
+    carousel.removeAttribute('data-needs-init');
+  }
+
   return createCarouselInstance();
 }
+
+function clearCarousel(carousel: HTMLElement): void {
+  initializedCarousels.delete(carousel)
+}
+
+const _pageNavLoadCarousels = () => {
+  const contentArea = document.querySelector('#quartz-body')
+                        || document.body;
+
+  initAllCarousels(contentArea, true);
+  setupCarouselObserver(contentArea);
+};
+
+document.addEventListener('nav', _pageNavLoadCarousels);
+// document.addEventListener('prenav', _pageNavClearCarousels);

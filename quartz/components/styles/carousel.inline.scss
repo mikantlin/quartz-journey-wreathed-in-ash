@@ -15,7 +15,13 @@ article .quartz-carousel {
 
   .quartz-carousel-slides {
     display: flex;
+    transform: initial;
     transition: transform 0.5s ease-in-out;
+
+
+    &.disable-transitions {
+      transition: none !important;
+    }
 
     .quartz-carousel-slide {
       flex: 0 0 100%;
