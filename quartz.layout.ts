@@ -25,7 +25,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug == "index",
     }),
     Component.ConditionalRender({
-      component: Component.ContentMeta(),
+      component: Component.ContentMeta({showReadingTime: false}),
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.TagList(),
@@ -58,7 +58,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
