@@ -1,3 +1,38 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+// hide date for subfolders on folderpage
+.page-listing {
+    li.section-li:has(.section .desc a.internal[href$="/"]) {
+        .meta {
+            // hides date, keep indent
+            visibility: hidden;
+        }
+    }
+}
+
+// indicate folder more clearly on folderpage
+.page-listing {
+    li.section-li:has(.section .desc a.internal[href$="/"]) {
+        .desc a.internal {
+            // prepend folder emoji
+            &:before {
+                content: "📁";
+            }
+        }
+    }
+}
+
+// Adding some spacing between entries in the explorer
+div.explorer {
+    .overflow {
+        li {
+            li {
+                margin-bottom: 0.3rem;
+            }
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
