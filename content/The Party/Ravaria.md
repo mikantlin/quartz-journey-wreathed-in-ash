@@ -6,9 +6,9 @@ pronounced: ra-VAH-ree-ah
 pronouns: she/her
 played-by: Orion
 tags:
-  - pc/in-party
+  - pc
 created: 2025-07-17T18:00:00+12:00
-updated: 2025-10-04T15:41:58+13:00
+updated: 2025-10-13T23:17:56+13:00
 ---
 <Carousel>
 	<img src="Ravaria_Returned.png">
