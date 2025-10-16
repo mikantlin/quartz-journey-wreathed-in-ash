@@ -1,5 +1,5 @@
 ---
-title: "13: A Town Called Malice"
+title: "13: Stories and Starvation"
 description: The party fend off attacks as they head to Knafgata. Eventually getting in, they meet with Father Lucien, spend the night talking about some heavy stuff at the inn, and happen to run into a potential new ally.
 aliases:
   - 
@@ -8,8 +8,8 @@ players-missing:
   - 
 tags:
   - session
-draft: true
-updated: 2025-10-16T15:56:21+13:00
+draft: false
+updated: 2025-10-16T15:58:16+13:00
 created: 2025-10-07T17:39:21+13:00
 ---
 > [!info]- Previously On JWiA...
