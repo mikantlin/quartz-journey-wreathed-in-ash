@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-10-08T08:54:38+13:00
+updated: 2025-10-16T15:50:35+13:00
 created: 2025-10-02T00:42:57+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -19,7 +19,7 @@ created: 2025-10-02T00:42:57+13:00
 [[#TL;DR]]
 # What Actually Happened?
 ## No Getting Away
-- The fight with an incredibly pissed-off [[Rahadin]] continues. [[Dirge]] manages to turn 400 of the undead that are attacking the town and us, leaving only... \*does the maths\* 1,600 angry elven spirits to deal with. Easy! [[Martyn]] falls into an old-man nap (AKA magically-induced stress-related coma). Rahadin goes hand-to-hand with [[Doru]] and [[Helwyn]], who gains multiple stab wounds (this is why you don't bring fists to a sword fight) and the spirits paralyze [[Arran]] with their screams, but we manage to start whittling him down
+- The fight with an incredibly pissed-off [[Rahadin]] continues. [[Dirge]] manages to turn 400 of the undead that are attacking the town and us, leaving only... \*does the maths\* 1,600 angry elven spirits to deal with. Easy! [[Martyn]] falls into an old-man nap (AKA magically-induced stress-related coma). Rahadin goes hand-to-hand with [[Doru]] and [[Helwyn]], who gains multiple stab wounds (this is why you don't bring fists to a sword fight) and the spirits paralyze [[Arran Tirran|Arran]] with their screams, but we manage to start whittling him down
 - On the ropes now, Rahadin books it to the exit and throws up a wall behind him, blocking us from chasing him down. Luckily, a healer in the town sees Rahadin and recognises him as a threat, hitting him with an acid arrow. It should kill him, but Rahadin's wearing an 'in case of emergency' amulet that keeps him standing
 - Dirge misty steps through the barrier and sees the healer's attack. He casts Blight on Rahadin and disintegrates him. The spirits fade away and the wall blocking the rest of the party crumbles. We've finally put down one of [[Strahd]]'s people for good!
 ## A Lesson in Mercy
