@@ -2,15 +2,14 @@
 title: "12: Unfinished Business"
 description: Rahadin is finally brought down, thanks to the help of a new party member. Helwyn encounters a figure from her past. The party meet a helpful young girl in the woods, are threatened by Anastrasya, and are given guidance from Madame Eva via a tarot reading.
 aliases:
-  - Session 12
-  - "Session 12: Unfinished Business"
+  - 
 session-date: 2025-10-02
 players-missing:
   - Zac
 tags:
   - session
 draft: false
-updated: 2025-10-16T15:50:35+13:00
+updated: 2025-10-17T18:29:51+13:00
 created: 2025-10-02T00:42:57+13:00
 ---
 > [!info]- Previously On JWiA...
