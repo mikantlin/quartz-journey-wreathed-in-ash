@@ -1,12 +1,14 @@
 ---
 title: "01: The Adventure Begins"
-session-no: 1
 description: Through various events, the party are brought together for the first time to fight a fiery cult and a vicious hag.
+aliases:
+  - "Session 1: The Adventure Begins"
+session-no: 1
 session-date: 2025-07-17
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-09-27T16:29:01+12:00
+updated: 2025-10-18T10:57:35+13:00
 ---
 [[#TL;DR]]
 # What Actually Happened?

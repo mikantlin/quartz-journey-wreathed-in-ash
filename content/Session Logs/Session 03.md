@@ -1,13 +1,15 @@
 ---
 title: "03: Cults and Criminals"
-session-no: 3
 description: The party discover cult activity, gamble with criminals and complete their guarding duties before meeting with an old friend.
+aliases:
+  - "Session 3: Cults and Criminals"
+session-no: 3
 session-date: 2025-07-31
 players-missing: Simo
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-10-07T17:41:19+13:00
+updated: 2025-10-18T10:57:08+13:00
 ---
 > [!info]- Previously On JWiA...
 > ![[Session 02#^session-tldr]]

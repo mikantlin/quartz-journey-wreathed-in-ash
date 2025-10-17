@@ -1,15 +1,15 @@
 ---
 title: "10: Darkness Falls"
-session-no: 10
 description: The party manage to keep the town standing somehow in the wake of the last undead attack. Ismark brings us a difficult request and Usi throws in his two cents.
 aliases:
-  - "10: Darkness Falls"
+  - "Session 10: Darkness Falls"
+session-no: 10
 session-date: 2025-09-18
 players-missing:
   - Caitlyn
 tags:
   - session
-updated: 2025-10-07T17:41:15+13:00
+updated: 2025-10-18T10:54:41+13:00
 created: 2025-09-15T09:07:35+12:00
 ---
 > [!info]- Previously On JWiA...

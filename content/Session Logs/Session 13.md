@@ -2,14 +2,15 @@
 title: "13: Stories and Starvation"
 description: The party fend off attacks as they head to Knafgata. Eventually getting in, they meet with Father Lucien, spend the night talking about some heavy stuff at the inn, and happen to run into a potential new ally.
 aliases:
-  - 
+  - "Session 13: Stories and Starvation"
+session-no: 13
 session-date: 2025-10-09
 players-missing:
   - 
 tags:
   - session
 draft: false
-updated: 2025-10-17T08:32:41+13:00
+updated: 2025-10-18T10:55:18+13:00
 created: 2025-10-07T17:39:21+13:00
 ---
 > [!info]- Previously On JWiA...

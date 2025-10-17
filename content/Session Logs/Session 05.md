@@ -1,14 +1,16 @@
 ---
 title: "05: Misdirection"
-session-no: 5
 description: The party sneak into the temple and disrupt the ambush, but find that the true threat is within the capital itself, while a familiar face returns to the group.
+aliases:
+  - "Session 5: Misdirection"
+session-no: 5
 session-date: 2025-08-14
 players-missing:
   - Zac
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-10-07T17:41:18+13:00
+updated: 2025-10-18T10:56:39+13:00
 ---
 > [!info]- Previously On JWiA...
 > ![[Session 04#^session-tldr]]

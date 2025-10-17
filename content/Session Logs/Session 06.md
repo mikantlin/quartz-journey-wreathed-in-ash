@@ -1,14 +1,16 @@
 ---
 title: "06: A Disheartened Town"
-session-no: 6
 description: The party travel to Axehome to hunt out the cultists, but find a town that's suffering under a charming evil. An unlikely ally might also provide the key to reaching their goals.
+aliases:
+  - "Session 6: A Disheartened Town"
+session-no: 6
 session-date: 2025-08-21
 players-missing:
   - Caitlyn
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-10-07T17:41:17+13:00
+updated: 2025-10-18T10:56:24+13:00
 ---
 > [!info]- Previously On JWiA...
 > ![[Session 05#^session-tldr]]
