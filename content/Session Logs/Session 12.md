@@ -7,10 +7,11 @@ session-no: 12
 session-date: 2025-10-02
 players-missing:
   - Zac
+  - Caitlyn
 tags:
   - session
 draft: false
-updated: 2025-10-18T10:55:06+13:00
+updated: 2025-10-21T22:49:48+13:00
 created: 2025-10-02T00:42:57+13:00
 ---
 > [!info]- Previously On JWiA...

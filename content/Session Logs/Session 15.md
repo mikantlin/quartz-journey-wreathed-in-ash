@@ -6,11 +6,11 @@ aliases:
 session-no: 15
 session-date: 2025-10-21
 players-missing:
-  - 
+  - Caitlyn
 tags:
   - session
 draft: true
-updated: 2025-10-21T19:46:13+13:00
+updated: 2025-10-21T22:49:27+13:00
 created: 2025-10-21T19:45:59+13:00
 ---
 > [!info]- Previously On JWiA...

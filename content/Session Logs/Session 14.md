@@ -8,10 +8,11 @@ session-date: 2025-10-16
 players-missing:
   - Jade
   - Ethan
+  - Caitlyn
 tags:
   - session
 draft: false
-updated: 2025-10-21T22:43:48+13:00
+updated: 2025-10-21T22:49:32+13:00
 created: 2025-10-16T15:13:11+13:00
 ---
 > [!info]- Previously On JWiA...
