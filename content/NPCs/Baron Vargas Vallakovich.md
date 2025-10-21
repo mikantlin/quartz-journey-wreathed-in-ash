@@ -10,7 +10,7 @@ current-location: "[[Knafgata]]"
 party-status: Unknown
 tags:
   - npc
-updated: 2025-10-17T08:12:36+13:00
+updated: 2025-10-21T19:42:10+13:00
 created: 2025-10-17T08:05:16+13:00
 ---
 
@@ -20,3 +20,5 @@ created: 2025-10-17T08:05:16+13:00
 </Carousel>
 
 - Leader of [[Knafgata]]
+- Boss(?) of [[Izek]]
+- Honestly believes that the town's many festivals are keeping it safe from [[Strahd]]

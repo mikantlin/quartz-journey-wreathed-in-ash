@@ -3,12 +3,13 @@ title: Doctor Arthur Sedwick
 description: Mentee of Van Richten.
 aliases:
   - Rictavio
+  - Dr Arthur Sedwick
 species: Human
 current-location: "[[Knafgata]]"
 party-status: Ally
 tags:
   - npc
-updated: 2025-10-17T08:01:15+13:00
+updated: 2025-10-21T19:42:19+13:00
 created: 2025-10-17T07:57:49+13:00
 ---
 
