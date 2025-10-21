@@ -1,4 +1,5 @@
 ---
+title: Helwyn
 species: Tiefling (Chthonic)
 dnd-classes:
   - Monk (Warrior of Mercy)
@@ -8,7 +9,7 @@ played-by: me
 tags:
   - pc/in-party
 created: 2025-07-17T18:00:00+12:00
-updated: 2025-10-07T14:16:35+13:00
+updated: 2025-10-21T23:46:39+13:00
 ---
 <Carousel>
 	<img src="Helwyn.png" alt="Helwyn" />

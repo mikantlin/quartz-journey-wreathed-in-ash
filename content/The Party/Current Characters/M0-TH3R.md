@@ -1,16 +1,17 @@
 ---
+title: M0-TH3R
 aliases:
   - Mother
 species: Warforged
 dnd-classes:
   - Paladin (Oathbreaker)
-pronounced: Mother
+pronounced: MUH-thur
 pronouns: she/her
 played-by: Jade
 tags:
   - pc/in-party
 created: 2025-07-17T18:00:00+12:00
-updated: 2025-10-04T15:43:44+13:00
+updated: 2025-10-21T23:52:27+13:00
 ---
 <Carousel>
 	<img src="Mother.png" alt="Mother" />

@@ -1,5 +1,6 @@
 ---
-species: Unknown
+title: Eliziel
+species: Celestial
 dnd-classes:
   - Barbarian
 pronounced: el-LEE-zee-el
@@ -8,7 +9,7 @@ played-by: Caitlin
 tags:
   - pc/in-party
 created: 2025-07-24T18:00:00+12:00
-updated: 2025-10-04T15:43:45+13:00
+updated: 2025-10-21T23:46:23+13:00
 ---
 <Carousel>
 	<img src="Eliziel.jpg" alt="Eliziel" />

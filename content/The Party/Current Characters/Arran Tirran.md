@@ -1,16 +1,17 @@
 ---
+title: Arran Tirran
 aliases:
   - Arran
 species: Elf
 dnd-classes:
   - Wizard (Bladesinger)
-pronounced: ah-RAHN
+pronounced: AH-run
 pronouns: he/him
 played-by: Simo
 tags:
   - pc/in-party
 created: 2025-07-17T18:00:00+12:00
-updated: 2025-10-04T15:43:46+13:00
+updated: 2025-10-21T23:46:03+13:00
 ---
 <Carousel>
 	<img src="Arran.png" alt="Arran" />

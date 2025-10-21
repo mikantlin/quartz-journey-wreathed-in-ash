@@ -1,14 +1,16 @@
 ---
+title: Martyn
 species: Human
 dnd-classes:
-  - Rogue
+  - Rogue (Swashbuckler)
+  - Sorcerer (Wild Magic)
 pronounced: MAH-tin
 pronouns: he/him
 played-by: Zac
 tags:
   - pc/in-party
 created: 2025-08-07T18:00:00+12:00
-updated: 2025-10-04T15:43:44+13:00
+updated: 2025-10-21T23:52:40+13:00
 ---
 <Carousel>
 	<img src="Martyn.png" alt="Martyn" />

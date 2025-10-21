@@ -1,4 +1,5 @@
 ---
+title: Dirge
 species: Halfling
 dnd-classes:
   - Cleric (Grave Domain)
@@ -8,7 +9,7 @@ played-by: Pocholo
 tags:
   - pc/in-party
 created: 2025-07-17T18:00:00+12:00
-updated: 2025-10-04T15:43:46+13:00
+updated: 2025-10-21T23:45:51+13:00
 ---
 <Carousel>
 	<img src="Dirge.png" alt="Dirge" />
