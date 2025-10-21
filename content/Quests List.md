@@ -2,7 +2,7 @@
 title: Quests List
 description: A list of the tasks that we've done and got to do.
 created: 2025-09-06T20:39:00+12:00
-updated: 2025-10-07T17:38:51+13:00
+updated: 2025-10-21T22:37:35+13:00
 ---
 # Main Quests
 ## Stop the cults
@@ -17,7 +17,7 @@ updated: 2025-10-07T17:38:51+13:00
 - [ ] Take down [[Strahd]]'s allies
 	- [x] [[Rahadin]]
 	- [ ] [[Anastrasya]]
-	- [ ] [[Volenta]]
+	- [x] [[Volenta]]
 	- [ ] [[Ludmilla]]
 	- [ ] [[Sasha]]
 - [ ] Enlist our own allies to even the odds
@@ -34,7 +34,8 @@ updated: 2025-10-07T17:38:51+13:00
 	- May be under the alias 'Alanic Ray'(?)
 - [x] Find out what's happened to [[The Bobs]]
 ## [[Knafgata]]
-- [ ] Visit [[Father Lucien]] at [[St Markovia's Abbey]]
+- [x] Visit [[Father Lucien]] at [[St Markovia's Abbey]]
+- [x] Recover the [[Bones of St. Andral]]
 ## [[Nomduhr]]
 - [x] Defend the town from the undead attacks
 - [x] Help [[Ismark the Lesser|Ismark]] bury his loved ones, Ireena and Kolyan
@@ -51,7 +52,7 @@ updated: 2025-10-07T17:38:51+13:00
 	- [x] Get her [[The Bobs|interns]] back
 	- [x] Get her [[Helwyn's Chop Shop|Chop Shop]] back
 	- [ ] Get her soul and horns back from [[Glasya]]
-- [ ] Finish what she promised [[Yrsa]]
+- [ ] Finish what she promised to [[Yrsa]]
 	- [x] Track down Lukas
 	- [ ] Kill [[Marcus]] in [[Endkleistra]]
 	- [ ] Kill the fake priest in [[Knafgata]]

@@ -11,7 +11,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-10-21T19:39:01+13:00
+updated: 2025-10-21T22:43:48+13:00
 created: 2025-10-16T15:13:11+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -45,12 +45,6 @@ created: 2025-10-16T15:13:11+13:00
 - Martyn decides to go for desperate tactics and grabs the bones, diving out of the window and into the alleyway below. He eats dirt (not for the first time this session), falling unconscious. Volenta, being on the ropes, drops a vine bomb to ensnare us, followed by a firebomb to flambé us, before jumping out the window and bringing her hammer down on the back of Martyn's head. His eye pops out and Volenta tears it from his head (welcome to the club, buddy!)
 - Volenta books it over the rooftops. Arran and Dirge Misty Step in pursuit, while Helwyn can't get out of these DAMN FUCKING VINES. Arran hits Volenta with a couple of magic missile attacks, bringing her down as Dirge steps up. Volenta swears that Strahd will make us pay before Dirge finishes her off for good with a Sacred Flame to the face. Clerics, man.
 - Helwyn finally gets free and sees Martyn down in the alleyway bleeding to death. She jumps down and provides some healing, bringing him back but breaking the news that he's part of the One-Eye Gang now. Angrily, he heads into Henrik's shop and grabs the fanciest wooden planks he can find. However you need to process, my guy! So that's one of Strahd's wives brought to near-death and one that's, like, *dead* dead. The Moonbearer is REALLY not going to be happy about this...
-# Quotes of the Day
-> *Hayden (to Simo):* "You get advantage on attacking the floor."
-> *Zac:* "Yeah, cos the floor counts as prone!"
-
-> "May you be worth something in the next life..."
-> *- Dirge, before Sacred Flaming Volenta*
 # TL;DR
 - The gang gets their first introduction to the Baron of Knafgata and his lackey Izek, when an old woman is almost crushed, then exiled, for being unhappy. Father Lucien intervenes, taking us to the church and asking us to investigate a robbery of a powerful relic: The bones of St. Andral.
 - We met Yeska, a young orphan who helps at the church, and Milivoj, a fairly recent addition to the Knafgata priesthood.  We check out the crime scene and speak to Yeska, ultimately learning that he didn't have any reason to steal the relic or even know the crypt that housed it existed.
