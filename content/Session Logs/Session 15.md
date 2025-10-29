@@ -12,7 +12,7 @@ players-missing:
 tags:
   - session
 draft: true
-updated: 2025-10-29T15:50:49+13:00
+updated: 2025-10-29T16:38:27+13:00
 created: 2025-10-21T19:45:59+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -51,7 +51,7 @@ created: 2025-10-21T19:45:59+13:00
 - Helwyn heads around the house and flies up to Izek as he falls, getting another attack in on the arm as Izek comes down and hits the ground. He takes it like a champ, calmly exploding outwards with a fire burst that hits pretty much everyone. Helwyn almost dies and falls out of the air, but she's caught by Mother at the last second and is still up somehow. What a lucky escape!
 ## Paying the Price
 - Izek temper-tantrums more further fire explosions, taking down Dirge, Mother and Helwyn. Arran's the only one still standing, and he manages to fire Magic Missiles point-blank into Izek's arm join, finally taking the big bastard down (BADASS).
-- Arran manages to stabilise Mother and Dirge, but Helwyn dies from her wounds. Doru returns and Arran asks him to try and bring back Dirge, but the only way he can do that is by making Dirge undead. Arran makes the call for him to do it (Dirge is going to be in a interesting space after this, that's for sure).
+- Arran manages to stabilise Mother, but finds that Helwyn and Dirge have died from their battle wounds. Doru returns and Arran asks him to try and bring back Dirge, but the only way he can do that is by making Dirge undead. Arran makes the call for him to do it (Dirge is going to be in a interesting space after this, that's for sure).
 - Arran goes to Helwyn's body and grabs the key that Glasya had given her as part of the contract. He invokes Glasya's name, telling her that if she doesn't want it going to Strahd, she better help bring Helwyn come back right now (never mind, THAT is badass). Let's see if a certain archdevil pays Arran a visit...
 # TL;DR
 - Mother receives a letter inviting the party to dinner with a Lady Fiona Wachter. She also bumps into Izek and (not realising who he is) leads him to Ismark at the church, leaving the two of them to come find the rest of the party. When they realise what's happened, the party heads to the church and finds the aftermath of a fight with no sign of Izek or Ismark.
