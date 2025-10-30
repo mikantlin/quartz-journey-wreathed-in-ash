@@ -11,8 +11,8 @@ players-missing:
   - Ethan
 tags:
   - session
-draft: true
-updated: 2025-10-29T16:38:27+13:00
+draft: false
+updated: 2025-10-31T11:46:52+13:00
 created: 2025-10-21T19:45:59+13:00
 ---
 > [!info]- Previously On JWiA...
