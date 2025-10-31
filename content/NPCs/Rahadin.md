@@ -4,13 +4,13 @@ description: Strahd's War General.
 aliases:
   - 
 species: Human
-current-location: "[[Endkleistra]]"
+current-location: N/A
 party-status: N/A
 tags:
   - npc
   - deceased
 created: 2025-09-06T19:28:00+12:00
-updated: 2025-10-07T08:56:06+13:00
+updated: 2025-11-01T00:54:57+13:00
 ---
 <Carousel>
 	<img src="Rahadin.png" alt="Rahadin" />

@@ -6,7 +6,8 @@ current-location: "[[Knafgata]]"
 party-status: Unknown
 tags:
   - npc
-updated: 2025-10-21T19:20:59+13:00
+  - undead
+updated: 2025-11-01T00:56:28+13:00
 created: 2025-10-17T08:04:16+13:00
 ---
 

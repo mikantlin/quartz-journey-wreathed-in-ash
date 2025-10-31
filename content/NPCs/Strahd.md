@@ -3,15 +3,16 @@ title: Strahd
 description: Leader of Alsvartr and demi-god.
 tags:
   - npc
+  - undead
 aliases:
   - The Moonbearer
   - Gudric
   - Ludmilla
-species: Vampire
+species: Vampire/Demigod
 current-location: "[[Strahd's Castle]]"
 party-status: Unknown
 created: 2025-09-06T19:28:00+12:00
-updated: 2025-10-04T15:42:02+13:00
+updated: 2025-11-01T00:55:29+13:00
 ---
 <Carousel>
 	<img src="Strahd.png">

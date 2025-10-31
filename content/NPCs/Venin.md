@@ -4,11 +4,11 @@ description: Leaders of the Sanguine Path.
 tags:
   - npc
 aliases:
-species: Demigod
+species: Vampire
 current-location: "[[Endkleistra]]"
 party-status: Hostile
 created: 2025-09-06T19:28:00+12:00
-updated: 2025-09-26T08:44:51+12:00
+updated: 2025-11-01T00:55:44+13:00
 ---
 - Leaders of [[The Sanguine Path]]
 - Kidnapped [[Lily]]

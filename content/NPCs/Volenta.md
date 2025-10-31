@@ -3,13 +3,14 @@ title: Volenta
 description: Bride of Strahd and part of the Venin.
 tags:
   - npc
+  - undead
   - deceased
 aliases:
 species: Vampire
 current-location: N/A
 party-status: N/A
 created: 2025-09-06T19:28:00+12:00
-updated: 2025-10-21T19:44:58+13:00
+updated: 2025-11-01T00:55:54+13:00
 ---
 <Carousel>
 	<img src="Volenta.png" alt="Volenta" />

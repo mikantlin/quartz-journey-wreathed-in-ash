@@ -6,11 +6,12 @@ aliases:
   - Baron
   - Baron Thumb
 species: Human
-current-location: "[[Knafgata]]"
-party-status: Unknown
+current-location: N/A
+party-status: N/A
 tags:
   - npc
-updated: 2025-10-21T19:42:10+13:00
+  - deceased
+updated: 2025-11-01T00:49:55+13:00
 created: 2025-10-17T08:05:16+13:00
 ---
 
@@ -22,3 +23,4 @@ created: 2025-10-17T08:05:16+13:00
 - Leader of [[Knafgata]]
 - Boss(?) of [[Izek]]
 - Honestly believes that the town's many festivals are keeping it safe from [[Strahd]]
+- Killed by [[Vasili Von Holtz]]
