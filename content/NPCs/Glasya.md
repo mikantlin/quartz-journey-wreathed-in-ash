@@ -12,14 +12,14 @@ species: Archdevil
 current-location: "[[Gehenna]]"
 party-status: Hostile
 created: 2025-09-06T19:28:00+12:00
-updated: 2025-10-04T15:43:57+13:00
+updated: 2025-11-01T14:12:01+13:00
 ---
 <Carousel>
 	<img src="Glasya.png" alt="Glasya" />
 </Carousel>
 
 - Archdevil
-- Resides in [Gehenna](https://forgottenrealms.fandom.com/wiki/Gehenna)
+- Resides in [[Gehenna]]
 - ~~Patron of [[Ravaria]]~~
 - Wants the [[Book of Nine Dooms]]
 - Has [[Helwyn]]'s soul in Gehenna
