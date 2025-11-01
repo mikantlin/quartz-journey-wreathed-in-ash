@@ -12,7 +12,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-11-01T01:04:38+13:00
+updated: 2025-11-01T11:33:20+13:00
 created: 2025-10-21T19:45:59+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -54,9 +54,9 @@ created: 2025-10-21T19:45:59+13:00
 - Arran manages to stabilise Mother, but finds that Helwyn and Dirge have died from their battle wounds. Doru returns and Arran asks him to try and bring back Dirge, but the only way he can do that is by making Dirge undead. Arran makes the call for him to do it (Dirge is going to be in a interesting space after this, that's for sure).
 - Arran goes to Helwyn's body and grabs the key that [[Glasya]] had given her as part of the contract. He invokes Glasya's name, telling her that if she doesn't want it going to Strahd, she better help bring Helwyn come back right now (never mind, THAT is badass). Let's see if a certain archdevil pays Arran a visit...
 # TL;DR
-- Mother receives a letter inviting the party to dinner with a Lady Fiona Wachter. She also bumps into Izek and (not realising who he is) leads him to Ismark at the church, leaving the two of them to come find the rest of the party. When they realise what's happened, the party heads to the church and finds the aftermath of a fight with no sign of Izek or Ismark.
-- They follow the smell of blood via Dirge's trusty mount Rosemary to the Baron's house. As they debate how to handle getting Ismark back, they are interrupted by Vasili Von Holtz, a fellow hater of Strahd and vampire-killer who says that he can help us get Ismark back and gives us some useful intel.
-- We break into the second floor of the Baron's house while Visili creates a distraction at the front door. We find Ismark bound by a (now sleeping) Izek and attempt to get him out quietly, but everything goes sideways. A massive fight breaks out between the party and Izek with multiple people thrown through walls and fiery attacks abound.
+- Mother receives a letter inviting us all to dinner with a Lady Fiona Wachter. She also bumps into Izek and (not realising who he is) leads him to Ismark at the church, leaving the two of them to come find the rest of the party. When we realise what's happened, we heads to the church and finds the aftermath of a fight with no sign of Izek or Ismark.
+- We follow the smell of blood via Dirge's trusty mount Rosemary to the Baron's house. As we debate how to handle getting Ismark back, we're interrupted by Vasili Von Holtz, a fellow hater of Strahd and vampire-killer who says that he can help us get Ismark back and gives us some useful intel.
+- We break into the second floor of the Baron's house while Visili creates a distraction at the front door. We find Ismark bound by a (now sleeping) Izek and attempt to get him out quietly, but everything goes sideways. A massive fight breaks out between us and Izek, with multiple people thrown through walls and fiery attacks abound.
 - Eventually, Arran manages to land the killing blow on Izek, but Helwyn and Dirge have lost their lives in the process. Arran takes Glasya's key and invokes her name, demanding her help to bring Helwyn back or he'll pass it along to Strahd.
 
 ^session-tldr
