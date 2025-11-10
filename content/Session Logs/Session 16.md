@@ -1,6 +1,10 @@
 ---
+updated: 2025-11-04T21:17:10+13:00
+created: 2025-10-29T16:36:40+13:00
+---
+ ---
 title: "16: Hell of a Ride"
-description: The party call on Glasya to bring back Helwyn and a deal is struck. They travel to Gehenna and reunite with Helwyn, then set off against the clock and Glasya to get Helwyn's soul back and bring her home. Glasya gets to Martyn and convinces him to use his power once more.
+description: With the rest of the party down, Arran calls on Glasya to bring back Helwyn and a deal is struck. The party travels to Gehenna and reunite with Helwyn, then set off against the clock and Glasya to get Helwyn's soul back and bring her home. Glasya gets to Martyn and tricks him into using his power once more.
 aliases:
   - 
 session-no: 16
@@ -47,15 +51,13 @@ created: 2025-10-29T15:55:54+13:00
 - Helwyn says to Martyn to make his choice and heads to Arran, using Healing Word to bring him back
 - Martyn's arcane bomb begins to go off again...
 ## Beat 1
-- After the Dirge is turned into a vampire by Doru
-- Arran summons Glasya by threatening to give the key to Strahd
-- Glasya offers the party a deal: They can have Helwyn back to life if they travel to Gehenna and save her and her soul in 6 hours. She will also give them 20 minutes before she tries to kill them
-- The party take the deal
-- Dirge drinks Izek's blood to become stronger and also calls on Alucard, who enhances Dirge's mortality at the cost of his humanity
-- Arran takes the key and uses it on the portal Glasya left behind, transporting them to Gehenna
+- After the beating we just got, only Arran is still standing. Making some difficult calls, he asks Doru to bring Dirge back as a vampire. His body goes through some crazy transformation, before saying "Let's get back to work" like the badass he is. Arran summons Glasya by threatening to give the key to Strahd, which definitely gets her attention.
+- Glasya offers the party a deal: They can have Helwyn back in the land of the living if they travel to Gehenna and save her and her soul in 6 hours. She will also give them a very sporting 20 minutes before she tries to kill them, which feels surprisingly generous for Glasya. She leaves a portal behind with a keyhole for when they're ready to jump planes.
+- The party take the deal and start planning what to do. Dirge drinks Izek's blood to become stronger and also calls on Alucard to understand his vampirism better. Alucard offers Dirge the choice to move closer to his god as a person, but further from his church's ideals. Dirge takes the offer, superpowering up.
+- Arran takes the key and uses it on the portal, transporting them immediately to Gehenna. All bets are off now!
 ## Beat 2
-- The party arrive in Gehenna and find Helwyn punching a tree. She's surprised and pissed to find them here, knowing that they are now targets for Glasya. She has been in Gehenna for 24 hours, even though she died 20 minutes ago in the Material Plane
-- Learning about the fact that they have 6 hours to find her soul and escape else they all die, Helwyn joins the party and shares that her soul is being kept at the Hag's Arms, located on the opposite side of the river Styx. Martyn leads the way with his sailor's survival skills
+- The party arrive in Gehenna and find Helwyn angrily punching a tree (I mean, a girl's gotta have hobbies). She's surprised and pretty pissed off to find them here, knowing that they are now prime targets for Glasya. She has been in Gehenna for 24 hours, even though she died 20 minutes ago in the Material Plane. Time flies when you're having fun!
+- Learning about the fact that they have 6 hours to find her soul and escape else they all die, Helwyn joins the party and shares that her sou  l is being kept at the Hag's Arms, located on the opposite side of the river Styx. Martyn leads the way with his sailor's survival skills
 - As they're heading through the swamps, Mother is suddenly pierced through the chest by an unknown attack and starts to be dragged up through the trees
 - The party attack the unseen attacker with poor results, until Dirge soils the enemy with prestidigitation. We attack the 9-foot fiend and manage to eventually kill it, but it's a hard fight
 ## Beat 3
