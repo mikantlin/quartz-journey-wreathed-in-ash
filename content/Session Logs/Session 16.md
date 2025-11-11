@@ -9,8 +9,8 @@ players-missing:
   - Caitlyn
 tags:
   - session
-draft: true
-updated: 2025-11-11T11:33:43+13:00
+draft: false
+updated: 2025-11-11T16:41:50+13:00
 created: 2025-10-29T15:55:54+13:00
 ---
 > [!info]- Previously On JWiA...
