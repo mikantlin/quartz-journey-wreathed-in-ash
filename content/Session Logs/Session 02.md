@@ -8,7 +8,7 @@ session-date: 2025-07-24
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-10-18T10:57:23+13:00
+updated: 2025-11-21T22:55:51+13:00
 ---
 > [!info]- Previously On JWiA...
 > ![[Session 01#^session-tldr]]
@@ -22,7 +22,7 @@ updated: 2025-10-18T10:57:23+13:00
 * On the path to Kroksholt, we are attacked by undead creatures, but manage to defeat them
 * We're found by [[Flortes]], an ogre who determines that we are their collective 'mum' (what's with all the mothers in this game?)
 * Tracked them back to their base to find a gnoll mage transforming abyssal hyenas into gnoll marauders
-* [[Helwyn]] managed to steal the [[Book of Nine Dooms]] from the mage and gave it to [[Arran Tirran|Arran]]
+* [[Helwyn]] managed to steal the [[Book of Nine Dooms]] from the mage and gave it to [[Arran]]
 * As he died, the mage spoke of the fact that the [[Doomspeakers]] would not stop hunting for us and the book
 ## Off the Beaten Path
 * Our driver diverts towards [[Eastern Look]] due to blood rain (a rare weather phenomenon) over the path to Kroksholt

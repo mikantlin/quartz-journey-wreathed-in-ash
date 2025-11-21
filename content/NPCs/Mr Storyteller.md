@@ -8,7 +8,7 @@ species: Unknown
 current-location: Unknown
 party-status: Unknown
 created: 2025-09-06T19:28:00+12:00
-updated: 2025-10-04T15:42:03+13:00
+updated: 2025-11-21T22:55:51+13:00
 ---
 <Carousel>
 	<img src="Mr Storyteller.png">
@@ -16,7 +16,7 @@ updated: 2025-10-04T15:42:03+13:00
 </Carousel>
 
 - Provided [[Ravaria]] a way back to the mortal realm from [[Limbo]]
-- Cleansed [[Arran Tirran|Arran]] of his Venom curse by burning it out of him via his hand
+- Cleansed [[Arran]] of his Venom curse by burning it out of him via his hand
 - Has knowledge of [[Glasya]]
 - Helwyn does NOT trust him
 - Can perform runic magic like [[Usi-Ziyad|Usi]]

@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-10-21T22:49:51+13:00
+updated: 2025-11-21T22:55:48+13:00
 created: 2025-09-26T08:49:20+12:00
 ---
 > [!info]- Previously On JWiA...
@@ -41,7 +41,7 @@ created: 2025-09-26T08:49:20+12:00
 - Ismark, still processing whatever the fuck just happened in front of him, tries to take the opportunity to give Rahadin the [[Sun Sword]] pointy-end first. Not with that Nat 1 though, buddy. Rahadin expertly moves around the strike and brings his own sword up into Ismark's chest, straight through the heart. DAMN
 - Dirge uses his cleric abilities to try and stop Ismark outright dying and somehow does it enough to keep him on this side of the hereafter, though that scimitar-shaped hole Rahadin's going to leave in him isn't going to be good. Fuck it, guess that's the signal!
 ## Let's Fucking Go
-- We attack! Helwyn, [[Martyn]] and Doru are out the windows and attacking fast. Doru throws a downed Rahadin into one of the opposite buildings like he's made of paper - glad this guy's on OUR side. [[Arran Tirran|Arran]] tries some dope bladesinger shit but doesn't stick the landing, smashing into a cart on the ground. Definitely no-one notices that, nosirree
+- We attack! Helwyn, [[Martyn]] and Doru are out the windows and attacking fast. Doru throws a downed Rahadin into one of the opposite buildings like he's made of paper - glad this guy's on OUR side. [[Arran]] tries some dope bladesinger shit but doesn't stick the landing, smashing into a cart on the ground. Definitely no-one notices that, nosirree
 - Doru and Martyn get Ismark and the Sun Sword away from Rahadin, who summons an undead creature out of the 200-odd souls that have died in the town (Helwyn's note to self: Try to steal AT LEAST one of them). Dirge, Mother and Arran provide blessings to the party and general artillery support while Doru, Martyn and Helwyn try up-close attacks, but HOLY FUCK is this guy tough
 - Rahadin summons a phantom steed (because go big or go home I guess) and tries to take out Dirge, but good luck shooting a halfling with Shield behind a windowsill on the second floor of a house! Rahadin goes for the next best option instead, which as we all know is "teleport yourself and your demon horse into the room and scare the ever-loving shit out of the tiny cleric"
 - At this point, the mirror portal opens and Usi is back through! Bad news is that it's at high-velocity towards a wall and he's been beaten the shit out of. Ludmilla follows him and she is looking PISSED. Usi goes for his go-to response of "burn the entire fucking place down" and lights up the buildings, just to give Dirge some extra nightmares after this fight for good measure

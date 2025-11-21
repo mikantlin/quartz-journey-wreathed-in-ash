@@ -12,7 +12,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-11-01T11:33:20+13:00
+updated: 2025-11-21T22:55:46+13:00
 created: 2025-10-21T19:45:59+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -21,7 +21,7 @@ created: 2025-10-21T19:45:59+13:00
 [[#TL;DR]]
 # What Actually Happened?
 ## Mother the Matchmaker
-- While [[Arran Tirran|Arran]], [[Helwyn]], [[Dirge]] and [[Martyn]] are off investigating for [[Father Lucien]], [[M0-TH3R|Mother]] has been working in the [[Blue Water Inn]]'s kitchen for... some reason. [[Erwin]] mentions to her that a scruffy-looking man in a brown cloak had brought a letter addressed to her. Inside the letter is a dinner invitation to the party from one [[Lady Fiona Wachter]] of Wachterhaus. More out-of-the-blue dinners with people we don't know - gotta go better than last time, right?
+- While [[Arran]], [[Helwyn]], [[Dirge]] and [[Martyn]] are off investigating for [[Father Lucien]], [[M0-TH3R|Mother]] has been working in the [[Blue Water Inn]]'s kitchen for... some reason. [[Erwin]] mentions to her that a scruffy-looking man in a brown cloak had brought a letter addressed to her. Inside the letter is a dinner invitation to the party from one [[Lady Fiona Wachter]] of Wachterhaus. More out-of-the-blue dinners with people we don't know - gotta go better than last time, right?
 - An exhausted and fairly beaten-up Martyn comes storming into the inn with some surprisingly good-quality wood planks and makes his way to the suite, clearly in a bad mood. Mother salutes him as he passes (wise choice, probably best not getting caught in THAT storm right now).
 - Mother heads out into the town to try and locate the rest of the party. She bumps into [[Izek]], who says he's been looking for the "blonde twink boy" AKA [[Ismark the Lesser|Ismark]]. When she asks why, Izek says that he's really into Ismark and would like to see him. Mother thinks nothing of why a giant man with a monstrous arm might be looking for an enemy of [[Strahd]], so of course she offers to take him to the church to find Ismark.
 - Once they get to the church, Ismark is visibly surprised that Mother has brought Izek to find him, slowly reaching for his sword. She reads the tension as a relationship blossoming rather than a shitshow about to kick off, so she heads out to give the two privacy and find the rest of the party.

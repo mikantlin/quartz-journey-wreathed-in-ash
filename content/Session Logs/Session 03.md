@@ -17,7 +17,7 @@ updated: 2025-10-18T10:57:08+13:00
 [[#TL;DR]]
 # What Actually Happened?
 ## Lost to the Night
-- [[Arran Tirran]], our [[Flortes|ogre son]], and caravan guards were splendidly kidnapped without us noticing thanks to Hayden’s natural 20
+- [[Arran]], our [[Flortes|ogre son]], and caravan guards were splendidly kidnapped without us noticing thanks to Hayden’s natural 20
 - After interrogating the local priest, who we had discovered had something undead inside him, we found out that the people in this village were cultists of [[The Sanguine Path]]
 - They worship [[Alucard]]’s [[Venin|son]], and were planning to sacrifice everyone in a ritual at the local church
 ## An Unholy Battle

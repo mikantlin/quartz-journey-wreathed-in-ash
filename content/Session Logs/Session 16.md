@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-11-11T16:41:50+13:00
+updated: 2025-11-21T22:55:46+13:00
 created: 2025-10-29T15:55:54+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -19,7 +19,7 @@ created: 2025-10-29T15:55:54+13:00
 [[#TL;DR]]
 # What Actually Happened?
 ## Knock Knock
-- After the beating we just got, only [[Arran Tirran|Arran]] is still standing. Making some difficult calls, he asks [[Doru]] to bring [[Dirge]] back as a vampire. His body goes through some crazy transformation, before saying "Let's get back to work" like the badass he is. Arran summons [[Glasya]] by threatening to give the key to [[Strahd]], which definitely gets her attention.
+- After the beating we just got, only [[Arran]] is still standing. Making some difficult calls, he asks [[Doru]] to bring [[Dirge]] back as a vampire. His body goes through some crazy transformation, before saying "Let's get back to work" like the badass he is. Arran summons [[Glasya]] by threatening to give the key to [[Strahd]], which definitely gets her attention.
 - Glasya offers the party a deal: They can have [[Helwyn]] back in the land of the living if they travel to [[Gehenna]] and save her and her soul in 6 hours. She will also give them a very sporting 20 minutes before she tries to kill them, which feels surprisingly generous for Glasya. The party take the deal and Glasya leaves, revealing a portal in the earth with a keyhole for when they're ready to jump planes.
 - The party start planning what to do. Dirge drinks [[Izek]]'s blood to become stronger and also calls on [[Alucard]] to understand his vampirism better. Alucard offers Dirge the choice to move closer to his god as a person, but further from his church's ideals. Dirge takes the offer, super-powering up.
 - Arran takes the key and uses it on the portal, transporting them immediately to Gehenna. All bets are off now!

@@ -9,7 +9,7 @@ party-status: N/A
 tags:
   - npc
   - deceased
-updated: 2025-11-01T00:50:43+13:00
+updated: 2025-11-21T22:55:52+13:00
 created: 2025-10-17T08:07:27+13:00
 ---
 
@@ -20,4 +20,4 @@ created: 2025-10-17T08:07:27+13:00
 - Enforcer of the draconian laws of [[Knafgata]]
 - Officially works for [[Baron Vargas Vallakovich]], but may be more influential than he seems
 - Romantically obsessed with [[Ismark the Lesser|Ismark]] (also possibly his brother????)
-- Killed by [[Arran Tirran|Arran]]
+- Killed by [[Arran]]

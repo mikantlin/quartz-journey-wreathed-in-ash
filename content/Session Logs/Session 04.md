@@ -19,7 +19,7 @@ updated: 2025-10-18T10:56:54+13:00
 # What Actually Happened?
 ## The Aftermath
 - After the fireball at [[Kae]]'s Temple, we found that [[Eliziel]] had been destroyed by it, turned into nothing but dust
-- [[Eero Toivonen|Eero]] informed us that he would find us another companion to help our cause, and that [[Arran Tirran]] had awakened from his magical coma
+- [[Eero Toivonen|Eero]] informed us that he would find us another companion to help our cause, and that [[Arran]] had awakened from his magical coma
 - Checking Arran over, it appears like he is still missing a part of his soul from where the cultists drained him for their ritual, and that he would be vulnerable to magical attacks for a while
 ## Meeting Martyn
 - Introduction of [[Martyn]], an elderly man who delivers message of a passing to their loved one
@@ -35,7 +35,7 @@ updated: 2025-10-18T10:56:54+13:00
 ## The Road to Nulb
 - On the second night, [[Ravaria]] is visited by [[Glasya]] who instructs her to prove herself after failing to retrieve the [[Book of Nine Dooms]], either by handing over her soul or killing [[Dirge]]
 - Ravaria agrees to kill Dirge, sneaking up to him and placing a blade to his throat. Ravaria tries to kill him, but Dirge's Shield spell keeps him safe
-- [[Arran Tirran]] and [[M0-TH3R|Mother]] wake up due to their light sleeping and demand to know what is happening. Mother throws an axe at Ravaria but misses
+- [[Arran]] and [[M0-TH3R|Mother]] wake up due to their light sleeping and demand to know what is happening. Mother throws an axe at Ravaria but misses
 - Arran wakes [[Helwyn]], who shoots across the cart and grabs Ravaria's wrist with the weapon
 - Arran tackles Ravaria out of the wagon and the party tie her up. Helwyn tries to intervene between Ravaria and the rest of the group, drawing anger from Arran
 - Glasya visits Ravaria again, asking once more for her soul as she hesitated when trying to kill Dirge. Ravaria refuses, and Glasya allows Ravaria's curse to transform her into a demon. Dirge hits her with a guiding bolt and kills her, her body reverting back to her usual form

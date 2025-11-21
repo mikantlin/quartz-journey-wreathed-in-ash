@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-10-18T10:55:46+13:00
+updated: 2025-11-21T22:55:50+13:00
 ---
 > [!info]- Previously On JWiA...
 > ![[Session 07#^session-tldr]]
@@ -20,7 +20,7 @@ updated: 2025-10-18T10:55:46+13:00
 ## An Invitation
 - Fresh from the arena, we were greeted by [[Rahadin]] and his 1000 dead screaming friends, carrying an invitation from [[Strahd|The Moonbearer]]
 - We took a magical train from town heading to Strahd's Castle, while [[Escher]] provided us with fancy clothes
-- We also were provided a riddle box that we solved very quickly that contained gloves, cloaks and a bottle of wine for us to share. [[Arran Tirran|Arran]] and [[Martyn]] hogged the bottle
+- We also were provided a riddle box that we solved very quickly that contained gloves, cloaks and a bottle of wine for us to share. [[Arran]] and [[Martyn]] hogged the bottle
 - We're met at the castle by [[Anastrasya]], the eldest bride of The Moonbearer, dressed all in red. We have the necessary introductions
 - [[Eliziel]] reappears from her bottle and is immediately provided an outfit by a freaked-out Escher. In the bottom of her chest is a note. Anastrasya makes a grab for it, but Arran firebolts it. Rahadin has a sword at his throat in seconds, and Ravaria aims her pistol at him. Shit gets tense
 - [[Mr Storyteller]] is reluctant to go in, telling [[Ravaria]] not to. Eventually, things calm down a little and we head inside the castle

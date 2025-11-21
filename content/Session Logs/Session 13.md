@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-10-21T22:49:39+13:00
+updated: 2025-11-21T22:55:47+13:00
 created: 2025-10-07T17:39:21+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -20,7 +20,7 @@ created: 2025-10-07T17:39:21+13:00
 # What Actually Happened?
 ## Bird-Brained
 - We finish up with [[Madame Eva]], who (kinda) politely asks us to leave. We check how [[Doru]] is doing, who says that he no longer has [[Strahd]]'s voice whispering in his mind. He also asks if he can eat any enemies that we take down.. Eh... not thrilled about it, but if it keeps our necks bite-free, go for it! On our way to [[Knafgata]], our path is interrupted by a familiar raven with blue-tipped wings. Only thing new about it is the dozen or so silver bolts sticking out of its chest (Ouch). [[The Bobs]] get to work helping recover the bird in the back of the [[Helwyn's Chop Shop|Chop Shop]], but it's quickly followed by scarecrow-like constructs that go on the offensive.
-- We manage to dispatch them without too much of an issue, and [[Arran Tirran|Arran]] tries to use his vast academic knowledge to recall what these things are and who sent them. Good news: he scores a Nat 20! Earns himself a vision of a hag's house on chicken legs, which probably means one of the Big Baba Three. Bad news? The hag in question doesn't like psychic intruders and curses him with "a mind that dims in battle until the sun has set forever". Uh... yay?
+- We manage to dispatch them without too much of an issue, and [[Arran]] tries to use his vast academic knowledge to recall what these things are and who sent them. Good news: he scores a Nat 20! Earns himself a vision of a hag's house on chicken legs, which probably means one of the Big Baba Three. Bad news? The hag in question doesn't like psychic intruders and curses him with "a mind that dims in battle until the sun has set forever". Uh... yay?
 - The raven is sentient, communicating with us through snippets of sound. It conveys that more stick monsters are coming, so it jumps onto [[M0-TH3R|Mother]]'s arm and we book it into the fog. We come out of the fog onto the narrow and precarious road of a mountain pass, which is strange given that we should be miles away from any mountain. Hopefully there's no wolves around!
 ## There's Wolves Around
 - [[Helwyn]] tracks *something* following them in the mists, and eventually the Chop Shop is surrounded by wolves. Rabid wolves actually, so that's fun! One manages to drag Arran off the clifftop down to the forest floor 50 feet below. He tries and fails to catch a branch on the way down, but luckily, another wolf breaks his fall! Wait, more wolves? Shit.

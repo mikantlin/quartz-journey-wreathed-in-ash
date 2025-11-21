@@ -2,7 +2,7 @@
 title: Quests List
 description: A list of the tasks that we've done and got to do.
 created: 2025-09-06T20:39:00+12:00
-updated: 2025-10-21T22:37:35+13:00
+updated: 2025-11-21T22:55:45+13:00
 ---
 # Main Quests
 ## Stop the cults
@@ -57,7 +57,7 @@ updated: 2025-10-21T22:37:35+13:00
 	- [ ] Kill [[Marcus]] in [[Endkleistra]]
 	- [ ] Kill the fake priest in [[Knafgata]]
 	- [ ] Kill the inside man in [[Strahd's Castle]]
-## [[Arran Tirran|Arran]]
+## [[Arran]]
 - [ ] Get revenge for the whole fall guy incident
 - [ ] Help Martyn learn to control his magical abilities
 ## [[M0-TH3R|Mother]]

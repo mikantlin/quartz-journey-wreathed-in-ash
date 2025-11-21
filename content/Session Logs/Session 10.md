@@ -9,7 +9,7 @@ players-missing:
   - Caitlyn
 tags:
   - session
-updated: 2025-10-18T10:54:41+13:00
+updated: 2025-11-21T22:55:49+13:00
 created: 2025-09-15T09:07:35+12:00
 ---
 > [!info]- Previously On JWiA...
@@ -19,7 +19,7 @@ created: 2025-09-15T09:07:35+12:00
 # What Actually Happened?
 ## Dead of Night
 - After having shopped with him, [[Canemere]] points us to protecting the eastern front of [[Nomduhr]]. He also provides us with equipment: materials for building more barricades, fantasy Molotov cocktails, and his nephew [[Parriwimble]]. A raven with blue-tipped wings watches us as we steel ourselves for the battle ahead
-- [[Helwyn]] and [[Dirge]] prepare extra barricades and wait outside the barricade (both expertly made, no need to fact-check that), with [[M0-TH3R|Mother]] and [[Martyn]] on the opposite side of the front. [[Arran Tirran|Arran]], [[Ravaria]] and Canemere stay up on the high spots to provide ranged support. Ravaria casts a [[Limbo]] sphere in between us to help bottleneck the enemy. A perfect setup!
+- [[Helwyn]] and [[Dirge]] prepare extra barricades and wait outside the barricade (both expertly made, no need to fact-check that), with [[M0-TH3R|Mother]] and [[Martyn]] on the opposite side of the front. [[Arran]], [[Ravaria]] and Canemere stay up on the high spots to provide ranged support. Ravaria casts a [[Limbo]] sphere in between us to help bottleneck the enemy. A perfect setup!
 - The first zombie wave attacks, and we managed to hold them off. Things are obviously going too easy, so Dirge decides to ramp it up and provoke whatever the fuck is hiding in the fog surrounding the village. Turns out there's more zombies. And a hag. And a pretty big guy with a whip, who shuts down Ravaria's limbo shenanigans almost immediately. Welp
 - We manage to fight pretty well still, with Arran's Flaming Sphere and Dirge's Spirit Guardians doing some crowd control while the fighters lay into the hag. The hag does manage to eat Martyn, so Helwyn goes for the obvious solution of "punch your friend out and back to life" which goes surprisingly badly. Eventually we get Martyn out and kill the hag
 - Meanwhile, the other zombies are laying some attacks on the main barricade. Arran jumps down into the fray, while Mr Whip manages to bamf onto the top and goes after Ravaria. She gets a shot off at him and jumps down into the village, but Mr Whip makes some street spikes and impales Ravaria, killing her
