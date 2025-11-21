@@ -1,5 +1,5 @@
 ---
-title: "09: Aftermath"
+title: "S09: Aftermath"
 description: An explosion almost breaks the party in many ways. They find a village struggling to survive, led by a figure from Ravaria's past.
 aliases:
   - "Session 9: Aftermath"
@@ -8,7 +8,7 @@ session-date: 2025-09-11
 players-missing:
 tags:
   - session
-updated: 2025-11-21T22:55:49+13:00
+updated: 2025-11-21T23:22:49+13:00
 created: 2025-09-13T12:32:00+12:00
 ---
 > [!info]- Previously On JWiA...

@@ -1,5 +1,5 @@
 ---
-title: "08: Dining with the Devil"
+title: "S08: Dining with the Devil"
 description: The party are invited to the Moonbearer's castle as renowned heroes, but dinner doesn't go as well as they hoped.
 aliases:
   - "Session 9: Aftermath"
@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-11-21T22:55:50+13:00
+updated: 2025-11-21T23:22:50+13:00
 ---
 > [!info]- Previously On JWiA...
 > ![[Session 07#^session-tldr]]

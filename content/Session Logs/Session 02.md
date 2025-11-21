@@ -1,5 +1,5 @@
 ---
-title: "02: Baby Steps"
+title: "S02: Baby Steps"
 description: The party are hired to escort a caravan through treacherous land, making some friends (and enemies) on the way.
 aliases:
   - "Session 2: Baby Steps"
@@ -8,7 +8,7 @@ session-date: 2025-07-24
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-11-21T22:55:51+13:00
+updated: 2025-11-21T23:22:53+13:00
 ---
 > [!info]- Previously On JWiA...
 > ![[Session 01#^session-tldr]]

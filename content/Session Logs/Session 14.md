@@ -1,5 +1,5 @@
 ---
-title: "14: Close to the Bone"
+title: "S14: Close to the Bone"
 description: The party get their first introduction to the Baron of Knafgata. They're also asked by Father Lucien to investigate a robbery of relics at the church, and eventually manage to track them down, but one of Strahd's wives has other ideas.
 aliases:
   - "Session 14: Close to the Bone"
@@ -12,7 +12,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-11-21T22:55:47+13:00
+updated: 2025-11-21T23:22:46+13:00
 created: 2025-10-16T15:13:11+13:00
 ---
 > [!info]- Previously On JWiA...

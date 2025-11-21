@@ -1,5 +1,5 @@
 ---
-title: "04: Betrayals and Bargains"
+title: "S04: Betrayals and Bargains"
 description: After (barely) surviving the fireball, the party are tasked with stopping the cultists' plans. Time is pressing, but an archdevil and a traitor might have other plans...
 aliases:
   - "Session 4: Betrayals and Bargains"
@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 created: 2025-09-06T19:15:00+12:00
-updated: 2025-10-18T10:56:54+13:00
+updated: 2025-11-21T23:22:50+13:00
 ---
 > [!info]- Previously On JWiA...
 > ![[Session 03#^session-tldr]]

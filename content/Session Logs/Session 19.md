@@ -1,5 +1,5 @@
 ---
-title: "19: Session Name"
+title: "S19: Session Name"
 description: Brief description of the session.
 aliases:
   - 
@@ -11,7 +11,7 @@ players-missing:
 tags:
   - session
 draft: true
-updated: 2025-11-21T17:32:54+13:00
+updated: 2025-11-21T23:22:42+13:00
 created: 2025-11-20T12:18:04+13:00
 ---
 > [!info]- Previously On JWiA...

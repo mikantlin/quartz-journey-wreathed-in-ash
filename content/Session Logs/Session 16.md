@@ -1,5 +1,5 @@
 ---
-title: "16: Hell of a Ride"
+title: "S16: Hell of a Ride"
 description: With the rest of the party down, Arran calls on Glasya to bring back Helwyn and a deal is struck. The party travels to Gehenna and reunite with Helwyn, then set off against the clock and Glasya to get Helwyn's soul back and bring her home. Glasya gets to Martyn and tricks him into using his power once more.
 aliases:
   - 
@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-11-21T22:55:46+13:00
+updated: 2025-11-21T23:22:45+13:00
 created: 2025-10-29T15:55:54+13:00
 ---
 > [!info]- Previously On JWiA...

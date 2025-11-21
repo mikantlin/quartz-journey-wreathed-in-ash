@@ -1,5 +1,5 @@
 ---
-title: "15: A Fight to the Death"
+title: "S15: A Fight to the Death"
 description: Mother accidentally leads Izek to Ismark. The party make a new ally as they try to get him back. A stealthy rescue mission turns into a fight for survival, and not everybody makes it out alive.
 aliases:
   - 
@@ -12,7 +12,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-11-21T22:55:46+13:00
+updated: 2025-11-21T23:22:45+13:00
 created: 2025-10-21T19:45:59+13:00
 ---
 > [!info]- Previously On JWiA...

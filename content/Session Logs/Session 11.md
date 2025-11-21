@@ -1,5 +1,5 @@
 ---
-title: "11: Springing the Trap"
+title: "S11: Springing the Trap"
 description: The party bury Ismark's loved ones and make a surprising ally in the process. An ambush is set for Rahadin, but surprises turn the trap into a battle for survival.
 aliases:
   - "Session 11: Springing the Trap"
@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-11-21T22:55:48+13:00
+updated: 2025-11-21T23:22:48+13:00
 created: 2025-09-26T08:49:20+12:00
 ---
 > [!info]- Previously On JWiA...
