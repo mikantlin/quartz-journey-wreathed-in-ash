@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 draft: true
-updated: 2025-11-11T22:04:28+13:00
+updated: 2025-11-21T17:38:39+13:00
 created: 2025-11-11T11:27:27+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -18,13 +18,15 @@ created: 2025-11-11T11:27:27+13:00
 
 [[#TL;DR]]
 # What Actually Happened?
-- Glasya offers a deal to Martyn: his soul for taking his destructive power away, but #factcheck Martyn turns it down
+## Beat 1
+- Glasya offers a deal to Martyn: his soul for taking his destructive power away, but Martyn turns it down
 - Martyn explodes again
 - It reaches us, taking Arran's arm before it suddenly freezes into ice and possibly killing Jaswyn too?
 - A figure with a snake walks past nonchalantly
 - The figure introduces themselves as Loftur and explains that they're a traveller through this realm who's fascinated in our story and doesn't want it to end
 - Loftur reduces the Martyn blast back into Martyn and shrinks Glasya to a tiny size, making her (mostly) harmless
 - He also stops Arran from exploding with elemental energy, instead reducing him down to a pearl-like object of energy. Dirge puts him in one of his belt jars for now
+## Beat 2
 - The party talked to Arran about what it’s like to be ANOTHER bomb, although this time elemental. Helwyn misses it from zoning out for about 20 minutes
 - Making the most of the opportunity, we head to the Hag's Arms
 - As we reach the steps up to the place, we recall being given advice to introduce ourselves before entering a hag's home
