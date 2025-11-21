@@ -8,10 +8,10 @@ pronounced: Joy
 pronouns: they/them
 played-by: Echo
 tags:
-  - deceased
   - pc
+  - deceased
 created: 2025-07-24T18:00:00+12:00
-updated: 2025-10-04T15:41:59+13:00
+updated: 2025-11-22T00:49:09+13:00
 ---
 <Carousel>
 	<img src="Rags.png">

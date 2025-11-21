@@ -9,9 +9,10 @@ pronounced: MUH-thur
 pronouns: she/her
 played-by: Jade
 tags:
-  - pc/in-party
+  - pc
+  - deceased
 created: 2025-07-17T18:00:00+12:00
-updated: 2025-10-21T23:52:27+13:00
+updated: 2025-11-21T23:45:28+13:00
 ---
 <Carousel>
 	<img src="Mother.png" alt="Mother" />
@@ -21,6 +22,7 @@ updated: 2025-10-21T23:52:27+13:00
 - Can make a cup of tea (is it good?)
 - Looked after a family's children and is now free of that responsibility
 - Had [[Lily]] merged into her by [[Strahd]]
+- Sacrificed themselves to save the party from being killed by [[Glasya]] in [[Gehenna]]
 
 > [!INFO] Above the Table
 > - Designed for combat to begin with, she became reprogrammed at some point to raise children
