@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-11-21T23:22:46+13:00
+updated: 2025-11-24T09:08:27+13:00
 created: 2025-10-07T17:39:21+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -39,7 +39,7 @@ created: 2025-10-07T17:39:21+13:00
 - Ismark says he will stay in the church with Lucien and keep an eye on things, as we head over to the Inn. As we get there, the raven thanks Mother for the lift (sorta) and flies up to a group of ravens on the roof. Stepping inside, we find things are pretty quiet, except for the feather-hatted bard who's talking (A LOT.)
 - The innkeeper, [[Erwin]], welcomes us and lets us know how crazy expensive everything is. Tends to happen when you commandeer all silvers in the place, I guess. He does mention that there is a senior discount for [[Martyn]] (YAAAAAY) but not on alcohol (BOOOOOO).
 ## Long Story Long
-- [[Doctor Arthur Sedwick|Rictavio]] introduces himself, buys us three drinks each, and shares a long, *looooong* story about a vampire who lost his hair (those drinks come in *very* handy). After the story, he shares that he got to town this morning and doesn't remember where he was before. He asks for an interesting story from ourselves, which is difficult to do because BY THE GODS are our stories depressing (Jaswyn has a great one about a syphilis-delivering crossbow bolt, but otherwise we're running on empty).
+- [[Rudolph Van Richten|Rictavio]] introduces himself, buys us three drinks each, and shares a long, *looooong* story about a vampire who lost his hair (those drinks come in *very* handy). After the story, he shares that he got to town this morning and doesn't remember where he was before. He asks for an interesting story from ourselves, which is difficult to do because BY THE GODS are our stories depressing (Jaswyn has a great one about a syphilis-delivering crossbow bolt, but otherwise we're running on empty).
 - We ask him to maybe share his entertaining stories with the crowd outside (given that they need curing of that gosh-dang annoying unhappiness stuff they've been spreading around). He eventually agrees and very kindly gives his suite for the night, as he'll be slumming it with the folks outside.
 ## Sharing is Caring
 - Heading up to Rictavio's room, Helwyn checks the place for any clue as to who the fuck this guy really is, but comes up with nothing. They talk about the Father's plans and what kind of machine he might mean. Dirge drunkenly explains how it might work by instilling divinity into a clock which, well, clarifies nothing really. He also keeps prestidigitating us (the man HATES germs, that's for sure).
@@ -47,7 +47,7 @@ created: 2025-10-07T17:39:21+13:00
 ## Hats Off to Him
 - We ask what the deal is with the Baron and the people outside the gate, and he informs us that the Baron holds festivals every week in an attempt to keep Strahd at bay (presumably Strahd hates confetti?) Erwin also mentions that the Baron (or, more accurately, his right-hand man [[Izek]]) is quick to put any detractors to death, hanging people a couple of times a day. Yikes.
 - As we're discussing the Baron, Rictavio drops by to pick up some supplies, and we press him about who exactly he is. Again. Yes, we're that stubborn. He talks round and round, and Arran points out the fact that 'Rictavio' and '[[Rudolph Van Richten|Van Richten]]' have some of the same letters. COINCIDENCE?
-- I mean, probably. Buuuuut we ALSO remember that Doru met Van Richten while he wore a hat of disguise so he didn't look like himself. We try to get Rictavio's hat (seriously, it gets close to assault), before he finally asks us to come along to the stables where his horse is. There he reveals that he IS IN FACT... [[Doctor Arthur Sedwick]], a mentee of Van Richten and a fellow member of the [[Keepers of the Feather]] (whatever that is).
+- I mean, probably. Buuuuut we ALSO remember that Doru met Van Richten while he wore a hat of disguise so he didn't look like himself. We try to get Rictavio's hat (seriously, it gets close to assault), before he finally asks us to come along to the stables where his horse is. There he reveals that he IS IN FACT... [[Rudolph Van Richten|Dr Arthur Sedwick]], a mentee of Van Richten and a fellow member of the [[Keepers of the Feather]] (whatever that is).
 - Sedwick is looking for Van Richten, and he might just need our help to do it. Between that and a hasty revolution that we're already planning, it looks like we might be sticking around for a while, people...
 # TL;DR
 - The party head for Knafgata, attacked on the way by a hag's minions and wolves. Crossing a bridge guarded by an unusually judgemental undead knight and eventually reaching the town, they find a large amount of its people starved and shut outside, by order of Baron Vargas Vallakovich

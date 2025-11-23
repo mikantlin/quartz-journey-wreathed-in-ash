@@ -12,7 +12,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-11-21T23:22:46+13:00
+updated: 2025-11-24T09:08:46+13:00
 created: 2025-10-16T15:13:11+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -21,7 +21,7 @@ created: 2025-10-16T15:13:11+13:00
 [[#TL;DR]]
 # What Actually Happened?
 ## Rule of Thumb
-- The party's talking to Rictavio (AKA [[Doctor Arthur Sedwick|Dr Arthur Sedwick]]) in the stables, encouraging him to tell stories of rebellion to the masses outside the gates (no particular reason, don't read into it). He workshops some ideas, like maybe an evil Baron Thumb oppressing the city he rules? [[Ismark the Lesser|Ismark]] interrupts our creative writing brainstorming session to ask us to speak to [[Father Lucien]] about an incident he needs help dealing with.
+- The party's talking to Rictavio (AKA [[Rudolph Van Richten|Dr Arthur Sedwick]]) in the stables, encouraging him to tell stories of rebellion to the masses outside the gates (no particular reason, don't read into it). He workshops some ideas, like maybe an evil Baron Thumb oppressing the city he rules? [[Ismark the Lesser|Ismark]] interrupts our creative writing brainstorming session to ask us to speak to [[Father Lucien]] about an incident he needs help dealing with.
 - As we come out, we see a procession coming down the street. At the head of it is [[Baron Vargas Vallakovich]], flanked on either side by two dogs. Two *big* dogs. I'm talking *round*. Anyway, an old woman gets pushed out from an alleyway in front of the parade, the horses halting just feet away. The Baron's henchman/lackey/advisor(?) [[Izek]] follows her out and things get tense. This calls for heroics!
 - We rush to the woman before she can be harmed further, who is being detained by guards and is screaming for her son [[Udo]] to be released from the boot camp. [[Dirge]] asks the Baron just what the hell's going on. The Baron explains that her son has been suffering from "malicious unhappiness" and she seems to have caught it too (can't imagine why in a town this fun!) He tasks the guards to shove her outside. Dirge rolls for the shit-for-brains equivalent of Eyes of the Grave and gets a ping off the Baron. We argue with him some more, and he eventually settles for kindly putting her in the stocks for four days instead.
 - The baron heads off and Izek says that if we want to speak to the Baron, we need to go through him (and there's a lot of him to go through.) Dirge doesn't take his shit, and things get heated between them before Father Lucien intervenes, asking for peace. Izek pats him on the head and moves off. Yeah, you better run!
