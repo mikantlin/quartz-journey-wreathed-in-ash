@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-11-21T23:22:45+13:00
+updated: 2025-11-23T22:54:58+13:00
 created: 2025-10-29T15:55:54+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -32,12 +32,12 @@ created: 2025-10-29T15:55:54+13:00
 - They eventually reach the Styx but it's too dangerous to go across. Luckily, there is a city that is bridging the two sides so we head there.
 - Once we get there, a creature that looks like a Xenomorph crossed with a velociraptor offers to fix Helwyn's eye for two... something? Helwyn considers it, especially when Xenomorphus Rex offer to fix her spine as well.
 - We're not sure, but Rex sweetens the deal by letting us know that Glasya hates ugliness and 300 fiends are ready to kill us if we don't. Martyn gives up his extra fingers for Helwyn's fixes too (aww!) Rex also offers to fix Mother's melted face, which she gives up a finger for as she can always have more made. Rex also asks if we're interested in buying soul coins that can do a lot of interesting stuff at the cost of someone's soul (not Helwyn's for once).
-- #factcheck We eventually get one, then use it immediately to get a ride in Rex's cart-like contraption that they call a 'Ford F150'. [[Jaswyn]] checks out the horsepower under the hood, turns out it's definitely what *used* to be a horse?
+- We eventually get one, then use it immediately to get a ride in Rex's cart-like contraption that they call a 'Ford F150'. [[Jaswyn]] checks out the horsepower under the hood, turns out it's definitely what *used* to be a horse?
 ## Ride or Die
 - We head off, enduring terrible music from some bard called Justin Timberlake. The creature mentions that Glasya was behind us looking pissed as we left. Shit.
 - Jaswyn drops her caltrops on the floor behind us in the hopes that Glasya lands on them and fucks her feet up. We tell Rex to floor it, but he doesn't want to use the soul coin we gave them to juice up the engine. Martyn climbs from the tray onto the roof and steals the coin from Rex, Helwyn grabs Rex by the neck and throws them out the car, Arran takes control of it and boosts it hard.
 - We are coming up to a MASSIVE wall, so Arran rolls a nat 20 and does a flawless right-hand turn! Unfortunately, Martyn is still on the roof. He fails to hold on in time, flying off and smacking into the wall (ouch). No-one in the car notices (but there's a lot of shit going down in our defence).
-- #factcheck Glasya throws a rock onto the F150 and it turns into an Erinys. She also smashes into the wall but catches herself safely.
+- Glasya throws a rock onto the F150 and it turns into an Erinys. She also smashes into the wall but catches herself safely.
 ## Road Rage
 - The Erinys is busy attacking Jaswyn and Helwyn starts moving out of the car to try and help, but notices Martyn is gone. Arran tries to swing the car around to go get him but accidentally flips it, sending Jaswyn and the Erinys flying off and smashing up the people inside.
 - Glasya charms Martyn, convincing him that she is his dead wife. She shows him that his friends are terrible people - running over kids, beating up a pregnant woman, etc. - and that we need to be taught the classic life lesson of "explode and eviscerate everyone in a mile radius". 
