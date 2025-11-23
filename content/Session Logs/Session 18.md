@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-11-23T22:53:35+13:00
+updated: 2025-11-23T22:58:16+13:00
 created: 2025-11-13T17:55:52+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -26,8 +26,8 @@ created: 2025-11-13T17:55:52+13:00
 - We all wake up, laying in beds in an unfamiliar room (including [[Jaswyn]] - guess she survived!) [[Vasili Von Holtz]] is there, and he explains that Jaswyn had suddenly appeared unconscious in the street a number of days ago, with the rest of us appearing the same way 12 days ago. Von Holtz brought us to the Wachterhaus (on his own somehow) and had [[Lady Fiona Wachter]]'s staff nurse and cleanse us during that time (although it sounded like he attended to Dirge *personally*).
 - When we ask about Mother, Von Holtz explains that the automaton did return with us, although they did not enjoy being referred to as "Mother" and doesn't act like Mother used to. They had taken it upon themselves to protect [[Knafgata]] from two undead attacks during our coma time (yay, go Mother!) Von Holtz informs us that, now that we are awake, that Lady Wachter would like to talk to us about a job opportunity. No rest for the wicked in this place, I guess.
 - Stepping outside, we run into a young woman staring blankly ahead. As we're trying to see if she will respond, a young man rushes up, introduces himself as [[Nicolai Wachter|Nicolai]] and apologises for his sister [[Stella Wachter|Stella]]'s awkwardness. Lady Wachter arrives and berates her son for not taking better care of Stella, before dismissing them (great mothering). We follow her down to a drawing room, where brandy and wine are offered to us. Arran takes advantage of the wine with Martyn's help (not canon, but Martyn's definitely taking free sips of those drinks along the way).
-## Soul-Searching #factcheck
-- Lady Wachter explains the situation: Three months prior, a boy called [[Victor]] was attempting to learn teleportation magic. Lady Wachter's daughter, Stella, offered to be his human test subject for the experiment. The two were attacked by a malicious spirit known as a 'gallows speaker' and the experiment went horribly wrong, with Stella's body being separated from her body and forced into the Ethereal Plane.
+## Soul-Searching
+- #factcheck Lady Wachter explains the situation: Three months prior, a boy called [[Victor]] was attempting to learn teleportation magic. Lady Wachter's daughter, Stella, offered to be his human test subject for the experiment. The two were attacked by a malicious spirit known as a 'gallows speaker' and the experiment went horribly wrong, with Stella's body being separated from her body and forced into the Ethereal Plane.
 - Stella was saved during the attack by a 'ghost boy' called [[Eramus Van Richten|Eramus]]. Victor somehow managed to find a spirit mirror and Eramus communicated with him via the mirror, informing him that there was a chance to bring Stella's soul back to her body.
 - Lady Wachter is aware of the spirit: she believes it to be a cursed creature that hunts her bloodline. A similar attack occurred years ago when she was a young woman, with the creature killing the rest of her family and Lady Wachter barely escaping with her life. On her return, she crafted a binding circle around Wachterhaus to keep the vengeful spirit out, as taught to her by her mentor [[Yrsa]] (Helwyn: wait, what?!)
 - Unfortunately, the same binding circle keeps Stella's soul outside and unable to be returned to her body. Her Ladyship recommends that we speak to Victor if we wish to find a lead in returning her daughter's soul safely. Helwyn asks her about Yrsa, who apparently vanished after sending Wachter on an errand some five years ago. The party discuss their knowledge of the Ethereal Plane, with both Jaswyn and Helwyn having read some books around it. They're no experts, so they plan to go track down this Victor kid for some more information.
