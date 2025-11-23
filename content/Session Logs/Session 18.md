@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 draft: true
-updated: 2025-11-22T13:52:19+13:00
+updated: 2025-11-23T13:54:37+13:00
 created: 2025-11-13T17:55:52+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -29,6 +29,9 @@ created: 2025-11-13T17:55:52+13:00
 - When we ask about Mother, Von Holtz explains that an automaton did return with us, although they did not enjoy being referred to as "Mother" and did not act like Mother used to. They had taken it upon themselves to protect the city from two undead attacks during our coma time.
 - Von Holtz informs us that, now that we are awake, that Lady Wachter would like to talk to us about a job opportunity. We step outside and run into a young woman staring blankly ahead. As we try to see if she will respond, a young man rushes up, introduces himself as Nicolai and apologises for his sister Stella's awkwardness. Lady Wachter arrives and berates her son for not taking better care of Stella, before dismissing them.
 - We follow Lady Wachter down to a drawing room, where brandy and wine are offered to us. Arran takes advantage of the wine with Martyn's help (not canon, but Martyn's definitely taking free sips of those drinks along the way).
+## Beat 3
+- Lady Wachter explains the situation: Three months prior, a boy called Victor was attempting to learn teleportation magic. Lady Wachter's daughter, Stella, offered to be his human test subject for the experiment. Something went wrong, with Stella's body being separated from her body and forced into the Ethereal Plane.
+- 
 # TL;DR
 - We try to kill Glasya, but are easily taken down by the archdevil. Desperate to save their friends, Mother sacrifices herself to destroy Glasya. We wake up from our comas in the Wachter house 12 days later, with much confusion as to what exactly happened.
 - Lady Fiona Wachter offers us a deal: Bring back the soul of her daughter, Stella, from the Ethereal Plane, with 1000 gold each upfront. We agree, but first go to find Lily, who has taken control of Mother's old body and is protecting the town. She informs us that Mother is forever gone, and agrees to work with us where she can.
