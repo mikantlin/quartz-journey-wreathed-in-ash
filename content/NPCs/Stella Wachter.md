@@ -8,8 +8,8 @@ current-location: "[[Knafgata]]"
 party-status: ally
 tags:
   - npc
-draft: true
-updated: 2025-11-22T14:01:05+13:00
+draft: false
+updated: 2025-11-23T22:49:01+13:00
 created: 2025-11-22T13:53:49+13:00
 ---
 
@@ -18,6 +18,7 @@ created: 2025-11-22T13:53:49+13:00
 	<img src="Stella (spirit form).png" alt="Stella's incorporeal spirit" />
 </Carousel>
 
-- [[Lady Fiona Wachter]]'s daughter
+- Daughter of [[Lady Fiona Wachter]]
+- Lover of [[Victor]]
 - Had her soul separated from her body and pushed into the Ethereal Plane when an experiment performed by [[Victor]] went wrong
-- Now had her soul safely returned to her body, thanks to us, Victor, Lady Wachter and [[Eramus]]
+- Now had her soul safely returned to her body, thanks to us, Victor, Lady Wachter and [[Eramus Van Richten]]

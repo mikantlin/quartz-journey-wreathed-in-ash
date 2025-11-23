@@ -7,10 +7,10 @@ aliases:
 species: Human
 current-location: "[[Knafgata]]"
 party-status: Ally
-draft: true
+draft: false
 tags:
   - npc
-updated: 2025-11-23T21:33:45+13:00
+updated: 2025-11-23T22:47:43+13:00
 created: 2025-11-23T21:31:48+13:00
 ---
 

@@ -6,10 +6,10 @@ aliases:
 species: Human
 current-location: "[[Knafgata]]"
 party-status: Ally
-draft: true
+draft: false
 tags:
   - npc
-updated: 2025-11-23T21:35:28+13:00
+updated: 2025-11-23T22:48:02+13:00
 created: 2025-11-23T21:34:35+13:00
 ---
 
@@ -18,3 +18,4 @@ created: 2025-11-23T21:34:35+13:00
 </Carousel>
 
 - Son of [[Lady Fiona Wachter|Lady Wachter]]
+- Brother of [[Stella Wachter]]

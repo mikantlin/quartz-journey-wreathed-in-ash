@@ -6,11 +6,11 @@ aliases:
 species: Human
 current-location: "[[Knafgata]]"
 party-status: Ally
-draft: true
+draft: false
 tags:
   - npc
   - deceased
-updated: 2025-11-22T14:04:01+13:00
+updated: 2025-11-23T22:49:20+13:00
 created: 2025-11-22T14:00:12+13:00
 ---
 
