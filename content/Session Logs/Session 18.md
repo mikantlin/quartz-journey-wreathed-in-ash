@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-11-23T22:50:44+13:00
+updated: 2025-11-23T22:53:35+13:00
 created: 2025-11-13T17:55:52+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -22,7 +22,7 @@ created: 2025-11-13T17:55:52+13:00
 - [[Helwyn]] is dying, but her soul's time in [[Gehenna]] transforms her, her body becoming infused with fiendishness. Her skin turns scorched bronze, infernal script tattoos wrap across her body and become scars, her nails and teeth become jagged and crescent horns erupt from her head (FINALLY). She gets back up and tries to fight [[Glasya]] again, but Glasya downs her (shit), before following suit with [[Dirge]] and [[M0-TH3R|Mother]] (SHIT).
 - Glasya turns on [[Arran]] and [[Martyn]], wiping out Arran's seeing-eye owl and leaving him blind as she approaches. Martyn points Arran's arm like a cannon and Arran lets off Magic Missiles straight at her, but she's still coming despite the hits (SHITSHITSHIT).
 - Glasya downs Arran and turns on Martyn. Mother, seeing their friends dying around them, makes a call and asks [[Lily]] for her help. As Martyn is dying, he sees Mother stand up behind Glasya, radiant light pouring out of her joints like she's made of pure light (a badass look for sure). The light keeps growing brighter until it's all-consuming, Glasya turning in horror...
-## Ghost in the Machine
+## Wakey Wakey
 - We all wake up, laying in beds in an unfamiliar room (including [[Jaswyn]] - guess she survived!) [[Vasili Von Holtz]] is there, and he explains that Jaswyn had suddenly appeared unconscious in the street a number of days ago, with the rest of us appearing the same way 12 days ago. Von Holtz brought us to the Wachterhaus (on his own somehow) and had [[Lady Fiona Wachter]]'s staff nurse and cleanse us during that time (although it sounded like he attended to Dirge *personally*).
 - When we ask about Mother, Von Holtz explains that the automaton did return with us, although they did not enjoy being referred to as "Mother" and doesn't act like Mother used to. They had taken it upon themselves to protect [[Knafgata]] from two undead attacks during our coma time (yay, go Mother!) Von Holtz informs us that, now that we are awake, that Lady Wachter would like to talk to us about a job opportunity. No rest for the wicked in this place, I guess.
 - Stepping outside, we run into a young woman staring blankly ahead. As we're trying to see if she will respond, a young man rushes up, introduces himself as [[Nicolai Wachter|Nicolai]] and apologises for his sister [[Stella Wachter|Stella]]'s awkwardness. Lady Wachter arrives and berates her son for not taking better care of Stella, before dismissing them (great mothering). We follow her down to a drawing room, where brandy and wine are offered to us. Arran takes advantage of the wine with Martyn's help (not canon, but Martyn's definitely taking free sips of those drinks along the way).
