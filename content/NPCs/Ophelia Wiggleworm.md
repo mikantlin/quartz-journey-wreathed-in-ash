@@ -1,23 +1,22 @@
 ---
-title: Morgantha Stormreaver
+title: Ophelia Wiggleworm
 description: Night hag selling dream pastries to people in Knafgata.
 aliases:
-  - Morgantha
-  - Marge
+  - Ophelia
 species: Hag
 current-location: Unknown
 party-status: Hostile
 draft: false
 tags:
   - npc
-updated: 2025-11-24T22:46:28+13:00
+updated: 2025-11-24T22:58:02+13:00
 created: 2025-11-23T22:34:57+13:00
 ---
-
 <Carousel>
-	<img src="Morgantha Stormreaver.png" alt="Morgantha Stormreaver (human form)" />
-	<img src="Morgantha Stormreaver (Hag Form).png" alt="Morgantha Stormreaver (hag form)" />
+	<img src="Ophelia Wiggleworm.png" alt="Ophelia Wiggleworm (human form)" />
+	<img src="Ophelia Wiggleworm (Hag Form).png" alt="Ophelia Wiggleworm (hag form)" />
 </Carousel>
 
-- Mother of [[Bella Sunbane]] and [[Ophelia Wriggleworm]]
+- Daughter of [[Morgantha Stormreaver]]
+- Sister of [[Bella Sunbane]]
 - Night hag selling 'dream pastries' to the townsfolk of [[Knafgata]] at the [[Old Bonegrinder Windmill]]
