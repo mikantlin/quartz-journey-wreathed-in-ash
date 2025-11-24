@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-11-21T23:31:36+13:00
+updated: 2025-11-24T23:01:10+13:00
 created: 2025-11-11T11:27:27+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -31,7 +31,7 @@ created: 2025-11-11T11:27:27+13:00
 - Baba Yaga will only give Helwyn's soul back in exchange for other parts of bodies. People start negotiating body parts, with eyes and hands being offered up. Helwyn HATES it.
 - As the seconds are almost up, Helwyn impulsively offers up the party dealing with Glasya. She's been a thorn in Baba Yaga's side, so she agrees to let us out of Gehenna if we bring her Glasya's heart. Easy peasy! Baba Yaga says that we will also need a weapon designed specifically for dealing with Glasya, and gives [[M0-TH3R|Mother]] the [[Scourge of Shadows]].
 - She lets us long rest in her lair, so we don't suffer from Gehenna's influence over us. When we wake up, we surprisingly feel refreshed. Baba Yaga tells us to head towards Glasya's fortress while keeping the desire of fighting Glasya in her mind, and that the weapon will bring her to us.
-- Arran negotiates for his curse to be dealt with and offers up his other(!) eye. He's got an owl familiar to do all his looking for him anyway! But Yaga can't remove it, only suppress it. She gives him some tea, keeping his curse at bay for 8 hours (better than nothing I guess). Arran's also told that it is Baba Lasagna (something like that?) who was the one to curse him. Off we go!
+- Arran negotiates for his curse to be dealt with and offers up his other(!) eye. He's got an owl familiar to do all his looking for him anyway! But Yaga can't remove it, only suppress it. She gives him some tea, keeping his curse at bay for 8 hours (better than nothing I guess). Arran's also told that it is [[Baba Lysaga]] that cursed him. Off we go!
 ## Eyes on the Prize
 - We head out and bump into Loftur, who offers to escort us back to the Material Plane. When we say we can't, he calls us all idiots for making a deal with the hag
 - He also negotiates with Martyn around a new eye in exchange for Martyn's bomb powers. They haggle and eventually agree to loan to each other for seven months, so Martyn's not blowing up any time soon (by himself anyway)
