@@ -10,7 +10,7 @@ players-missing:
 tags:
   - session
 draft: false
-updated: 2025-11-24T21:23:58+13:00
+updated: 2025-11-24T21:34:26+13:00
 created: 2025-11-13T17:55:52+13:00
 ---
 > [!info]- Previously On JWiA...
@@ -39,7 +39,7 @@ created: 2025-11-13T17:55:52+13:00
 ## ..And New Friends Found
 - As we're discussing these matters, we notice a sea-elf-looking woman watching us (to be expected, we're CRAZY-looking). We ask if she needs some help. She introduces herself as [[Siryn|Siryn Whitewater]] and tells us that she's a traveller in search of someone in Knafgata by the name of [[Drakken]]. She's looking for revenge (yay!) despite, uh, never really having fought before (ah). The name doesn't ring a bell with us, but maybe if she gives us a hand with the Stella job, Lady Wachter could help? She accepts (despite the fact that, again, this group looks and sounds insane) and we head back to her Ladyship to enlist her help.
 - Lady Wachter agrees to the plan and says that she will seek out this Drakken guy for Siryn in exchange. She reckons she can gather enough allies to help her build a big enough binding circle, but it'll take her a few hours to get her gang together. Meet her at the Eastern gate in 5 hours!
-- In the meantime, Helwyn puts Siryn through her paces to see what her fighting chops are like, and she shows real promise. Dirge goes to speak to [[Father Lucien]] went to Lucien to ask if he could help upgrade his Amulet of the Devout. Lucien says yes, but it'll need both of them for an hours-long prayer ritual (yawn). Lucien also suggests that he can put a word in for Dirge's promotion after the cleric makes a sizable donation to the church (in the true spirit of organised religion).
+- In the meantime, Helwyn puts Siryn through her paces to see what her fighting chops are like, and she shows real fighting promise! Dirge goes and asks [[Father Lucien]] if he could help upgrade Dirge's Amulet of the Devout. Lucien says yes, but it'll need both of them for an hours-long prayer ritual to get this thing going again. Lucien also suggests that he can put a word in for Dirge's promotion after the cleric makes a sizable donation to the church (classic organised religion!)
 - Not sure what the others did during this time - #factcheck?
 ## Let's Get This Bread
 - Once Lady Wachter and co are ready, we head off to the windmill. On the way, we're harassed by a crazy druid guy sitting in a treetop, making hooting sounds and yelling bad omens at us. Wachter sends him off, and tells us that he is a "child of [[Yesterhill]]", a group of druids who reside in a valley to the southwest. They're giving her a hard time because her family stood by [[Strahd]] due to a debt owed, when a man by the name of [[Leo Dilisnya]] attempted to assassinate him. They also don't like the fact that she is a daughter of [[Mother Night]], much like her mentor Yrsa (Helwyn: again, what?!)
